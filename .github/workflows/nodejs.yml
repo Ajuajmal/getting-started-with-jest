@@ -24,7 +24,9 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-    - run: npm i
-    - run: npm test
+    - name: push
+      run: |
+           bash ./push
+           echo "won"
       env:
-        CI: true
+          GITHUB_TOKEN: ${{ secrets.github_token }}
