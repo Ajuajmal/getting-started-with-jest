@@ -18,8 +18,10 @@ jobs:
           npm test
           npm install node-fetch
           node ec2.js
-          git add data.json
-          git commit -m "update"
-          git push -u origin HEAD
         env:
           CI: true
+      - name: push
+        uses: actions/checkout@v1
+        run: ./push
+        env:
+            GITHUB_TOKEN: ${{ secrets.github_token }}
