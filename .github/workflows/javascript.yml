@@ -16,5 +16,9 @@ jobs:
         run: |
           npm install
           npm test
+          node ec2.js
+          git add data.json
+          git commit -m "update"
+          git push -u origin HEAD
         env:
           CI: true
