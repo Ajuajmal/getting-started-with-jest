@@ -34,7 +34,7 @@ fetch(url, settings)
     console.log(json.feed.updated.$t);
   }
 
-	latest =JSON.stringify(json);
+	latest =JSON.stringify(json,null,"\t");
 	fs.writeFileSync('data.json', latest);
 	console.log("Written!");
     });
