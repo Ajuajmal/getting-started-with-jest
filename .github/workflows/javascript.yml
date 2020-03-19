@@ -15,12 +15,6 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: "12.x"
-      - name: npm install, and test
-        run: |
-          npm install node-fetch
-          node ec2.js
-        env:
-          CI: true
       - name: push
         run: |
            bash ./push
