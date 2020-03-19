@@ -12,7 +12,8 @@ cd "$GITHUB_WORKSPACE"
 git config user.name "$GITHUB_ACTOR"
 git config user.email "${GITHUB_ACTOR}@bots.github.com"
 
-git checkout master
+git checkout "$target_branch"
+git rebase "${remote_name}/${main_branch}"
 
 npm install node-fetch
 node ec2.js
@@ -24,7 +25,8 @@ if [ $? -eq 0 ]
 then
     set -e
     git commit -am "data updated on - $(date)"
-    git push - u origin master
+    git remote set-url "$remote_name" "$repo_uri" # includes access token
+    git push --force-with-lease "$remote_name" "$target_branch"
 else
     set -e
     echo "No changes since last run"
