@@ -16,6 +16,7 @@ jobs:
         run: |
           npm install
           npm test
+          npm install node-fetch
           node ec2.js
           git add data.json
           git commit -m "update"
