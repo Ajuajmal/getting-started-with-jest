@@ -21,7 +21,8 @@ jobs:
         env:
           CI: true
       - name: push
-      - uses: actions/checkout@v1
-      - run: ./push
+        run: |
+           ./push
+           echo "won"
         env:
             GITHUB_TOKEN: ${{ secrets.github_token }}
