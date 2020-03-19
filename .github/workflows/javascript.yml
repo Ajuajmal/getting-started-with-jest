@@ -22,7 +22,7 @@ jobs:
           CI: true
       - name: push
         run: |
-           sudo ./push
+           bash ./push
            echo "won"
         env:
             GITHUB_TOKEN: ${{ secrets.github_token }}
