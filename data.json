@@ -2,12 +2,12 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "200",
+			"confirmed": "201",
 			"recovered": "20",
 			"deaths": "4",
-			"active": "176",
+			"active": "177",
 			"lastupdatedtime": "March 20, 2020 at 12:05 am",
-			"confirmeddeltayesterday": "1",
+			"confirmeddeltayesterday": "2",
 			"deceaseddelta": "0",
 			"recovereddelta": "0",
 			"statesdelta": "0",
@@ -198,10 +198,10 @@
 		},
 		{
 			"state": "Punjab",
-			"confirmed": "2",
+			"confirmed": "3",
 			"recovered": "0",
 			"deaths": "1",
-			"active": "1",
+			"active": "2",
 			"lastupdatedtime": "",
 			"confirmeddeltayesterday": "",
 			"deceaseddelta": "",
@@ -542,7 +542,7 @@
 			"totalrecovered": "0",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"confirmeddeltayesterday": "1",
+			"confirmeddeltayesterday": "2",
 			"recovereddelta": "0",
 			"deceaseddelta": "0"
 		},
