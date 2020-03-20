@@ -2,12 +2,12 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "254",
+			"confirmed": "255",
 			"recovered": "23",
 			"deaths": "4",
-			"active": "227",
+			"active": "228",
 			"lastupdatedtime": "March 20, 2020 at 8:30 pm",
-			"confirmeddeltayesterday": "55",
+			"confirmeddeltayesterday": "56",
 			"deceaseddelta": "0",
 			"recovereddelta": "3",
 			"statesdelta": "0"
@@ -86,10 +86,10 @@
 		},
 		{
 			"state": "Telangana",
-			"confirmed": "17",
+			"confirmed": "18",
 			"recovered": "1",
 			"deaths": "0",
-			"active": "16",
+			"active": "17",
 			"lastupdatedtime": "",
 			"confirmeddeltayesterday": "",
 			"deceaseddelta": "",
@@ -466,7 +466,7 @@
 			"totalrecovered": "0",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"confirmeddeltayesterday": "55",
+			"confirmeddeltayesterday": "56",
 			"recovereddelta": "3",
 			"deceaseddelta": "0"
 		},
