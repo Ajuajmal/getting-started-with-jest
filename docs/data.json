@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "333",
+			"confirmed": "334",
 			"recovered": "23",
 			"deaths": "4",
-			"active": "306",
-			"lastupdatedtime": "March 21, 2020 at 9:15 pm"
+			"active": "307",
+			"lastupdatedtime": "March 21, 2020 at 11:30 am"
 		},
 		{
 			"state": "Maharashtra",
@@ -25,19 +25,19 @@
 			"lastupdatedtime": ""
 		},
 		{
+			"state": "Uttar Pradesh",
+			"confirmed": "28",
+			"recovered": "9",
+			"deaths": "0",
+			"active": "19",
+			"lastupdatedtime": ""
+		},
+		{
 			"state": "Delhi",
 			"confirmed": "27",
 			"recovered": "5",
 			"deaths": "1",
 			"active": "21",
-			"lastupdatedtime": ""
-		},
-		{
-			"state": "Uttar Pradesh",
-			"confirmed": "27",
-			"recovered": "9",
-			"deaths": "0",
-			"active": "18",
 			"lastupdatedtime": ""
 		},
 		{
@@ -73,19 +73,19 @@
 			"lastupdatedtime": ""
 		},
 		{
-			"state": "Ladakh",
-			"confirmed": "13",
-			"recovered": "0",
-			"deaths": "0",
-			"active": "13",
-			"lastupdatedtime": ""
-		},
-		{
 			"state": "Gujarat",
 			"confirmed": "14",
 			"recovered": "0",
 			"deaths": "0",
 			"active": "14",
+			"lastupdatedtime": ""
+		},
+		{
+			"state": "Ladakh",
+			"confirmed": "13",
+			"recovered": "0",
+			"deaths": "0",
+			"active": "13",
 			"lastupdatedtime": ""
 		},
 		{
@@ -97,7 +97,23 @@
 			"lastupdatedtime": ""
 		},
 		{
+			"state": "Tamil Nadu",
+			"confirmed": "6",
+			"recovered": "1",
+			"deaths": "0",
+			"active": "5",
+			"lastupdatedtime": ""
+		},
+		{
 			"state": "Chandigarh",
+			"confirmed": "5",
+			"recovered": "0",
+			"deaths": "0",
+			"active": "5",
+			"lastupdatedtime": ""
+		},
+		{
+			"state": "Andhra Pradesh",
 			"confirmed": "5",
 			"recovered": "0",
 			"deaths": "0",
@@ -121,11 +137,11 @@
 			"lastupdatedtime": ""
 		},
 		{
-			"state": "Tamil Nadu",
-			"confirmed": "6",
-			"recovered": "1",
+			"state": "West Bengal",
+			"confirmed": "4",
+			"recovered": "0",
 			"deaths": "0",
-			"active": "5",
+			"active": "4",
 			"lastupdatedtime": ""
 		},
 		{
@@ -134,22 +150,6 @@
 			"recovered": "0",
 			"deaths": "0",
 			"active": "3",
-			"lastupdatedtime": ""
-		},
-		{
-			"state": "Andhra Pradesh",
-			"confirmed": "5",
-			"recovered": "0",
-			"deaths": "0",
-			"active": "5",
-			"lastupdatedtime": ""
-		},
-		{
-			"state": "West Bengal",
-			"confirmed": "4",
-			"recovered": "0",
-			"deaths": "0",
-			"active": "4",
 			"lastupdatedtime": ""
 		},
 		{
@@ -767,11 +767,11 @@
 		},
 		{
 			"date": "21 March ",
-			"dailyconfirmed": "76",
-			"totalconfirmed": "334",
+			"dailyconfirmed": "",
+			"totalconfirmed": "",
 			"dailyrecovered": "",
 			"totalrecovered": "",
-			"dailydeceased": "0",
+			"dailydeceased": "",
 			"totaldeceased": ""
 		},
 		{
