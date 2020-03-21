@@ -2,10 +2,10 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "325",
+			"confirmed": "326",
 			"recovered": "23",
 			"deaths": "4",
-			"active": "298",
+			"active": "299",
 			"lastupdatedtime": "March 21, 2020 at 7:19 pm"
 		},
 		{
@@ -50,10 +50,10 @@
 		},
 		{
 			"state": "Haryana",
-			"confirmed": "20",
+			"confirmed": "21",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "20",
+			"active": "21",
 			"lastupdatedtime": ""
 		},
 		{
