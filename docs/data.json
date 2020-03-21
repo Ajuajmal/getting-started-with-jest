@@ -2,12 +2,12 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "298",
+			"confirmed": "308",
 			"recovered": "23",
 			"deaths": "4",
-			"active": "271",
+			"active": "281",
 			"lastupdatedtime": "March 21, 2020 at 2:06 pm",
-			"confirmeddeltayesterday": "40",
+			"confirmeddeltayesterday": "50",
 			"deceaseddelta": "0",
 			"recovereddelta": "0",
 			"statesdelta": "0"
@@ -122,10 +122,10 @@
 		},
 		{
 			"state": "Gujarat",
-			"confirmed": "13",
+			"confirmed": "23",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "13",
+			"active": "23",
 			"lastupdatedtime": "",
 			"confirmeddeltayesterday": "",
 			"deceaseddelta": "",
@@ -466,7 +466,7 @@
 			"totalrecovered": "0",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"confirmeddeltayesterday": "40",
+			"confirmeddeltayesterday": "50",
 			"recovereddelta": "0",
 			"deceaseddelta": "0"
 		},
