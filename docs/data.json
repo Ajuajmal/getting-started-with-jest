@@ -7,7 +7,7 @@
 			"deaths": "4",
 			"active": "238",
 			"lastupdatedtime": "March 21, 2020 at 9:00 am",
-			"confirmeddeltayesterday": "9",
+			"confirmeddeltayesterday": "-4",
 			"deceaseddelta": "0",
 			"recovereddelta": "0",
 			"statesdelta": "0"
@@ -466,7 +466,7 @@
 			"totalrecovered": "0",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"confirmeddeltayesterday": "9",
+			"confirmeddeltayesterday": "-4",
 			"recovereddelta": "0",
 			"deceaseddelta": "0"
 		},
@@ -1060,8 +1060,8 @@
 		},
 		{
 			"date": "20 March ",
-			"dailyconfirmed": "57",
-			"totalconfirmed": "256",
+			"dailyconfirmed": "59",
+			"totalconfirmed": "258",
 			"dailyrecovered": "3",
 			"totalrecovered": "23",
 			"dailydeceased": "0",
@@ -1072,12 +1072,12 @@
 		},
 		{
 			"date": "21 March ",
-			"dailyconfirmed": "",
-			"totalconfirmed": "",
+			"dailyconfirmed": "11",
+			"totalconfirmed": "269",
 			"dailyrecovered": "",
-			"totalrecovered": "",
-			"dailydeceased": "",
-			"totaldeceased": "",
+			"totalrecovered": "23",
+			"dailydeceased": "0",
+			"totaldeceased": "4",
 			"confirmeddeltayesterday": "",
 			"recovereddelta": "",
 			"deceaseddelta": ""
