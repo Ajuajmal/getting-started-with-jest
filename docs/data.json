@@ -2,10 +2,10 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "334",
+			"confirmed": "335",
 			"recovered": "23",
 			"deaths": "4",
-			"active": "307",
+			"active": "308",
 			"lastupdatedtime": "March 21, 2020 at 11:30 am"
 		},
 		{
@@ -194,10 +194,10 @@
 		},
 		{
 			"state": "Assam",
-			"confirmed": "0",
+			"confirmed": "1",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "0",
+			"active": "1",
 			"lastupdatedtime": ""
 		},
 		{
@@ -767,8 +767,8 @@
 		},
 		{
 			"date": "21 March ",
-			"dailyconfirmed": "76",
-			"totalconfirmed": "334",
+			"dailyconfirmed": "77",
+			"totalconfirmed": "335",
 			"dailyrecovered": "0",
 			"totalrecovered": "23",
 			"dailydeceased": "0",
