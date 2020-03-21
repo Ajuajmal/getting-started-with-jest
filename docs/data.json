@@ -2,12 +2,12 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "257",
+			"confirmed": "263",
 			"recovered": "23",
 			"deaths": "4",
-			"active": "230",
+			"active": "236",
 			"lastupdatedtime": "March 21, 2020 at 9:00 am",
-			"confirmeddeltayesterday": "1",
+			"confirmeddeltayesterday": "7",
 			"deceaseddelta": "0",
 			"recovereddelta": "0",
 			"statesdelta": "0"
@@ -50,10 +50,10 @@
 		},
 		{
 			"state": "Rajasthan",
-			"confirmed": "17",
+			"confirmed": "23",
 			"recovered": "3",
 			"deaths": "0",
-			"active": "14",
+			"active": "20",
 			"lastupdatedtime": "",
 			"confirmeddeltayesterday": "",
 			"deceaseddelta": "",
@@ -466,7 +466,7 @@
 			"totalrecovered": "0",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"confirmeddeltayesterday": "1",
+			"confirmeddeltayesterday": "7",
 			"recovereddelta": "0",
 			"deceaseddelta": "0"
 		},
