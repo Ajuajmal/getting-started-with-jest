@@ -2,12 +2,12 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "295",
+			"confirmed": "297",
 			"recovered": "23",
 			"deaths": "4",
-			"active": "268",
+			"active": "270",
 			"lastupdatedtime": "March 21, 2020 at 1:00 pm",
-			"confirmeddeltayesterday": "37",
+			"confirmeddeltayesterday": "39",
 			"deceaseddelta": "0",
 			"recovereddelta": "0",
 			"statesdelta": "0"
@@ -98,10 +98,10 @@
 		},
 		{
 			"state": "Karnataka",
-			"confirmed": "16",
+			"confirmed": "18",
 			"recovered": "1",
 			"deaths": "1",
-			"active": "14",
+			"active": "16",
 			"lastupdatedtime": "",
 			"confirmeddeltayesterday": "",
 			"deceaseddelta": "",
@@ -466,7 +466,7 @@
 			"totalrecovered": "0",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"confirmeddeltayesterday": "37",
+			"confirmeddeltayesterday": "39",
 			"recovereddelta": "0",
 			"deceaseddelta": "0"
 		},
