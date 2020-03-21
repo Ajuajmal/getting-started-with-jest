@@ -6,11 +6,7 @@
 			"recovered": "23",
 			"deaths": "4",
 			"active": "283",
-			"lastupdatedtime": "March 21, 2020 at 5:48 pm",
-			"confirmeddelta": "52",
-			"deceaseddelta": "0",
-			"recovereddelta": "0",
-			"statesdelta": "0"
+			"lastupdatedtime": "March 21, 2020 at 5:48 pm"
 		},
 		{
 			"state": "Maharashtra",
@@ -18,11 +14,7 @@
 			"recovered": "0",
 			"deaths": "1",
 			"active": "63",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		},
 		{
 			"state": "Kerala",
@@ -30,11 +22,7 @@
 			"recovered": "3",
 			"deaths": "0",
 			"active": "37",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		},
 		{
 			"state": "Delhi",
@@ -42,11 +30,7 @@
 			"recovered": "5",
 			"deaths": "1",
 			"active": "20",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		},
 		{
 			"state": "Uttar Pradesh",
@@ -54,11 +38,7 @@
 			"recovered": "9",
 			"deaths": "0",
 			"active": "17",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		},
 		{
 			"state": "Rajasthan",
@@ -66,11 +46,7 @@
 			"recovered": "3",
 			"deaths": "0",
 			"active": "20",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		},
 		{
 			"state": "Haryana",
@@ -78,11 +54,7 @@
 			"recovered": "0",
 			"deaths": "0",
 			"active": "20",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		},
 		{
 			"state": "Telangana",
@@ -90,11 +62,7 @@
 			"recovered": "1",
 			"deaths": "0",
 			"active": "20",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		},
 		{
 			"state": "Karnataka",
@@ -102,11 +70,7 @@
 			"recovered": "1",
 			"deaths": "1",
 			"active": "16",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		},
 		{
 			"state": "Ladakh",
@@ -114,11 +78,7 @@
 			"recovered": "0",
 			"deaths": "0",
 			"active": "13",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		},
 		{
 			"state": "Gujarat",
@@ -126,11 +86,7 @@
 			"recovered": "0",
 			"deaths": "0",
 			"active": "13",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		},
 		{
 			"state": "Punjab",
@@ -138,11 +94,7 @@
 			"recovered": "0",
 			"deaths": "1",
 			"active": "11",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		},
 		{
 			"state": "Chandigarh",
@@ -150,11 +102,7 @@
 			"recovered": "0",
 			"deaths": "0",
 			"active": "5",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		},
 		{
 			"state": "Jammu and Kashmir",
@@ -162,11 +110,7 @@
 			"recovered": "0",
 			"deaths": "0",
 			"active": "4",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		},
 		{
 			"state": "Madhya Pradesh",
@@ -174,11 +118,7 @@
 			"recovered": "0",
 			"deaths": "0",
 			"active": "4",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		},
 		{
 			"state": "Tamil Nadu",
@@ -186,11 +126,7 @@
 			"recovered": "1",
 			"deaths": "0",
 			"active": "5",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		},
 		{
 			"state": "Uttarakhand",
@@ -198,11 +134,7 @@
 			"recovered": "0",
 			"deaths": "0",
 			"active": "3",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		},
 		{
 			"state": "Andhra Pradesh",
@@ -210,11 +142,7 @@
 			"recovered": "0",
 			"deaths": "0",
 			"active": "3",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		},
 		{
 			"state": "West Bengal",
@@ -222,11 +150,7 @@
 			"recovered": "0",
 			"deaths": "0",
 			"active": "3",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		},
 		{
 			"state": "Odisha",
@@ -234,11 +158,7 @@
 			"recovered": "0",
 			"deaths": "0",
 			"active": "2",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		},
 		{
 			"state": "Himachal Pradesh",
@@ -246,11 +166,7 @@
 			"recovered": "0",
 			"deaths": "0",
 			"active": "2",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		},
 		{
 			"state": "Puducherry",
@@ -258,11 +174,7 @@
 			"recovered": "0",
 			"deaths": "0",
 			"active": "1",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		},
 		{
 			"state": "Chhattisgarh",
@@ -270,11 +182,7 @@
 			"recovered": "0",
 			"deaths": "0",
 			"active": "1",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		},
 		{
 			"state": "Andaman and Nicobar Islands",
@@ -282,11 +190,7 @@
 			"recovered": "0",
 			"deaths": "0",
 			"active": "0",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		},
 		{
 			"state": "Assam",
@@ -294,11 +198,7 @@
 			"recovered": "0",
 			"deaths": "0",
 			"active": "0",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		},
 		{
 			"state": "Bihar",
@@ -306,11 +206,7 @@
 			"recovered": "0",
 			"deaths": "0",
 			"active": "0",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		},
 		{
 			"state": "Meghalaya",
@@ -318,11 +214,7 @@
 			"recovered": "0",
 			"deaths": "0",
 			"active": "0",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		},
 		{
 			"state": "Tripura",
@@ -330,11 +222,7 @@
 			"recovered": "0",
 			"deaths": "0",
 			"active": "0",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		},
 		{
 			"state": "Goa",
@@ -342,11 +230,7 @@
 			"recovered": "0",
 			"deaths": "0",
 			"active": "0",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		},
 		{
 			"state": "Arunachal Pradesh",
@@ -354,11 +238,7 @@
 			"recovered": "0",
 			"deaths": "0",
 			"active": "0",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		},
 		{
 			"state": "Jharkhand",
@@ -366,11 +246,7 @@
 			"recovered": "0",
 			"deaths": "0",
 			"active": "0",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		},
 		{
 			"state": "Manipur",
@@ -378,11 +254,7 @@
 			"recovered": "0",
 			"deaths": "0",
 			"active": "0",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		},
 		{
 			"state": "Mizoram",
@@ -390,11 +262,7 @@
 			"recovered": "0",
 			"deaths": "0",
 			"active": "0",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		},
 		{
 			"state": "Nagaland",
@@ -402,11 +270,7 @@
 			"recovered": "0",
 			"deaths": "0",
 			"active": "0",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		},
 		{
 			"state": "Sikkim",
@@ -414,11 +278,7 @@
 			"recovered": "0",
 			"deaths": "0",
 			"active": "0",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		},
 		{
 			"state": "Dadra and Nagar Haveli",
@@ -426,11 +286,7 @@
 			"recovered": "0",
 			"deaths": "0",
 			"active": "0",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		},
 		{
 			"state": "Daman and Diu",
@@ -438,11 +294,7 @@
 			"recovered": "0",
 			"deaths": "0",
 			"active": "0",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		},
 		{
 			"state": "Lakshadweep",
@@ -450,11 +302,7 @@
 			"recovered": "0",
 			"deaths": "0",
 			"active": "0",
-			"lastupdatedtime": "",
-			"confirmeddelta": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
+			"lastupdatedtime": ""
 		}
 	],
 	"cases_time_series": [
@@ -465,10 +313,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "0",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "52",
-			"recovereddelta": "0",
-			"deceaseddelta": "0"
+			"totaldeceased": "0"
 		},
 		{
 			"date": "31 January ",
@@ -477,10 +322,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "0",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "01 February ",
@@ -489,10 +331,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "0",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "02 February ",
@@ -501,10 +340,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "0",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "03 February ",
@@ -513,10 +349,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "0",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "04 February ",
@@ -525,10 +358,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "0",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "05 February ",
@@ -537,10 +367,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "0",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "06 February ",
@@ -549,10 +376,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "0",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "07 February ",
@@ -561,10 +385,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "0",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "08 February ",
@@ -573,10 +394,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "0",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "09 February ",
@@ -585,10 +403,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "0",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "10 February ",
@@ -597,10 +412,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "0",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "11 February ",
@@ -609,10 +421,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "0",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "12 February ",
@@ -621,10 +430,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "0",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "13 February ",
@@ -633,10 +439,7 @@
 			"dailyrecovered": "1",
 			"totalrecovered": "1",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "14 February ",
@@ -645,10 +448,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "1",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "15 February ",
@@ -657,10 +457,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "1",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "16 February ",
@@ -669,10 +466,7 @@
 			"dailyrecovered": "1",
 			"totalrecovered": "2",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "17 February ",
@@ -681,10 +475,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "2",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "18 February ",
@@ -693,10 +484,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "2",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "19 February ",
@@ -705,10 +493,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "2",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "20 February ",
@@ -717,10 +502,7 @@
 			"dailyrecovered": "1",
 			"totalrecovered": "3",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "21 February ",
@@ -729,10 +511,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "3",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "22 February ",
@@ -741,10 +520,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "3",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "23 February ",
@@ -753,10 +529,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "3",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "24 February ",
@@ -765,10 +538,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "3",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "25 February ",
@@ -777,10 +547,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "3",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "26 February ",
@@ -789,10 +556,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "3",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "27 February ",
@@ -801,10 +565,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "3",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "28 February ",
@@ -813,10 +574,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "3",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "29 February ",
@@ -825,10 +583,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "3",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "01 March ",
@@ -837,10 +592,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "3",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "02 March ",
@@ -849,10 +601,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "3",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "03 March ",
@@ -861,10 +610,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "3",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "04 March ",
@@ -873,10 +619,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "3",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "05 March ",
@@ -885,10 +628,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "3",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "06 March ",
@@ -897,10 +637,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "3",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "07 March ",
@@ -909,10 +646,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "3",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "08 March ",
@@ -921,10 +655,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "3",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "09 March ",
@@ -933,10 +664,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "3",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "10 March ",
@@ -945,10 +673,7 @@
 			"dailyrecovered": "1",
 			"totalrecovered": "4",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "11 March ",
@@ -957,10 +682,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "4",
 			"dailydeceased": "0",
-			"totaldeceased": "0",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "0"
 		},
 		{
 			"date": "12 March ",
@@ -969,10 +691,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "4",
 			"dailydeceased": "1",
-			"totaldeceased": "1",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "1"
 		},
 		{
 			"date": "13 March ",
@@ -981,10 +700,7 @@
 			"dailyrecovered": "6",
 			"totalrecovered": "10",
 			"dailydeceased": "0",
-			"totaldeceased": "1",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "1"
 		},
 		{
 			"date": "14 March ",
@@ -993,10 +709,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "10",
 			"dailydeceased": "1",
-			"totaldeceased": "2",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "2"
 		},
 		{
 			"date": "15 March ",
@@ -1005,10 +718,7 @@
 			"dailyrecovered": "3",
 			"totalrecovered": "13",
 			"dailydeceased": "0",
-			"totaldeceased": "2",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "2"
 		},
 		{
 			"date": "16 March ",
@@ -1017,10 +727,7 @@
 			"dailyrecovered": "1",
 			"totalrecovered": "14",
 			"dailydeceased": "0",
-			"totaldeceased": "2",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "2"
 		},
 		{
 			"date": "17 March ",
@@ -1029,10 +736,7 @@
 			"dailyrecovered": "1",
 			"totalrecovered": "15",
 			"dailydeceased": "1",
-			"totaldeceased": "3",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "3"
 		},
 		{
 			"date": "18 March ",
@@ -1041,10 +745,7 @@
 			"dailyrecovered": "0",
 			"totalrecovered": "15",
 			"dailydeceased": "0",
-			"totaldeceased": "3",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "3"
 		},
 		{
 			"date": "19 March ",
@@ -1053,10 +754,7 @@
 			"dailyrecovered": "5",
 			"totalrecovered": "20",
 			"dailydeceased": "1",
-			"totaldeceased": "4",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "4"
 		},
 		{
 			"date": "20 March ",
@@ -1065,10 +763,7 @@
 			"dailyrecovered": "3",
 			"totalrecovered": "23",
 			"dailydeceased": "0",
-			"totaldeceased": "4",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": "4"
 		},
 		{
 			"date": "21 March ",
@@ -1077,10 +772,7 @@
 			"dailyrecovered": "",
 			"totalrecovered": "",
 			"dailydeceased": "",
-			"totaldeceased": "",
-			"confirmeddelta": "",
-			"recovereddelta": "",
-			"deceaseddelta": ""
+			"totaldeceased": ""
 		}
 	]
 }
