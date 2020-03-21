@@ -767,12 +767,12 @@
 		},
 		{
 			"date": "21 March ",
-			"dailyconfirmed": "77",
-			"totalconfirmed": "335",
-			"dailyrecovered": "0",
-			"totalrecovered": "23",
-			"dailydeceased": "0",
-			"totaldeceased": "4"
+			"dailyconfirmed": "",
+			"totalconfirmed": "",
+			"dailyrecovered": "",
+			"totalrecovered": "",
+			"dailydeceased": "",
+			"totaldeceased": ""
 		},
 		{
 			"date": "22 March ",
