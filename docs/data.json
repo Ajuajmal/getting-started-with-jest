@@ -2,10 +2,10 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "394",
+			"confirmed": "400",
 			"recovered": "23",
 			"deaths": "7",
-			"active": "364",
+			"active": "370",
 			"lastupdatedtime": "March 22, 2020 at 7:09 pm"
 		},
 		{
@@ -114,10 +114,10 @@
 		},
 		{
 			"state": "Andhra Pradesh",
-			"confirmed": "5",
+			"confirmed": "11",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "5",
+			"active": "11",
 			"lastupdatedtime": ""
 		},
 		{
