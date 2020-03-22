@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "354",
+			"confirmed": "360",
 			"recovered": "23",
 			"deaths": "6",
-			"active": "325",
-			"lastupdatedtime": "March 22, 2020 at 2:06 pm"
+			"active": "331",
+			"lastupdatedtime": "March 22, 2020 at 2:08 pm"
 		},
 		{
 			"state": "Maharashtra",
@@ -90,10 +90,10 @@
 		},
 		{
 			"state": "Punjab",
-			"confirmed": "13",
+			"confirmed": "19",
 			"recovered": "0",
 			"deaths": "1",
-			"active": "12",
+			"active": "18",
 			"lastupdatedtime": ""
 		},
 		{
