@@ -106,10 +106,10 @@
 		},
 		{
 			"state": "Chandigarh",
-			"confirmed": "5",
+			"confirmed": "6",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "5",
+			"active": "6",
 			"lastupdatedtime": ""
 		},
 		{
@@ -194,10 +194,10 @@
 		},
 		{
 			"state": "Assam",
-			"confirmed": "1",
+			"confirmed": "0",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "1",
+			"active": "0",
 			"lastupdatedtime": ""
 		},
 		{
@@ -767,8 +767,8 @@
 		},
 		{
 			"date": "21 March ",
-			"dailyconfirmed": "77",
-			"totalconfirmed": "335",
+			"dailyconfirmed": "76",
+			"totalconfirmed": "334",
 			"dailyrecovered": "0",
 			"totalrecovered": "23",
 			"dailydeceased": "0",
