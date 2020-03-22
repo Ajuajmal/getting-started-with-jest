@@ -6,7 +6,7 @@
 			"recovered": "23",
 			"deaths": "6",
 			"active": "321",
-			"lastupdatedtime": "March 22, 2020 at 1:12 pm"
+			"lastupdatedtime": "March 22, 2020 at 1:51 pm"
 		},
 		{
 			"state": "Maharashtra",
@@ -49,17 +49,17 @@
 			"lastupdatedtime": ""
 		},
 		{
-			"state": "Haryana",
-			"confirmed": "21",
-			"recovered": "0",
+			"state": "Telangana",
+			"confirmed": "22",
+			"recovered": "1",
 			"deaths": "0",
 			"active": "21",
 			"lastupdatedtime": ""
 		},
 		{
-			"state": "Telangana",
-			"confirmed": "22",
-			"recovered": "1",
+			"state": "Haryana",
+			"confirmed": "21",
+			"recovered": "0",
 			"deaths": "0",
 			"active": "21",
 			"lastupdatedtime": ""
@@ -169,6 +169,14 @@
 			"lastupdatedtime": ""
 		},
 		{
+			"state": "Bihar",
+			"confirmed": "2",
+			"recovered": "0",
+			"deaths": "1",
+			"active": "1",
+			"lastupdatedtime": ""
+		},
+		{
 			"state": "Puducherry",
 			"confirmed": "1",
 			"recovered": "0",
@@ -198,14 +206,6 @@
 			"recovered": "0",
 			"deaths": "0",
 			"active": "0",
-			"lastupdatedtime": ""
-		},
-		{
-			"state": "Bihar",
-			"confirmed": "2",
-			"recovered": "0",
-			"deaths": "1",
-			"active": "1",
 			"lastupdatedtime": ""
 		},
 		{
