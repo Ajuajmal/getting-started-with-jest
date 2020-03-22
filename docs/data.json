@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "349",
+			"confirmed": "350",
 			"recovered": "23",
 			"deaths": "6",
-			"active": "320",
-			"lastupdatedtime": "March 22, 2020 at 12:14 pm"
+			"active": "321",
+			"lastupdatedtime": "March 22, 2020 at 1:12 pm"
 		},
 		{
 			"state": "Maharashtra",
@@ -58,10 +58,10 @@
 		},
 		{
 			"state": "Telangana",
-			"confirmed": "21",
+			"confirmed": "22",
 			"recovered": "1",
 			"deaths": "0",
-			"active": "20",
+			"active": "21",
 			"lastupdatedtime": ""
 		},
 		{
