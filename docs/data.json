@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "486",
+			"confirmed": "489",
 			"recovered": "25",
-			"deaths": "8",
-			"active": "453",
-			"lastupdatedtime": "March 23, 2020 at 7:03 pm"
+			"deaths": "9",
+			"active": "455",
+			"lastupdatedtime": "March 23, 2020 at 8:13 pm"
 		},
 		{
 			"state": "Maharashtra",
@@ -74,10 +74,10 @@
 		},
 		{
 			"state": "Punjab",
-			"confirmed": "21",
+			"confirmed": "23",
 			"recovered": "0",
 			"deaths": "1",
-			"active": "20",
+			"active": "22",
 			"lastupdatedtime": ""
 		},
 		{
@@ -162,9 +162,9 @@
 		},
 		{
 			"state": "Himachal Pradesh",
-			"confirmed": "2",
+			"confirmed": "3",
 			"recovered": "0",
-			"deaths": "0",
+			"deaths": "1",
 			"active": "2",
 			"lastupdatedtime": ""
 		},
