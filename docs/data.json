@@ -33,6 +33,14 @@
 			"lastupdatedtime": ""
 		},
 		{
+			"state": "Rajasthan",
+			"confirmed": "29",
+			"recovered": "3",
+			"deaths": "0",
+			"active": "26",
+			"lastupdatedtime": ""
+		},
+		{
 			"state": "Delhi",
 			"confirmed": "27",
 			"recovered": "5",
@@ -54,14 +62,6 @@
 			"recovered": "1",
 			"deaths": "1",
 			"active": "24",
-			"lastupdatedtime": ""
-		},
-		{
-			"state": "Rajasthan",
-			"confirmed": "29",
-			"recovered": "3",
-			"deaths": "0",
-			"active": "26",
 			"lastupdatedtime": ""
 		},
 		{
