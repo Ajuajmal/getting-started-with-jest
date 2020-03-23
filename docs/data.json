@@ -524,8 +524,8 @@
 		},
 		{
 			"date": "23 February ",
-			"dailyconfirmed": "0",
-			"totalconfirmed": "3",
+			"dailyconfirmed": "14",
+			"totalconfirmed": "17",
 			"dailyrecovered": "0",
 			"totalrecovered": "3",
 			"dailydeceased": "0",
@@ -534,7 +534,7 @@
 		{
 			"date": "24 February ",
 			"dailyconfirmed": "0",
-			"totalconfirmed": "3",
+			"totalconfirmed": "17",
 			"dailyrecovered": "0",
 			"totalrecovered": "3",
 			"dailydeceased": "0",
@@ -543,7 +543,7 @@
 		{
 			"date": "25 February ",
 			"dailyconfirmed": "0",
-			"totalconfirmed": "3",
+			"totalconfirmed": "17",
 			"dailyrecovered": "0",
 			"totalrecovered": "3",
 			"dailydeceased": "0",
@@ -552,7 +552,7 @@
 		{
 			"date": "26 February ",
 			"dailyconfirmed": "0",
-			"totalconfirmed": "3",
+			"totalconfirmed": "17",
 			"dailyrecovered": "0",
 			"totalrecovered": "3",
 			"dailydeceased": "0",
@@ -561,7 +561,7 @@
 		{
 			"date": "27 February ",
 			"dailyconfirmed": "0",
-			"totalconfirmed": "3",
+			"totalconfirmed": "17",
 			"dailyrecovered": "0",
 			"totalrecovered": "3",
 			"dailydeceased": "0",
@@ -570,7 +570,7 @@
 		{
 			"date": "28 February ",
 			"dailyconfirmed": "0",
-			"totalconfirmed": "3",
+			"totalconfirmed": "17",
 			"dailyrecovered": "0",
 			"totalrecovered": "3",
 			"dailydeceased": "0",
@@ -579,7 +579,7 @@
 		{
 			"date": "29 February ",
 			"dailyconfirmed": "0",
-			"totalconfirmed": "3",
+			"totalconfirmed": "17",
 			"dailyrecovered": "0",
 			"totalrecovered": "3",
 			"dailydeceased": "0",
@@ -588,7 +588,7 @@
 		{
 			"date": "01 March ",
 			"dailyconfirmed": "0",
-			"totalconfirmed": "3",
+			"totalconfirmed": "17",
 			"dailyrecovered": "0",
 			"totalrecovered": "3",
 			"dailydeceased": "0",
@@ -597,7 +597,7 @@
 		{
 			"date": "02 March ",
 			"dailyconfirmed": "2",
-			"totalconfirmed": "5",
+			"totalconfirmed": "19",
 			"dailyrecovered": "0",
 			"totalrecovered": "3",
 			"dailydeceased": "0",
@@ -606,7 +606,7 @@
 		{
 			"date": "03 March ",
 			"dailyconfirmed": "1",
-			"totalconfirmed": "6",
+			"totalconfirmed": "20",
 			"dailyrecovered": "0",
 			"totalrecovered": "3",
 			"dailydeceased": "0",
@@ -615,7 +615,7 @@
 		{
 			"date": "04 March ",
 			"dailyconfirmed": "22",
-			"totalconfirmed": "28",
+			"totalconfirmed": "42",
 			"dailyrecovered": "0",
 			"totalrecovered": "3",
 			"dailydeceased": "0",
@@ -624,7 +624,7 @@
 		{
 			"date": "05 March ",
 			"dailyconfirmed": "2",
-			"totalconfirmed": "30",
+			"totalconfirmed": "44",
 			"dailyrecovered": "0",
 			"totalrecovered": "3",
 			"dailydeceased": "0",
@@ -633,7 +633,7 @@
 		{
 			"date": "06 March ",
 			"dailyconfirmed": "1",
-			"totalconfirmed": "31",
+			"totalconfirmed": "45",
 			"dailyrecovered": "0",
 			"totalrecovered": "3",
 			"dailydeceased": "0",
@@ -642,7 +642,7 @@
 		{
 			"date": "07 March ",
 			"dailyconfirmed": "3",
-			"totalconfirmed": "34",
+			"totalconfirmed": "48",
 			"dailyrecovered": "0",
 			"totalrecovered": "3",
 			"dailydeceased": "0",
@@ -651,7 +651,7 @@
 		{
 			"date": "08 March ",
 			"dailyconfirmed": "5",
-			"totalconfirmed": "39",
+			"totalconfirmed": "53",
 			"dailyrecovered": "0",
 			"totalrecovered": "3",
 			"dailydeceased": "0",
@@ -660,7 +660,7 @@
 		{
 			"date": "09 March ",
 			"dailyconfirmed": "9",
-			"totalconfirmed": "48",
+			"totalconfirmed": "62",
 			"dailyrecovered": "0",
 			"totalrecovered": "3",
 			"dailydeceased": "0",
@@ -669,7 +669,7 @@
 		{
 			"date": "10 March ",
 			"dailyconfirmed": "15",
-			"totalconfirmed": "63",
+			"totalconfirmed": "77",
 			"dailyrecovered": "1",
 			"totalrecovered": "4",
 			"dailydeceased": "0",
@@ -678,7 +678,7 @@
 		{
 			"date": "11 March ",
 			"dailyconfirmed": "7",
-			"totalconfirmed": "70",
+			"totalconfirmed": "84",
 			"dailyrecovered": "0",
 			"totalrecovered": "4",
 			"dailydeceased": "0",
@@ -687,7 +687,7 @@
 		{
 			"date": "12 March ",
 			"dailyconfirmed": "12",
-			"totalconfirmed": "82",
+			"totalconfirmed": "96",
 			"dailyrecovered": "0",
 			"totalrecovered": "4",
 			"dailydeceased": "1",
@@ -696,7 +696,7 @@
 		{
 			"date": "13 March ",
 			"dailyconfirmed": "9",
-			"totalconfirmed": "91",
+			"totalconfirmed": "105",
 			"dailyrecovered": "6",
 			"totalrecovered": "10",
 			"dailydeceased": "0",
@@ -705,7 +705,7 @@
 		{
 			"date": "14 March ",
 			"dailyconfirmed": "16",
-			"totalconfirmed": "107",
+			"totalconfirmed": "121",
 			"dailyrecovered": "0",
 			"totalrecovered": "10",
 			"dailydeceased": "1",
@@ -714,7 +714,7 @@
 		{
 			"date": "15 March ",
 			"dailyconfirmed": "6",
-			"totalconfirmed": "113",
+			"totalconfirmed": "127",
 			"dailyrecovered": "3",
 			"totalrecovered": "13",
 			"dailydeceased": "0",
@@ -723,7 +723,7 @@
 		{
 			"date": "16 March ",
 			"dailyconfirmed": "14",
-			"totalconfirmed": "127",
+			"totalconfirmed": "141",
 			"dailyrecovered": "1",
 			"totalrecovered": "14",
 			"dailydeceased": "0",
@@ -732,7 +732,7 @@
 		{
 			"date": "17 March ",
 			"dailyconfirmed": "19",
-			"totalconfirmed": "146",
+			"totalconfirmed": "160",
 			"dailyrecovered": "1",
 			"totalrecovered": "15",
 			"dailydeceased": "1",
@@ -741,7 +741,7 @@
 		{
 			"date": "18 March ",
 			"dailyconfirmed": "25",
-			"totalconfirmed": "171",
+			"totalconfirmed": "185",
 			"dailyrecovered": "0",
 			"totalrecovered": "15",
 			"dailydeceased": "0",
@@ -750,7 +750,7 @@
 		{
 			"date": "19 March ",
 			"dailyconfirmed": "28",
-			"totalconfirmed": "199",
+			"totalconfirmed": "213",
 			"dailyrecovered": "5",
 			"totalrecovered": "20",
 			"dailydeceased": "1",
@@ -759,7 +759,7 @@
 		{
 			"date": "20 March ",
 			"dailyconfirmed": "59",
-			"totalconfirmed": "258",
+			"totalconfirmed": "272",
 			"dailyrecovered": "3",
 			"totalrecovered": "23",
 			"dailydeceased": "0",
@@ -768,7 +768,7 @@
 		{
 			"date": "21 March ",
 			"dailyconfirmed": "76",
-			"totalconfirmed": "334",
+			"totalconfirmed": "348",
 			"dailyrecovered": "0",
 			"totalrecovered": "23",
 			"dailydeceased": "0",
@@ -776,7 +776,7 @@
 		},
 		{
 			"date": "22 March ",
-			"dailyconfirmed": "82",
+			"dailyconfirmed": "68",
 			"totalconfirmed": "416",
 			"dailyrecovered": "0",
 			"totalrecovered": "23",
