@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "440",
+			"confirmed": "442",
 			"recovered": "23",
 			"deaths": "8",
-			"active": "409",
-			"lastupdatedtime": "March 23, 2020 at 5:09 pm"
+			"active": "411",
+			"lastupdatedtime": "March 23, 2020 at 6:14 pm"
 		},
 		{
 			"state": "Maharashtra",
@@ -82,10 +82,10 @@
 		},
 		{
 			"state": "Gujarat",
-			"confirmed": "29",
+			"confirmed": "30",
 			"recovered": "0",
 			"deaths": "1",
-			"active": "28",
+			"active": "29",
 			"lastupdatedtime": ""
 		},
 		{
@@ -146,10 +146,10 @@
 		},
 		{
 			"state": "Uttarakhand",
-			"confirmed": "3",
+			"confirmed": "4",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "3",
+			"active": "4",
 			"lastupdatedtime": ""
 		},
 		{
