@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "489",
+			"confirmed": "492",
 			"recovered": "25",
 			"deaths": "9",
-			"active": "455",
-			"lastupdatedtime": "March 23, 2020 at 8:13 pm"
+			"active": "458",
+			"lastupdatedtime": "March 23, 2020 at 9:04 pm"
 		},
 		{
 			"state": "Maharashtra",
@@ -22,30 +22,6 @@
 			"recovered": "4",
 			"deaths": "0",
 			"active": "91",
-			"lastupdatedtime": ""
-		},
-		{
-			"state": "Uttar Pradesh",
-			"confirmed": "32",
-			"recovered": "9",
-			"deaths": "0",
-			"active": "23",
-			"lastupdatedtime": ""
-		},
-		{
-			"state": "Rajasthan",
-			"confirmed": "29",
-			"recovered": "3",
-			"deaths": "0",
-			"active": "26",
-			"lastupdatedtime": ""
-		},
-		{
-			"state": "Delhi",
-			"confirmed": "30",
-			"recovered": "5",
-			"deaths": "1",
-			"active": "24",
 			"lastupdatedtime": ""
 		},
 		{
@@ -65,11 +41,35 @@
 			"lastupdatedtime": ""
 		},
 		{
-			"state": "Haryana",
-			"confirmed": "22",
-			"recovered": "0",
+			"state": "Uttar Pradesh",
+			"confirmed": "32",
+			"recovered": "9",
 			"deaths": "0",
-			"active": "22",
+			"active": "23",
+			"lastupdatedtime": ""
+		},
+		{
+			"state": "Delhi",
+			"confirmed": "30",
+			"recovered": "5",
+			"deaths": "1",
+			"active": "24",
+			"lastupdatedtime": ""
+		},
+		{
+			"state": "Gujarat",
+			"confirmed": "30",
+			"recovered": "0",
+			"deaths": "1",
+			"active": "29",
+			"lastupdatedtime": ""
+		},
+		{
+			"state": "Rajasthan",
+			"confirmed": "32",
+			"recovered": "3",
+			"deaths": "0",
+			"active": "29",
 			"lastupdatedtime": ""
 		},
 		{
@@ -81,11 +81,11 @@
 			"lastupdatedtime": ""
 		},
 		{
-			"state": "Gujarat",
-			"confirmed": "30",
+			"state": "Haryana",
+			"confirmed": "22",
 			"recovered": "0",
-			"deaths": "1",
-			"active": "29",
+			"deaths": "0",
+			"active": "22",
 			"lastupdatedtime": ""
 		},
 		{
@@ -153,18 +153,18 @@
 			"lastupdatedtime": ""
 		},
 		{
-			"state": "Odisha",
-			"confirmed": "2",
-			"recovered": "0",
-			"deaths": "0",
-			"active": "2",
-			"lastupdatedtime": ""
-		},
-		{
 			"state": "Himachal Pradesh",
 			"confirmed": "3",
 			"recovered": "0",
 			"deaths": "1",
+			"active": "2",
+			"lastupdatedtime": ""
+		},
+		{
+			"state": "Odisha",
+			"confirmed": "2",
+			"recovered": "0",
+			"deaths": "0",
 			"active": "2",
 			"lastupdatedtime": ""
 		},
