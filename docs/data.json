@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "505",
+			"confirmed": "506",
 			"recovered": "35",
 			"deaths": "9",
-			"active": "461",
-			"lastupdatedtime": "March 24, 2020 at 8:08 am"
+			"active": "462",
+			"lastupdatedtime": "March 24, 2020 at 9:17 am"
 		},
 		{
 			"state": "Maharashtra",
@@ -250,10 +250,10 @@
 		},
 		{
 			"state": "Manipur",
-			"confirmed": "0",
+			"confirmed": "1",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "0",
+			"active": "1",
 			"lastupdatedtime": ""
 		},
 		{
