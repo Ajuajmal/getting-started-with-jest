@@ -42,10 +42,10 @@
 		},
 		{
 			"state": "Uttar Pradesh",
-			"confirmed": "34",
+			"confirmed": "35",
 			"recovered": "11",
 			"deaths": "0",
-			"active": "23",
+			"active": "24",
 			"lastupdatedtime": ""
 		},
 		{
@@ -66,10 +66,10 @@
 		},
 		{
 			"state": "Delhi",
-			"confirmed": "32",
+			"confirmed": "31",
 			"recovered": "6",
 			"deaths": "1",
-			"active": "25",
+			"active": "24",
 			"lastupdatedtime": ""
 		},
 		{
