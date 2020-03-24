@@ -4,8 +4,8 @@
 			"state": "Total",
 			"confirmed": "566",
 			"recovered": "40",
-			"deaths": "11",
-			"active": "515",
+			"deaths": "10",
+			"active": "516",
 			"lastupdatedtime": "March 24, 2020 at 10:07 pm"
 		},
 		{
@@ -20,8 +20,8 @@
 			"state": "Maharashtra",
 			"confirmed": "107",
 			"recovered": "0",
-			"deaths": "3",
-			"active": "104",
+			"deaths": "2",
+			"active": "105",
 			"lastupdatedtime": ""
 		},
 		{
@@ -49,19 +49,19 @@
 			"lastupdatedtime": ""
 		},
 		{
-			"state": "Rajasthan",
-			"confirmed": "32",
-			"recovered": "3",
-			"deaths": "0",
-			"active": "29",
-			"lastupdatedtime": ""
-		},
-		{
 			"state": "Gujarat",
 			"confirmed": "33",
 			"recovered": "0",
 			"deaths": "1",
 			"active": "32",
+			"lastupdatedtime": ""
+		},
+		{
+			"state": "Rajasthan",
+			"confirmed": "32",
+			"recovered": "3",
+			"deaths": "0",
+			"active": "29",
 			"lastupdatedtime": ""
 		},
 		{
@@ -73,19 +73,19 @@
 			"lastupdatedtime": ""
 		},
 		{
-			"state": "Punjab",
-			"confirmed": "29",
-			"recovered": "0",
-			"deaths": "1",
-			"active": "28",
-			"lastupdatedtime": ""
-		},
-		{
 			"state": "Haryana",
 			"confirmed": "30",
 			"recovered": "11",
 			"deaths": "0",
 			"active": "19",
+			"lastupdatedtime": ""
+		},
+		{
+			"state": "Punjab",
+			"confirmed": "29",
+			"recovered": "0",
+			"deaths": "1",
+			"active": "28",
 			"lastupdatedtime": ""
 		},
 		{
