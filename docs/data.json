@@ -2,10 +2,10 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "510",
-			"recovered": "35",
+			"confirmed": "517",
+			"recovered": "37",
 			"deaths": "9",
-			"active": "466",
+			"active": "471",
 			"lastupdatedtime": "March 24, 2020 at 10:12 am"
 		},
 		{
@@ -19,9 +19,9 @@
 		{
 			"state": "Kerala",
 			"confirmed": "95",
-			"recovered": "3",
+			"recovered": "4",
 			"deaths": "0",
-			"active": "92",
+			"active": "91",
 			"lastupdatedtime": ""
 		},
 		{
@@ -34,10 +34,10 @@
 		},
 		{
 			"state": "Karnataka",
-			"confirmed": "33",
+			"confirmed": "37",
 			"recovered": "2",
 			"deaths": "1",
-			"active": "30",
+			"active": "34",
 			"lastupdatedtime": ""
 		},
 		{
@@ -50,8 +50,8 @@
 		},
 		{
 			"state": "Delhi",
-			"confirmed": "30",
-			"recovered": "5",
+			"confirmed": "31",
+			"recovered": "6",
 			"deaths": "1",
 			"active": "24",
 			"lastupdatedtime": ""
@@ -66,10 +66,10 @@
 		},
 		{
 			"state": "Rajasthan",
-			"confirmed": "32",
+			"confirmed": "33",
 			"recovered": "3",
 			"deaths": "0",
-			"active": "29",
+			"active": "30",
 			"lastupdatedtime": ""
 		},
 		{
@@ -122,10 +122,10 @@
 		},
 		{
 			"state": "Madhya Pradesh",
-			"confirmed": "6",
+			"confirmed": "7",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "6",
+			"active": "7",
 			"lastupdatedtime": ""
 		},
 		{
