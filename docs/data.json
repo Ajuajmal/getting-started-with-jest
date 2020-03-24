@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "517",
+			"confirmed": "519",
 			"recovered": "37",
 			"deaths": "9",
-			"active": "471",
-			"lastupdatedtime": "March 24, 2020 at 10:13 am"
+			"active": "473",
+			"lastupdatedtime": "March 24, 2020 at 10:16 am"
 		},
 		{
 			"state": "Maharashtra",
@@ -18,18 +18,10 @@
 		},
 		{
 			"state": "Kerala",
-			"confirmed": "95",
+			"confirmed": "97",
 			"recovered": "4",
 			"deaths": "0",
-			"active": "91",
-			"lastupdatedtime": ""
-		},
-		{
-			"state": "Telangana",
-			"confirmed": "33",
-			"recovered": "1",
-			"deaths": "0",
-			"active": "32",
+			"active": "93",
 			"lastupdatedtime": ""
 		},
 		{
@@ -49,6 +41,22 @@
 			"lastupdatedtime": ""
 		},
 		{
+			"state": "Telangana",
+			"confirmed": "33",
+			"recovered": "1",
+			"deaths": "0",
+			"active": "32",
+			"lastupdatedtime": ""
+		},
+		{
+			"state": "Rajasthan",
+			"confirmed": "33",
+			"recovered": "3",
+			"deaths": "0",
+			"active": "30",
+			"lastupdatedtime": ""
+		},
+		{
 			"state": "Delhi",
 			"confirmed": "31",
 			"recovered": "6",
@@ -65,11 +73,11 @@
 			"lastupdatedtime": ""
 		},
 		{
-			"state": "Rajasthan",
-			"confirmed": "33",
-			"recovered": "3",
+			"state": "Haryana",
+			"confirmed": "28",
+			"recovered": "11",
 			"deaths": "0",
-			"active": "30",
+			"active": "17",
 			"lastupdatedtime": ""
 		},
 		{
@@ -78,14 +86,6 @@
 			"recovered": "0",
 			"deaths": "1",
 			"active": "22",
-			"lastupdatedtime": ""
-		},
-		{
-			"state": "Haryana",
-			"confirmed": "28",
-			"recovered": "11",
-			"deaths": "0",
-			"active": "17",
 			"lastupdatedtime": ""
 		},
 		{
@@ -161,18 +161,18 @@
 			"lastupdatedtime": ""
 		},
 		{
-			"state": "Odisha",
-			"confirmed": "2",
-			"recovered": "0",
-			"deaths": "0",
-			"active": "2",
-			"lastupdatedtime": ""
-		},
-		{
 			"state": "Bihar",
 			"confirmed": "3",
 			"recovered": "0",
 			"deaths": "1",
+			"active": "2",
+			"lastupdatedtime": ""
+		},
+		{
+			"state": "Odisha",
+			"confirmed": "2",
+			"recovered": "0",
+			"deaths": "0",
 			"active": "2",
 			"lastupdatedtime": ""
 		},
@@ -186,6 +186,14 @@
 		},
 		{
 			"state": "Chhattisgarh",
+			"confirmed": "1",
+			"recovered": "0",
+			"deaths": "0",
+			"active": "1",
+			"lastupdatedtime": ""
+		},
+		{
+			"state": "Manipur",
 			"confirmed": "1",
 			"recovered": "0",
 			"deaths": "0",
@@ -246,14 +254,6 @@
 			"recovered": "0",
 			"deaths": "0",
 			"active": "0",
-			"lastupdatedtime": ""
-		},
-		{
-			"state": "Manipur",
-			"confirmed": "1",
-			"recovered": "0",
-			"deaths": "0",
-			"active": "1",
 			"lastupdatedtime": ""
 		},
 		{
