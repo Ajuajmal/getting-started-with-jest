@@ -794,10 +794,10 @@
 		},
 		{
 			"date": "24 March ",
-			"dailyconfirmed": "",
-			"totalconfirmed": "",
-			"dailyrecovered": "",
-			"totalrecovered": "",
+			"dailyconfirmed": "61",
+			"totalconfirmed": "566",
+			"dailyrecovered": "15",
+			"totalrecovered": "40",
 			"dailydeceased": "",
 			"totaldeceased": ""
 		}
