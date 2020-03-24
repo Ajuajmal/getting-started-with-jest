@@ -2,18 +2,18 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "508",
+			"confirmed": "510",
 			"recovered": "35",
 			"deaths": "9",
-			"active": "464",
-			"lastupdatedtime": "March 24, 2020 at 9:17 am"
+			"active": "466",
+			"lastupdatedtime": "March 24, 2020 at 10:12 am"
 		},
 		{
 			"state": "Maharashtra",
-			"confirmed": "99",
+			"confirmed": "101",
 			"recovered": "0",
 			"deaths": "2",
-			"active": "97",
+			"active": "99",
 			"lastupdatedtime": ""
 		},
 		{
