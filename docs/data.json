@@ -800,6 +800,15 @@
 			"totalrecovered": "40",
 			"dailydeceased": "1",
 			"totaldeceased": "10"
+		},
+		{
+			"date": "25 March ",
+			"dailyconfirmed": "",
+			"totalconfirmed": "",
+			"dailyrecovered": "",
+			"totalrecovered": "",
+			"dailydeceased": "",
+			"totaldeceased": ""
 		}
 	]
 }
