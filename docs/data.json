@@ -798,8 +798,8 @@
 			"totalconfirmed": "566",
 			"dailyrecovered": "15",
 			"totalrecovered": "40",
-			"dailydeceased": "",
-			"totaldeceased": ""
+			"dailydeceased": "1",
+			"totaldeceased": "10"
 		}
 	]
 }
