@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "567",
+			"confirmed": "569",
 			"recovered": "40",
 			"deaths": "10",
-			"active": "517",
-			"lastupdatedtime": "March 25, 2020 at 4:04 am"
+			"active": "519",
+			"lastupdatedtime": "March 25, 2020 at 5:19 am"
 		},
 		{
 			"state": "Kerala",
@@ -50,10 +50,10 @@
 		},
 		{
 			"state": "Gujarat",
-			"confirmed": "34",
+			"confirmed": "36",
 			"recovered": "0",
 			"deaths": "1",
-			"active": "33",
+			"active": "35",
 			"lastupdatedtime": ""
 		},
 		{
@@ -794,8 +794,8 @@
 		},
 		{
 			"date": "24 March ",
-			"dailyconfirmed": "62",
-			"totalconfirmed": "567",
+			"dailyconfirmed": "64",
+			"totalconfirmed": "569",
 			"dailyrecovered": "15",
 			"totalrecovered": "40",
 			"dailydeceased": "1",
