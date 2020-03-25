@@ -41,19 +41,19 @@
 			"lastupdatedtime": ""
 		},
 		{
-			"state": "Uttar Pradesh",
-			"confirmed": "35",
-			"recovered": "11",
-			"deaths": "0",
-			"active": "24",
-			"lastupdatedtime": ""
-		},
-		{
 			"state": "Gujarat",
 			"confirmed": "36",
 			"recovered": "0",
 			"deaths": "1",
 			"active": "35",
+			"lastupdatedtime": ""
+		},
+		{
+			"state": "Uttar Pradesh",
+			"confirmed": "35",
+			"recovered": "11",
+			"deaths": "0",
+			"active": "24",
 			"lastupdatedtime": ""
 		},
 		{
