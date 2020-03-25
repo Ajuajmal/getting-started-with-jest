@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "586",
+			"confirmed": "587",
 			"recovered": "40",
 			"deaths": "10",
-			"active": "536",
-			"lastupdatedtime": "March 25, 2020 at 11:17 am"
+			"active": "537",
+			"lastupdatedtime": "March 25, 2020 at 11:19 am"
 		},
 		{
 			"state": "Kerala",
@@ -258,10 +258,10 @@
 		},
 		{
 			"state": "Mizoram",
-			"confirmed": "0",
+			"confirmed": "1",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "0",
+			"active": "1",
 			"lastupdatedtime": ""
 		},
 		{
