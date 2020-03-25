@@ -805,10 +805,10 @@
 			"date": "25 March ",
 			"dailyconfirmed": "82",
 			"totalconfirmed": "653",
-			"dailyrecovered": "",
-			"totalrecovered": "",
-			"dailydeceased": "",
-			"totaldeceased": ""
+			"dailyrecovered": "3",
+			"totalrecovered": "43",
+			"dailydeceased": "2",
+			"totaldeceased": "12"
 		},
 		{
 			"date": "26 March ",
