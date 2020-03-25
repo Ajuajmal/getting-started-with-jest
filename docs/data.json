@@ -3,10 +3,10 @@
 		{
 			"state": "Total",
 			"confirmed": "642",
-			"recovered": "40",
+			"recovered": "43",
 			"deaths": "11",
-			"active": "591",
-			"lastupdatedtime": "March 25, 2020 at 7:09 pm"
+			"active": "588",
+			"lastupdatedtime": "March 25, 2020 at 8:03 pm"
 		},
 		{
 			"state": "Kerala",
@@ -19,9 +19,9 @@
 		{
 			"state": "Maharashtra",
 			"confirmed": "122",
-			"recovered": "0",
+			"recovered": "1",
 			"deaths": "2",
-			"active": "120",
+			"active": "119",
 			"lastupdatedtime": ""
 		},
 		{
@@ -115,9 +115,9 @@
 		{
 			"state": "Andhra Pradesh",
 			"confirmed": "8",
-			"recovered": "0",
+			"recovered": "1",
 			"deaths": "0",
-			"active": "8",
+			"active": "7",
 			"lastupdatedtime": ""
 		},
 		{
@@ -139,9 +139,9 @@
 		{
 			"state": "Jammu and Kashmir",
 			"confirmed": "11",
-			"recovered": "0",
+			"recovered": "1",
 			"deaths": "0",
-			"active": "11",
+			"active": "10",
 			"lastupdatedtime": ""
 		},
 		{
