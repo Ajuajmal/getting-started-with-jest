@@ -2,10 +2,10 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "647",
+			"confirmed": "649",
 			"recovered": "43",
 			"deaths": "11",
-			"active": "593",
+			"active": "595",
 			"lastupdatedtime": "March 25, 2020 at 9:00 pm"
 		},
 		{
@@ -58,10 +58,10 @@
 		},
 		{
 			"state": "Rajasthan",
-			"confirmed": "36",
+			"confirmed": "38",
 			"recovered": "3",
 			"deaths": "0",
-			"active": "33",
+			"active": "35",
 			"lastupdatedtime": ""
 		},
 		{
