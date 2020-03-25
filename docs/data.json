@@ -4,8 +4,8 @@
 			"state": "Total",
 			"confirmed": "653",
 			"recovered": "43",
-			"deaths": "11",
-			"active": "599",
+			"deaths": "12",
+			"active": "598",
 			"lastupdatedtime": "March 25, 2020 at 9:00 pm"
 		},
 		{
@@ -44,8 +44,8 @@
 			"state": "Gujarat",
 			"confirmed": "38",
 			"recovered": "0",
-			"deaths": "1",
-			"active": "37",
+			"deaths": "2",
+			"active": "36",
 			"lastupdatedtime": ""
 		},
 		{
@@ -803,6 +803,15 @@
 		},
 		{
 			"date": "25 March ",
+			"dailyconfirmed": "82",
+			"totalconfirmed": "653",
+			"dailyrecovered": "",
+			"totalrecovered": "",
+			"dailydeceased": "",
+			"totaldeceased": ""
+		},
+		{
+			"date": "26 March ",
 			"dailyconfirmed": "",
 			"totalconfirmed": "",
 			"dailyrecovered": "",
