@@ -2,10 +2,10 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "656",
+			"confirmed": "657",
 			"recovered": "43",
 			"deaths": "12",
-			"active": "601",
+			"active": "602",
 			"lastupdatedtime": "March 25, 2020 at 9:00 pm"
 		},
 		{
@@ -234,10 +234,10 @@
 		},
 		{
 			"state": "Goa",
-			"confirmed": "2",
+			"confirmed": "3",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "2",
+			"active": "3",
 			"lastupdatedtime": ""
 		},
 		{
