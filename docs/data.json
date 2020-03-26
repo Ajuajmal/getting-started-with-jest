@@ -10,10 +10,10 @@
 		},
 		{
 			"state": "Maharashtra",
-			"confirmed": "123",
+			"confirmed": "124",
 			"recovered": "1",
 			"deaths": "2",
-			"active": "120",
+			"active": "121",
 			"lastupdatedtime": ""
 		},
 		{
@@ -98,10 +98,10 @@
 		},
 		{
 			"state": "Madhya Pradesh",
-			"confirmed": "21",
+			"confirmed": "20",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "21",
+			"active": "20",
 			"lastupdatedtime": ""
 		},
 		{
