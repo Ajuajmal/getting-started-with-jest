@@ -2,10 +2,10 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "665",
+			"confirmed": "668",
 			"recovered": "43",
 			"deaths": "12",
-			"active": "610",
+			"active": "613",
 			"lastupdatedtime": "26/03/2020 07:19:29"
 		},
 		{
@@ -170,10 +170,10 @@
 		},
 		{
 			"state": "Chhattisgarh",
-			"confirmed": "3",
+			"confirmed": "6",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "3",
+			"active": "6",
 			"lastupdatedtime": ""
 		},
 		{
