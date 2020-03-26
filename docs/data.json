@@ -9,19 +9,19 @@
 			"lastupdatedtime": "March 25, 2020 at 9:00 pm"
 		},
 		{
-			"state": "Kerala",
-			"confirmed": "118",
-			"recovered": "4",
-			"deaths": "0",
-			"active": "114",
-			"lastupdatedtime": ""
-		},
-		{
 			"state": "Maharashtra",
 			"confirmed": "122",
 			"recovered": "1",
 			"deaths": "2",
 			"active": "119",
+			"lastupdatedtime": ""
+		},
+		{
+			"state": "Kerala",
+			"confirmed": "118",
+			"recovered": "4",
+			"deaths": "0",
+			"active": "114",
 			"lastupdatedtime": ""
 		},
 		{
@@ -97,43 +97,19 @@
 			"lastupdatedtime": ""
 		},
 		{
-			"state": "Ladakh",
-			"confirmed": "13",
-			"recovered": "0",
-			"deaths": "0",
-			"active": "13",
-			"lastupdatedtime": ""
-		},
-		{
-			"state": "West Bengal",
-			"confirmed": "9",
-			"recovered": "0",
-			"deaths": "1",
-			"active": "8",
-			"lastupdatedtime": ""
-		},
-		{
-			"state": "Andhra Pradesh",
-			"confirmed": "10",
-			"recovered": "1",
-			"deaths": "0",
-			"active": "9",
-			"lastupdatedtime": ""
-		},
-		{
-			"state": "Chandigarh",
-			"confirmed": "7",
-			"recovered": "0",
-			"deaths": "0",
-			"active": "7",
-			"lastupdatedtime": ""
-		},
-		{
 			"state": "Madhya Pradesh",
 			"confirmed": "15",
 			"recovered": "0",
 			"deaths": "1",
 			"active": "14",
+			"lastupdatedtime": ""
+		},
+		{
+			"state": "Ladakh",
+			"confirmed": "13",
+			"recovered": "0",
+			"deaths": "0",
+			"active": "13",
 			"lastupdatedtime": ""
 		},
 		{
@@ -145,11 +121,43 @@
 			"lastupdatedtime": ""
 		},
 		{
+			"state": "Andhra Pradesh",
+			"confirmed": "10",
+			"recovered": "1",
+			"deaths": "0",
+			"active": "9",
+			"lastupdatedtime": ""
+		},
+		{
+			"state": "West Bengal",
+			"confirmed": "9",
+			"recovered": "0",
+			"deaths": "1",
+			"active": "8",
+			"lastupdatedtime": ""
+		},
+		{
+			"state": "Chandigarh",
+			"confirmed": "7",
+			"recovered": "0",
+			"deaths": "0",
+			"active": "7",
+			"lastupdatedtime": ""
+		},
+		{
 			"state": "Uttarakhand",
 			"confirmed": "5",
 			"recovered": "0",
 			"deaths": "0",
 			"active": "5",
+			"lastupdatedtime": ""
+		},
+		{
+			"state": "Bihar",
+			"confirmed": "4",
+			"recovered": "0",
+			"deaths": "1",
+			"active": "3",
 			"lastupdatedtime": ""
 		},
 		{
@@ -161,10 +169,18 @@
 			"lastupdatedtime": ""
 		},
 		{
-			"state": "Bihar",
-			"confirmed": "4",
+			"state": "Chhattisgarh",
+			"confirmed": "3",
 			"recovered": "0",
-			"deaths": "1",
+			"deaths": "0",
+			"active": "3",
+			"lastupdatedtime": ""
+		},
+		{
+			"state": "Goa",
+			"confirmed": "3",
+			"recovered": "0",
+			"deaths": "0",
 			"active": "3",
 			"lastupdatedtime": ""
 		},
@@ -185,15 +201,15 @@
 			"lastupdatedtime": ""
 		},
 		{
-			"state": "Chhattisgarh",
-			"confirmed": "3",
+			"state": "Manipur",
+			"confirmed": "1",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "3",
+			"active": "1",
 			"lastupdatedtime": ""
 		},
 		{
-			"state": "Manipur",
+			"state": "Mizoram",
 			"confirmed": "1",
 			"recovered": "0",
 			"deaths": "0",
@@ -233,14 +249,6 @@
 			"lastupdatedtime": ""
 		},
 		{
-			"state": "Goa",
-			"confirmed": "3",
-			"recovered": "0",
-			"deaths": "0",
-			"active": "3",
-			"lastupdatedtime": ""
-		},
-		{
 			"state": "Arunachal Pradesh",
 			"confirmed": "0",
 			"recovered": "0",
@@ -254,14 +262,6 @@
 			"recovered": "0",
 			"deaths": "0",
 			"active": "0",
-			"lastupdatedtime": ""
-		},
-		{
-			"state": "Mizoram",
-			"confirmed": "1",
-			"recovered": "0",
-			"deaths": "0",
-			"active": "1",
 			"lastupdatedtime": ""
 		},
 		{
