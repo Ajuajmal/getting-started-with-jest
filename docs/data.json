@@ -2,10 +2,10 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "718",
+			"confirmed": "719",
 			"recovered": "45",
 			"deaths": "13",
-			"active": "660",
+			"active": "661",
 			"lastupdatedtime": "26/03/2020 19:26:24"
 		},
 		{
@@ -146,10 +146,10 @@
 		},
 		{
 			"state": "Bihar",
-			"confirmed": "6",
+			"confirmed": "7",
 			"recovered": "0",
 			"deaths": "1",
-			"active": "5",
+			"active": "6",
 			"lastupdatedtime": "26/03/2020 13:14:25"
 		},
 		{
