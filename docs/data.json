@@ -9,20 +9,20 @@
 			"lastupdatedtime": "26/03/2020 19:26:24"
 		},
 		{
-			"state": "Maharashtra",
-			"confirmed": "125",
-			"recovered": "1",
-			"deaths": "2",
-			"active": "122",
-			"lastupdatedtime": "26/03/2020 15:20:23"
-		},
-		{
 			"state": "Kerala",
 			"confirmed": "137",
 			"recovered": "6",
 			"deaths": "0",
 			"active": "131",
 			"lastupdatedtime": "26/03/2020 18:16:24"
+		},
+		{
+			"state": "Maharashtra",
+			"confirmed": "125",
+			"recovered": "1",
+			"deaths": "2",
+			"active": "122",
+			"lastupdatedtime": "26/03/2020 15:20:23"
 		},
 		{
 			"state": "Karnataka",
@@ -73,20 +73,20 @@
 			"lastupdatedtime": "26/03/2020 12:21:24"
 		},
 		{
-			"state": "Haryana",
-			"confirmed": "32",
-			"recovered": "11",
-			"deaths": "0",
-			"active": "21",
-			"lastupdatedtime": "26/03/2020 16:05:24"
-		},
-		{
 			"state": "Punjab",
 			"confirmed": "33",
 			"recovered": "0",
 			"deaths": "1",
 			"active": "32",
 			"lastupdatedtime": "26/03/2020 14:53:25"
+		},
+		{
+			"state": "Haryana",
+			"confirmed": "32",
+			"recovered": "11",
+			"deaths": "0",
+			"active": "21",
+			"lastupdatedtime": "26/03/2020 16:05:24"
 		},
 		{
 			"state": "Tamil Nadu",
@@ -145,14 +145,6 @@
 			"lastupdatedtime": "26/03/2020 07:19:29"
 		},
 		{
-			"state": "Uttarakhand",
-			"confirmed": "5",
-			"recovered": "0",
-			"deaths": "0",
-			"active": "5",
-			"lastupdatedtime": "26/03/2020 07:19:29"
-		},
-		{
 			"state": "Bihar",
 			"confirmed": "6",
 			"recovered": "0",
@@ -161,19 +153,27 @@
 			"lastupdatedtime": "26/03/2020 13:14:25"
 		},
 		{
-			"state": "Himachal Pradesh",
-			"confirmed": "3",
-			"recovered": "0",
-			"deaths": "1",
-			"active": "2",
-			"lastupdatedtime": "26/03/2020 07:19:29"
-		},
-		{
 			"state": "Chhattisgarh",
 			"confirmed": "6",
 			"recovered": "0",
 			"deaths": "0",
 			"active": "6",
+			"lastupdatedtime": "26/03/2020 07:19:29"
+		},
+		{
+			"state": "Uttarakhand",
+			"confirmed": "5",
+			"recovered": "0",
+			"deaths": "0",
+			"active": "5",
+			"lastupdatedtime": "26/03/2020 07:19:29"
+		},
+		{
+			"state": "Himachal Pradesh",
+			"confirmed": "3",
+			"recovered": "0",
+			"deaths": "1",
+			"active": "2",
 			"lastupdatedtime": "26/03/2020 07:19:29"
 		},
 		{
