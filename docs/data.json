@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "745",
+			"confirmed": "746",
 			"recovered": "67",
-			"deaths": "16",
+			"deaths": "17",
 			"active": "662",
-			"lastupdatedtime": "27/03/2020 11:47:24"
+			"lastupdatedtime": "27/03/2020 11:52:23"
 		},
 		{
 			"state": "Kerala",
@@ -20,9 +20,9 @@
 			"state": "Maharashtra",
 			"confirmed": "135",
 			"recovered": "15",
-			"deaths": "3",
-			"active": "117",
-			"lastupdatedtime": "27/03/2020 11:47:28"
+			"deaths": "4",
+			"active": "116",
+			"lastupdatedtime": "27/03/2020 11:52:24"
 		},
 		{
 			"state": "Karnataka",
@@ -110,7 +110,7 @@
 			"recovered": "3",
 			"deaths": "0",
 			"active": "10",
-			"lastupdatedtime": "27/03/2020 11:47:29"
+			"lastupdatedtime": "27/03/2020 11:52:25"
 		},
 		{
 			"state": "Jammu and Kashmir",
@@ -122,11 +122,11 @@
 		},
 		{
 			"state": "Andhra Pradesh",
-			"confirmed": "11",
+			"confirmed": "12",
 			"recovered": "1",
 			"deaths": "0",
-			"active": "10",
-			"lastupdatedtime": "26/03/2020 21:18:48"
+			"active": "11",
+			"lastupdatedtime": "27/03/2020 11:52:25"
 		},
 		{
 			"state": "West Bengal",
