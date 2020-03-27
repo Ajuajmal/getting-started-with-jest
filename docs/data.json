@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "863",
+			"confirmed": "869",
 			"recovered": "74",
 			"deaths": "19",
-			"active": "770",
-			"lastupdatedtime": "27/03/2020 20:42:24"
+			"active": "776",
+			"lastupdatedtime": "27/03/2020 20:57:24"
 		},
 		{
 			"state": "Kerala",
@@ -154,11 +154,11 @@
 		},
 		{
 			"state": "Chhattisgarh",
-			"confirmed": "6",
+			"confirmed": "12",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "6",
-			"lastupdatedtime": "26/03/2020 07:19:29"
+			"active": "12",
+			"lastupdatedtime": "27/03/2020 20:57:26"
 		},
 		{
 			"state": "Uttarakhand",
