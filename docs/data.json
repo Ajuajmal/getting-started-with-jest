@@ -6,14 +6,14 @@
 			"recovered": "74",
 			"deaths": "19",
 			"active": "794",
-			"lastupdatedtime": "27/03/2020 22:37:24"
+			"lastupdatedtime": "27/03/2020 22:42:24"
 		},
 		{
 			"state": "Kerala",
-			"confirmed": "177",
+			"confirmed": "176",
 			"recovered": "11",
 			"deaths": "0",
-			"active": "166",
+			"active": "165",
 			"lastupdatedtime": "27/03/2020 18:07:24"
 		},
 		{
@@ -58,11 +58,11 @@
 		},
 		{
 			"state": "Gujarat",
-			"confirmed": "46",
+			"confirmed": "47",
 			"recovered": "0",
 			"deaths": "3",
-			"active": "43",
-			"lastupdatedtime": "27/03/2020 09:52:24"
+			"active": "44",
+			"lastupdatedtime": "27/03/2020 22:42:24"
 		},
 		{
 			"state": "Delhi",
