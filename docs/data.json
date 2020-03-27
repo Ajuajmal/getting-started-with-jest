@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "723",
+			"confirmed": "724",
 			"recovered": "50",
 			"deaths": "16",
-			"active": "657",
-			"lastupdatedtime": "26/03/2020 22:57:24"
+			"active": "658",
+			"lastupdatedtime": "27/03/2020 09:32:23"
 		},
 		{
 			"state": "Kerala",
@@ -34,11 +34,11 @@
 		},
 		{
 			"state": "Telangana",
-			"confirmed": "44",
+			"confirmed": "45",
 			"recovered": "1",
 			"deaths": "0",
-			"active": "43",
-			"lastupdatedtime": "26/03/2020 14:25:24"
+			"active": "44",
+			"lastupdatedtime": "27/03/2020 09:32:24"
 		},
 		{
 			"state": "Gujarat",
@@ -114,11 +114,11 @@
 		},
 		{
 			"state": "Jammu and Kashmir",
-			"confirmed": "15",
+			"confirmed": "14",
 			"recovered": "1",
 			"deaths": "1",
-			"active": "13",
-			"lastupdatedtime": "26/03/2020 22:57:25"
+			"active": "12",
+			"lastupdatedtime": "27/03/2020 09:32:25"
 		},
 		{
 			"state": "Andhra Pradesh",
@@ -218,11 +218,11 @@
 		},
 		{
 			"state": "Andaman and Nicobar Islands",
-			"confirmed": "1",
+			"confirmed": "2",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "1",
-			"lastupdatedtime": "26/03/2020 13:41:25"
+			"active": "2",
+			"lastupdatedtime": "27/03/2020 09:32:26"
 		},
 		{
 			"state": "Assam",
@@ -812,8 +812,8 @@
 		},
 		{
 			"date": "26 March ",
-			"dailyconfirmed": "65",
-			"totalconfirmed": "722",
+			"dailyconfirmed": "66",
+			"totalconfirmed": "723",
 			"dailyrecovered": "7",
 			"totalrecovered": "50",
 			"dailydeceased": "5",
