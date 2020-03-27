@@ -3,10 +3,10 @@
 		{
 			"state": "Total",
 			"confirmed": "885",
-			"recovered": "74",
+			"recovered": "75",
 			"deaths": "19",
-			"active": "792",
-			"lastupdatedtime": "27/03/2020 22:52:24"
+			"active": "791",
+			"lastupdatedtime": "27/03/2020 23:32:24"
 		},
 		{
 			"state": "Kerala",
@@ -171,10 +171,10 @@
 		{
 			"state": "Himachal Pradesh",
 			"confirmed": "3",
-			"recovered": "0",
+			"recovered": "1",
 			"deaths": "1",
-			"active": "2",
-			"lastupdatedtime": "26/03/2020 07:19:29"
+			"active": "1",
+			"lastupdatedtime": "27/03/2020 23:32:25"
 		},
 		{
 			"state": "Goa",
