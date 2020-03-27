@@ -821,12 +821,12 @@
 		},
 		{
 			"date": "27 March ",
-			"dailyconfirmed": "",
-			"totalconfirmed": "",
-			"dailyrecovered": "",
-			"totalrecovered": "",
-			"dailydeceased": "",
-			"totaldeceased": ""
+			"dailyconfirmed": "151",
+			"totalconfirmed": "886",
+			"dailyrecovered": "25",
+			"totalrecovered": "75",
+			"dailydeceased": "3",
+			"totaldeceased": "19"
 		}
 	]
 }
