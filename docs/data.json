@@ -3,9 +3,9 @@
 		{
 			"state": "Total",
 			"confirmed": "886",
-			"recovered": "75",
+			"recovered": "76",
 			"deaths": "19",
-			"active": "792",
+			"active": "791",
 			"lastupdatedtime": "28/03/2020 00:07:25"
 		},
 		{
@@ -83,9 +83,9 @@
 		{
 			"state": "Tamil Nadu",
 			"confirmed": "38",
-			"recovered": "1",
+			"recovered": "2",
 			"deaths": "1",
-			"active": "36",
+			"active": "35",
 			"lastupdatedtime": "27/03/2020 21:39:22"
 		},
 		{
