@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "928",
-			"recovered": "83",
+			"confirmed": "929",
+			"recovered": "84",
 			"deaths": "20",
 			"active": "825",
-			"lastupdatedtime": "28/03/2020 14:47:24"
+			"lastupdatedtime": "28/03/2020 14:57:24"
 		},
 		{
 			"state": "Kerala",
@@ -66,10 +66,10 @@
 		},
 		{
 			"state": "Delhi",
-			"confirmed": "40",
+			"confirmed": "41",
 			"recovered": "6",
 			"deaths": "1",
-			"active": "33",
+			"active": "34",
 			"lastupdatedtime": "26/03/2020 12:21:24"
 		},
 		{
@@ -110,7 +110,7 @@
 			"recovered": "1",
 			"deaths": "1",
 			"active": "25",
-			"lastupdatedtime": "27/03/2020 17:12:25"
+			"lastupdatedtime": "28/03/2020 14:57:25"
 		},
 		{
 			"state": "Ladakh",
@@ -163,10 +163,10 @@
 		{
 			"state": "Uttarakhand",
 			"confirmed": "6",
-			"recovered": "0",
+			"recovered": "1",
 			"deaths": "0",
-			"active": "6",
-			"lastupdatedtime": "26/03/2020 07:19:29"
+			"active": "5",
+			"lastupdatedtime": "28/03/2020 14:57:26"
 		},
 		{
 			"state": "Himachal Pradesh",
