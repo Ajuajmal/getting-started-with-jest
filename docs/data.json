@@ -74,10 +74,10 @@
 		},
 		{
 			"state": "Punjab",
-			"confirmed": "38",
+			"confirmed": "39",
 			"recovered": "1",
 			"deaths": "1",
-			"active": "36",
+			"active": "37",
 			"lastupdatedtime": "28/03/2020 23:17:24"
 		},
 		{
@@ -90,10 +90,10 @@
 		},
 		{
 			"state": "Haryana",
-			"confirmed": "35",
+			"confirmed": "34",
 			"recovered": "11",
 			"deaths": "0",
-			"active": "24",
+			"active": "23",
 			"lastupdatedtime": "28/03/2020 23:22:24"
 		},
 		{
