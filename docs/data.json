@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "1017",
-			"recovered": "84",
+			"confirmed": "1021",
+			"recovered": "85",
 			"deaths": "24",
-			"active": "909",
-			"lastupdatedtime": "28/03/2020 23:07:23"
+			"active": "912",
+			"lastupdatedtime": "28/03/2020 23:12:23"
 		},
 		{
 			"state": "Kerala",
@@ -22,7 +22,7 @@
 			"recovered": "25",
 			"deaths": "6",
 			"active": "155",
-			"lastupdatedtime": "28/03/2020 22:57:25"
+			"lastupdatedtime": "28/03/2020 23:12:24"
 		},
 		{
 			"state": "Karnataka",
@@ -30,7 +30,7 @@
 			"recovered": "5",
 			"deaths": "3",
 			"active": "73",
-			"lastupdatedtime": "28/03/2020 23:07:24"
+			"lastupdatedtime": "28/03/2020 23:12:24"
 		},
 		{
 			"state": "Telangana",
@@ -42,11 +42,11 @@
 		},
 		{
 			"state": "Uttar Pradesh",
-			"confirmed": "61",
+			"confirmed": "65",
 			"recovered": "11",
 			"deaths": "0",
-			"active": "50",
-			"lastupdatedtime": "28/03/2020 20:27:25"
+			"active": "54",
+			"lastupdatedtime": "28/03/2020 23:12:24"
 		},
 		{
 			"state": "Rajasthan",
@@ -171,10 +171,10 @@
 		{
 			"state": "Himachal Pradesh",
 			"confirmed": "3",
-			"recovered": "1",
+			"recovered": "2",
 			"deaths": "1",
-			"active": "1",
-			"lastupdatedtime": "27/03/2020 23:32:25"
+			"active": "0",
+			"lastupdatedtime": "28/03/2020 23:12:25"
 		},
 		{
 			"state": "Goa",
