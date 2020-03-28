@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "958",
+			"confirmed": "959",
 			"recovered": "84",
 			"deaths": "21",
-			"active": "853",
-			"lastupdatedtime": "28/03/2020 19:12:23"
+			"active": "854",
+			"lastupdatedtime": "28/03/2020 19:42:24"
 		},
 		{
 			"state": "Kerala",
@@ -30,7 +30,7 @@
 			"recovered": "5",
 			"deaths": "3",
 			"active": "68",
-			"lastupdatedtime": "28/03/2020 15:17:24"
+			"lastupdatedtime": "28/03/2020 19:42:25"
 		},
 		{
 			"state": "Telangana",
@@ -106,11 +106,11 @@
 		},
 		{
 			"state": "Jammu and Kashmir",
-			"confirmed": "27",
+			"confirmed": "28",
 			"recovered": "1",
 			"deaths": "1",
-			"active": "25",
-			"lastupdatedtime": "28/03/2020 14:57:25"
+			"active": "26",
+			"lastupdatedtime": "28/03/2020 19:42:26"
 		},
 		{
 			"state": "Ladakh",
@@ -198,7 +198,7 @@
 			"recovered": "0",
 			"deaths": "0",
 			"active": "9",
-			"lastupdatedtime": "27/03/2020 18:42:27"
+			"lastupdatedtime": "28/03/2020 19:42:27"
 		},
 		{
 			"state": "Puducherry",
