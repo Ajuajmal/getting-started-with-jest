@@ -42,11 +42,11 @@
 		},
 		{
 			"state": "Uttar Pradesh",
-			"confirmed": "50",
+			"confirmed": "55",
 			"recovered": "11",
 			"deaths": "0",
-			"active": "39",
-			"lastupdatedtime": "28/03/2020 12:17:24"
+			"active": "44",
+			"lastupdatedtime": "28/03/2020 15:27:25"
 		},
 		{
 			"state": "Rajasthan",
@@ -66,11 +66,11 @@
 		},
 		{
 			"state": "Delhi",
-			"confirmed": "45",
+			"confirmed": "40",
 			"recovered": "6",
 			"deaths": "1",
-			"active": "38",
-			"lastupdatedtime": "28/03/2020 15:07:24"
+			"active": "33",
+			"lastupdatedtime": "28/03/2020 15:27:25"
 		},
 		{
 			"state": "Punjab",
