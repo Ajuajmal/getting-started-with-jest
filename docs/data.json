@@ -2,10 +2,10 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "953",
+			"confirmed": "958",
 			"recovered": "84",
 			"deaths": "21",
-			"active": "848",
+			"active": "853",
 			"lastupdatedtime": "28/03/2020 19:12:23"
 		},
 		{
@@ -26,10 +26,10 @@
 		},
 		{
 			"state": "Karnataka",
-			"confirmed": "74",
+			"confirmed": "76",
 			"recovered": "5",
 			"deaths": "3",
-			"active": "66",
+			"active": "68",
 			"lastupdatedtime": "28/03/2020 15:17:24"
 		},
 		{
@@ -194,10 +194,10 @@
 		},
 		{
 			"state": "Andaman and Nicobar Islands",
-			"confirmed": "6",
+			"confirmed": "9",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "6",
+			"active": "9",
 			"lastupdatedtime": "27/03/2020 18:42:27"
 		},
 		{
