@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "1040",
+			"confirmed": "1045",
 			"recovered": "86",
 			"deaths": "26",
-			"active": "928",
-			"lastupdatedtime": "29/03/2020 11:42:23"
+			"active": "933",
+			"lastupdatedtime": "29/03/2020 12:17:23"
 		},
 		{
 			"state": "Kerala",
@@ -106,11 +106,11 @@
 		},
 		{
 			"state": "Jammu and Kashmir",
-			"confirmed": "33",
+			"confirmed": "38",
 			"recovered": "1",
 			"deaths": "1",
-			"active": "31",
-			"lastupdatedtime": "28/03/2020 21:02:24"
+			"active": "36",
+			"lastupdatedtime": "29/03/2020 12:17:24"
 		},
 		{
 			"state": "Ladakh",
