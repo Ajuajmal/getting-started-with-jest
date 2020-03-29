@@ -2,10 +2,10 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "1130",
+			"confirmed": "1133",
 			"recovered": "90",
 			"deaths": "27",
-			"active": "1013",
+			"active": "1016",
 			"lastupdatedtime": "29/03/2020 20:22:23"
 		},
 		{
@@ -42,10 +42,10 @@
 		},
 		{
 			"state": "Uttar Pradesh",
-			"confirmed": "69",
+			"confirmed": "72",
 			"recovered": "11",
 			"deaths": "0",
-			"active": "58",
+			"active": "61",
 			"lastupdatedtime": "29/03/2020 14:57:24"
 		},
 		{
