@@ -26,11 +26,11 @@
 		},
 		{
 			"state": "Karnataka",
-			"confirmed": "81",
+			"confirmed": "83",
 			"recovered": "5",
 			"deaths": "3",
-			"active": "73",
-			"lastupdatedtime": "28/03/2020 23:12:24"
+			"active": "75",
+			"lastupdatedtime": "29/03/2020 18:47:24"
 		},
 		{
 			"state": "Telangana",
@@ -178,11 +178,11 @@
 		},
 		{
 			"state": "Goa",
-			"confirmed": "7",
+			"confirmed": "5",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "7",
-			"lastupdatedtime": "26/03/2020 07:19:29"
+			"active": "5",
+			"lastupdatedtime": "29/03/2020 18:47:25"
 		},
 		{
 			"state": "Odisha",
