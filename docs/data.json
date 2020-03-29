@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "1137",
+			"confirmed": "1138",
 			"recovered": "90",
 			"deaths": "27",
-			"active": "1020",
-			"lastupdatedtime": "29/03/2020 23:12:24"
+			"active": "1021",
+			"lastupdatedtime": "29/03/2020 23:42:24"
 		},
 		{
 			"state": "Kerala",
@@ -122,11 +122,11 @@
 		},
 		{
 			"state": "Andhra Pradesh",
-			"confirmed": "19",
+			"confirmed": "21",
 			"recovered": "1",
 			"deaths": "0",
-			"active": "18",
-			"lastupdatedtime": "28/03/2020 22:12:24"
+			"active": "20",
+			"lastupdatedtime": "29/03/2020 23:42:25"
 		},
 		{
 			"state": "West Bengal",
@@ -250,10 +250,10 @@
 		},
 		{
 			"state": "Arunachal Pradesh",
-			"confirmed": "1",
+			"confirmed": "0",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "1",
+			"active": "0",
 			"lastupdatedtime": "26/03/2020 07:19:29"
 		},
 		{
