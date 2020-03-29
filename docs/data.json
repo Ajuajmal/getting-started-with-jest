@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "1099",
+			"confirmed": "1103",
 			"recovered": "90",
 			"deaths": "27",
-			"active": "982",
-			"lastupdatedtime": "29/03/2020 19:27:23"
+			"active": "986",
+			"lastupdatedtime": "29/03/2020 19:37:24"
 		},
 		{
 			"state": "Kerala",
@@ -138,11 +138,11 @@
 		},
 		{
 			"state": "Bihar",
-			"confirmed": "11",
+			"confirmed": "15",
 			"recovered": "0",
 			"deaths": "1",
-			"active": "10",
-			"lastupdatedtime": "28/03/2020 23:42:25"
+			"active": "14",
+			"lastupdatedtime": "29/03/2020 19:37:25"
 		},
 		{
 			"state": "Chandigarh",
