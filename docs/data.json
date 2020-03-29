@@ -3,10 +3,10 @@
 		{
 			"state": "Total",
 			"confirmed": "1040",
-			"recovered": "85",
+			"recovered": "86",
 			"deaths": "26",
-			"active": "929",
-			"lastupdatedtime": "29/03/2020 10:52:23"
+			"active": "928",
+			"lastupdatedtime": "29/03/2020 11:42:23"
 		},
 		{
 			"state": "Kerala",
@@ -59,10 +59,10 @@
 		{
 			"state": "Gujarat",
 			"confirmed": "58",
-			"recovered": "0",
+			"recovered": "1",
 			"deaths": "5",
-			"active": "53",
-			"lastupdatedtime": "29/03/2020 10:52:24"
+			"active": "52",
+			"lastupdatedtime": "29/03/2020 11:42:24"
 		},
 		{
 			"state": "Delhi",
