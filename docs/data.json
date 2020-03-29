@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "1045",
+			"confirmed": "1046",
 			"recovered": "86",
 			"deaths": "27",
-			"active": "932",
-			"lastupdatedtime": "29/03/2020 12:17:23"
+			"active": "933",
+			"lastupdatedtime": "29/03/2020 14:22:23"
 		},
 		{
 			"state": "Kerala",
@@ -50,11 +50,11 @@
 		},
 		{
 			"state": "Rajasthan",
-			"confirmed": "55",
+			"confirmed": "56",
 			"recovered": "3",
 			"deaths": "0",
-			"active": "52",
-			"lastupdatedtime": "29/03/2020 10:07:25"
+			"active": "53",
+			"lastupdatedtime": "29/03/2020 14:22:24"
 		},
 		{
 			"state": "Gujarat",
