@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "1190",
+			"confirmed": "1192",
 			"recovered": "102",
 			"deaths": "29",
-			"active": "1059",
-			"lastupdatedtime": "30/03/2020 12:27:23"
+			"active": "1061",
+			"lastupdatedtime": "30/03/2020 13:17:24"
 		},
 		{
 			"state": "Maharashtra",
@@ -122,10 +122,10 @@
 		},
 		{
 			"state": "West Bengal",
-			"confirmed": "21",
+			"confirmed": "22",
 			"recovered": "0",
 			"deaths": "2",
-			"active": "19",
+			"active": "20",
 			"lastupdatedtime": "30/03/2020 09:27:27"
 		},
 		{
@@ -154,11 +154,11 @@
 		},
 		{
 			"state": "Chandigarh",
-			"confirmed": "8",
+			"confirmed": "9",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "8",
-			"lastupdatedtime": "26/03/2020 07:19:29"
+			"active": "9",
+			"lastupdatedtime": "30/03/2020 13:17:26"
 		},
 		{
 			"state": "Chhattisgarh",
