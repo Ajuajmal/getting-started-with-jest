@@ -3,9 +3,9 @@
 		{
 			"state": "Total",
 			"confirmed": "1328",
-			"recovered": "131",
-			"deaths": "39",
-			"active": "1158",
+			"recovered": "137",
+			"deaths": "41",
+			"active": "1150",
 			"lastupdatedtime": "30/03/2020 21:52:24"
 		},
 		{
@@ -51,9 +51,9 @@
 		{
 			"state": "Telangana",
 			"confirmed": "77",
-			"recovered": "8",
-			"deaths": "7",
-			"active": "62",
+			"recovered": "14",
+			"deaths": "8",
+			"active": "55",
 			"lastupdatedtime": "30/03/2020 21:27:31"
 		},
 		{
@@ -100,8 +100,8 @@
 			"state": "Punjab",
 			"confirmed": "41",
 			"recovered": "1",
-			"deaths": "2",
-			"active": "38",
+			"deaths": "3",
+			"active": "37",
 			"lastupdatedtime": "30/03/2020 21:02:25"
 		},
 		{
