@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "1170",
+			"confirmed": "1171",
 			"recovered": "102",
-			"deaths": "28",
+			"deaths": "29",
 			"active": "1040",
-			"lastupdatedtime": "30/03/2020 11:17:31"
+			"lastupdatedtime": "30/03/2020 11:22:25"
 		},
 		{
 			"state": "Maharashtra",
@@ -60,9 +60,9 @@
 			"state": "Gujarat",
 			"confirmed": "69",
 			"recovered": "1",
-			"deaths": "5",
-			"active": "63",
-			"lastupdatedtime": "30/03/2020 11:17:34"
+			"deaths": "6",
+			"active": "62",
+			"lastupdatedtime": "30/03/2020 11:22:27"
 		},
 		{
 			"state": "Rajasthan",
@@ -146,10 +146,10 @@
 		},
 		{
 			"state": "Andaman and Nicobar Islands",
-			"confirmed": "9",
+			"confirmed": "10",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "9",
+			"active": "10",
 			"lastupdatedtime": "28/03/2020 19:42:27"
 		},
 		{
