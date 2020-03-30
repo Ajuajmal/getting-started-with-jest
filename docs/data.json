@@ -6,7 +6,7 @@
 			"recovered": "137",
 			"deaths": "43",
 			"active": "1167",
-			"lastupdatedtime": "31/03/2020 05:02:24"
+			"lastupdatedtime": "31/03/2020 05:12:24"
 		},
 		{
 			"state": "Maharashtra",
@@ -25,14 +25,6 @@
 			"lastupdatedtime": "30/03/2020 18:59:17"
 		},
 		{
-			"state": "Karnataka",
-			"confirmed": "91",
-			"recovered": "5",
-			"deaths": "3",
-			"active": "83",
-			"lastupdatedtime": "30/03/2020 21:52:25"
-		},
-		{
 			"state": "Delhi",
 			"confirmed": "97",
 			"recovered": "6",
@@ -49,6 +41,22 @@
 			"lastupdatedtime": "30/03/2020 21:52:27"
 		},
 		{
+			"state": "Karnataka",
+			"confirmed": "91",
+			"recovered": "5",
+			"deaths": "3",
+			"active": "83",
+			"lastupdatedtime": "30/03/2020 21:52:25"
+		},
+		{
+			"state": "Rajasthan",
+			"confirmed": "79",
+			"recovered": "3",
+			"deaths": "0",
+			"active": "76",
+			"lastupdatedtime": "30/03/2020 17:37:28"
+		},
+		{
 			"state": "Telangana",
 			"confirmed": "77",
 			"recovered": "14",
@@ -62,15 +70,7 @@
 			"recovered": "3",
 			"deaths": "6",
 			"active": "61",
-			"lastupdatedtime": "31/03/2020 05:02:24"
-		},
-		{
-			"state": "Rajasthan",
-			"confirmed": "79",
-			"recovered": "3",
-			"deaths": "0",
-			"active": "76",
-			"lastupdatedtime": "30/03/2020 17:37:28"
+			"lastupdatedtime": "31/03/2020 05:12:25"
 		},
 		{
 			"state": "Tamil Nadu",
@@ -81,20 +81,20 @@
 			"lastupdatedtime": "30/03/2020 19:00:38"
 		},
 		{
-			"state": "Madhya Pradesh",
-			"confirmed": "47",
-			"recovered": "0",
-			"deaths": "4",
-			"active": "43",
-			"lastupdatedtime": "30/03/2020 23:57:25"
-		},
-		{
 			"state": "Jammu and Kashmir",
 			"confirmed": "49",
 			"recovered": "1",
 			"deaths": "1",
 			"active": "47",
 			"lastupdatedtime": "30/03/2020 20:22:25"
+		},
+		{
+			"state": "Madhya Pradesh",
+			"confirmed": "47",
+			"recovered": "0",
+			"deaths": "4",
+			"active": "43",
+			"lastupdatedtime": "30/03/2020 23:57:25"
 		},
 		{
 			"state": "Punjab",
@@ -145,20 +145,20 @@
 			"lastupdatedtime": "27/03/2020 11:52:25"
 		},
 		{
-			"state": "Andaman and Nicobar Islands",
-			"confirmed": "10",
-			"recovered": "0",
-			"deaths": "0",
-			"active": "10",
-			"lastupdatedtime": "30/03/2020 11:27:27"
-		},
-		{
 			"state": "Chandigarh",
 			"confirmed": "13",
 			"recovered": "0",
 			"deaths": "0",
 			"active": "13",
 			"lastupdatedtime": "30/03/2020 17:37:29"
+		},
+		{
+			"state": "Andaman and Nicobar Islands",
+			"confirmed": "10",
+			"recovered": "0",
+			"deaths": "0",
+			"active": "10",
+			"lastupdatedtime": "30/03/2020 11:27:27"
 		},
 		{
 			"state": "Chhattisgarh",
