@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "1205",
+			"confirmed": "1209",
 			"recovered": "102",
-			"deaths": "30",
-			"active": "1073",
-			"lastupdatedtime": "30/03/2020 17:32:23"
+			"deaths": "31",
+			"active": "1076",
+			"lastupdatedtime": "30/03/2020 17:42:25"
 		},
 		{
 			"state": "Maharashtra",
@@ -14,7 +14,7 @@
 			"recovered": "25",
 			"deaths": "8",
 			"active": "182",
-			"lastupdatedtime": "30/03/2020 17:32:24"
+			"lastupdatedtime": "30/03/2020 17:37:26"
 		},
 		{
 			"state": "Kerala",
@@ -70,7 +70,7 @@
 			"recovered": "3",
 			"deaths": "0",
 			"active": "66",
-			"lastupdatedtime": "30/03/2020 10:22:25"
+			"lastupdatedtime": "30/03/2020 17:37:28"
 		},
 		{
 			"state": "Tamil Nadu",
@@ -100,9 +100,9 @@
 			"state": "Punjab",
 			"confirmed": "39",
 			"recovered": "1",
-			"deaths": "1",
-			"active": "37",
-			"lastupdatedtime": "30/03/2020 09:17:27"
+			"deaths": "2",
+			"active": "36",
+			"lastupdatedtime": "30/03/2020 17:42:26"
 		},
 		{
 			"state": "Haryana",
@@ -154,11 +154,11 @@
 		},
 		{
 			"state": "Chandigarh",
-			"confirmed": "9",
+			"confirmed": "13",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "9",
-			"lastupdatedtime": "30/03/2020 13:22:26"
+			"active": "13",
+			"lastupdatedtime": "30/03/2020 17:37:29"
 		},
 		{
 			"state": "Chhattisgarh",
