@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "1263",
+			"confirmed": "1268",
 			"recovered": "104",
 			"deaths": "32",
-			"active": "1127",
-			"lastupdatedtime": "30/03/2020 19:12:24"
+			"active": "1132",
+			"lastupdatedtime": "30/03/2020 20:22:23"
 		},
 		{
 			"state": "Maharashtra",
@@ -58,10 +58,10 @@
 		},
 		{
 			"state": "Gujarat",
-			"confirmed": "69",
+			"confirmed": "70",
 			"recovered": "3",
 			"deaths": "6",
-			"active": "60",
+			"active": "61",
 			"lastupdatedtime": "30/03/2020 19:12:25"
 		},
 		{
@@ -90,11 +90,11 @@
 		},
 		{
 			"state": "Jammu and Kashmir",
-			"confirmed": "45",
+			"confirmed": "49",
 			"recovered": "1",
 			"deaths": "1",
-			"active": "43",
-			"lastupdatedtime": "30/03/2020 19:00:39"
+			"active": "47",
+			"lastupdatedtime": "30/03/2020 20:22:25"
 		},
 		{
 			"state": "Punjab",
