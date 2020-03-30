@@ -3,10 +3,10 @@
 		{
 			"state": "Total",
 			"confirmed": "1139",
-			"recovered": "99",
+			"recovered": "103",
 			"deaths": "27",
-			"active": "1013",
-			"lastupdatedtime": "30/03/2020 06:27:23"
+			"active": "1009",
+			"lastupdatedtime": "30/03/2020 07:17:23"
 		},
 		{
 			"state": "Maharashtra",
@@ -19,10 +19,10 @@
 		{
 			"state": "Kerala",
 			"confirmed": "202",
-			"recovered": "16",
+			"recovered": "20",
 			"deaths": "1",
-			"active": "185",
-			"lastupdatedtime": "29/03/2020 18:17:24"
+			"active": "181",
+			"lastupdatedtime": "30/03/2020 07:17:24"
 		},
 		{
 			"state": "Karnataka",
@@ -845,6 +845,15 @@
 			"totalrecovered": "90",
 			"dailydeceased": "3",
 			"totaldeceased": "27"
+		},
+		{
+			"date": "30 March ",
+			"dailyconfirmed": "",
+			"totalconfirmed": "",
+			"dailyrecovered": "",
+			"totalrecovered": "",
+			"dailydeceased": "",
+			"totaldeceased": ""
 		}
 	]
 }
