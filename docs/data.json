@@ -845,6 +845,15 @@
 			"totalrecovered": "102",
 			"dailydeceased": "3",
 			"totaldeceased": "27"
+		},
+		{
+			"date": "30 March ",
+			"dailyconfirmed": "208",
+			"totalconfirmed": "1347",
+			"dailyrecovered": "35",
+			"totalrecovered": "137",
+			"dailydeceased": "16",
+			"totaldeceased": "43"
 		}
 	]
 }
