@@ -4,41 +4,41 @@
 			"state": "Total",
 			"confirmed": "1263",
 			"recovered": "102",
-			"deaths": "0",
-			"active": "1161",
-			"lastupdatedtime": "30/03/2020 18:47:25"
+			"deaths": "32",
+			"active": "1129",
+			"lastupdatedtime": "30/03/2020 18:59:04"
 		},
 		{
 			"state": "Maharashtra",
 			"confirmed": "215",
 			"recovered": "25",
-			"deaths": "0",
-			"active": "190",
-			"lastupdatedtime": "30/03/2020 18:47:27"
+			"deaths": "9",
+			"active": "181",
+			"lastupdatedtime": "30/03/2020 18:59:07"
 		},
 		{
 			"state": "Kerala",
 			"confirmed": "234",
 			"recovered": "20",
-			"deaths": "0",
-			"active": "214",
-			"lastupdatedtime": "30/03/2020 18:47:30"
+			"deaths": "1",
+			"active": "213",
+			"lastupdatedtime": "30/03/2020 18:59:17"
 		},
 		{
 			"state": "Karnataka",
 			"confirmed": "88",
 			"recovered": "5",
-			"deaths": "0",
-			"active": "83",
-			"lastupdatedtime": "30/03/2020 18:47:33"
+			"deaths": "3",
+			"active": "80",
+			"lastupdatedtime": "30/03/2020 18:59:25"
 		},
 		{
 			"state": "Delhi",
 			"confirmed": "72",
 			"recovered": "6",
-			"deaths": "0",
-			"active": "66",
-			"lastupdatedtime": "30/03/2020 18:47:34"
+			"deaths": "2",
+			"active": "64",
+			"lastupdatedtime": "30/03/2020 18:59:31"
 		},
 		{
 			"state": "Uttar Pradesh",
@@ -52,17 +52,17 @@
 			"state": "Telangana",
 			"confirmed": "70",
 			"recovered": "1",
-			"deaths": "0",
-			"active": "69",
-			"lastupdatedtime": "30/03/2020 18:47:36"
+			"deaths": "1",
+			"active": "68",
+			"lastupdatedtime": "30/03/2020 19:00:17"
 		},
 		{
 			"state": "Gujarat",
 			"confirmed": "69",
 			"recovered": "1",
-			"deaths": "0",
-			"active": "68",
-			"lastupdatedtime": "30/03/2020 18:47:38"
+			"deaths": "6",
+			"active": "62",
+			"lastupdatedtime": "30/03/2020 19:00:37"
 		},
 		{
 			"state": "Rajasthan",
@@ -76,32 +76,32 @@
 			"state": "Tamil Nadu",
 			"confirmed": "67",
 			"recovered": "4",
-			"deaths": "0",
-			"active": "63",
-			"lastupdatedtime": "30/03/2020 18:47:41"
+			"deaths": "1",
+			"active": "62",
+			"lastupdatedtime": "30/03/2020 19:00:38"
 		},
 		{
 			"state": "Madhya Pradesh",
 			"confirmed": "47",
 			"recovered": "0",
-			"deaths": "0",
-			"active": "47",
-			"lastupdatedtime": "30/03/2020 18:47:44"
+			"deaths": "2",
+			"active": "45",
+			"lastupdatedtime": "30/03/2020 19:00:38"
 		},
 		{
 			"state": "Jammu and Kashmir",
 			"confirmed": "45",
 			"recovered": "1",
-			"deaths": "0",
-			"active": "44",
-			"lastupdatedtime": "30/03/2020 18:47:47"
+			"deaths": "1",
+			"active": "43",
+			"lastupdatedtime": "30/03/2020 19:00:39"
 		},
 		{
 			"state": "Punjab",
 			"confirmed": "39",
 			"recovered": "1",
-			"deaths": "0",
-			"active": "38",
+			"deaths": "2",
+			"active": "36",
 			"lastupdatedtime": "30/03/2020 18:47:51"
 		},
 		{
@@ -124,16 +124,16 @@
 			"state": "West Bengal",
 			"confirmed": "22",
 			"recovered": "0",
-			"deaths": "0",
-			"active": "22",
+			"deaths": "2",
+			"active": "20",
 			"lastupdatedtime": "30/03/2020 18:47:53"
 		},
 		{
 			"state": "Bihar",
 			"confirmed": "15",
 			"recovered": "0",
-			"deaths": "0",
-			"active": "15",
+			"deaths": "1",
+			"active": "14",
 			"lastupdatedtime": "30/03/2020 18:47:55"
 		},
 		{
@@ -188,8 +188,8 @@
 			"state": "Himachal Pradesh",
 			"confirmed": "3",
 			"recovered": "1",
-			"deaths": "0",
-			"active": "2",
+			"deaths": "1",
+			"active": "1",
 			"lastupdatedtime": "30/03/2020 18:48:02"
 		},
 		{
