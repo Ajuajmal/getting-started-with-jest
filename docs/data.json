@@ -2,19 +2,19 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "1347",
+			"confirmed": "1352",
 			"recovered": "138",
 			"deaths": "45",
-			"active": "1164",
-			"lastupdatedtime": "31/03/2020 09:47:24"
+			"active": "1169",
+			"lastupdatedtime": "31/03/2020 09:52:23"
 		},
 		{
 			"state": "Maharashtra",
-			"confirmed": "238",
+			"confirmed": "243",
 			"recovered": "39",
 			"deaths": "10",
-			"active": "189",
-			"lastupdatedtime": "31/03/2020 00:22:25"
+			"active": "194",
+			"lastupdatedtime": "31/03/2020 09:52:24"
 		},
 		{
 			"state": "Kerala",
@@ -126,7 +126,7 @@
 			"recovered": "0",
 			"deaths": "3",
 			"active": "19",
-			"lastupdatedtime": "31/03/2020 09:47:26"
+			"lastupdatedtime": "31/03/2020 09:52:25"
 		},
 		{
 			"state": "Bihar",
