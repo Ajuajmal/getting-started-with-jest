@@ -3,9 +3,9 @@
 		{
 			"state": "Total",
 			"confirmed": "1347",
-			"recovered": "137",
+			"recovered": "138",
 			"deaths": "43",
-			"active": "1167",
+			"active": "1166",
 			"lastupdatedtime": "31/03/2020 05:12:24"
 		},
 		{
@@ -43,9 +43,9 @@
 		{
 			"state": "Karnataka",
 			"confirmed": "91",
-			"recovered": "5",
+			"recovered": "6",
 			"deaths": "3",
-			"active": "83",
+			"active": "82",
 			"lastupdatedtime": "30/03/2020 21:52:25"
 		},
 		{
