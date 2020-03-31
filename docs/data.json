@@ -3,10 +3,10 @@
 		{
 			"state": "Total",
 			"confirmed": "1616",
-			"recovered": "148",
+			"recovered": "150",
 			"deaths": "47",
-			"active": "1421",
-			"lastupdatedtime": "31/03/2020 22:57:25"
+			"active": "1419",
+			"lastupdatedtime": "31/03/2020 23:02:24"
 		},
 		{
 			"state": "Maharashtra",
@@ -163,10 +163,10 @@
 		{
 			"state": "Chhattisgarh",
 			"confirmed": "9",
-			"recovered": "0",
+			"recovered": "2",
 			"deaths": "0",
-			"active": "9",
-			"lastupdatedtime": "31/03/2020 22:02:29"
+			"active": "7",
+			"lastupdatedtime": "31/03/2020 23:02:26"
 		},
 		{
 			"state": "Uttarakhand",
