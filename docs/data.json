@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "1614",
+			"confirmed": "1616",
 			"recovered": "148",
 			"deaths": "47",
-			"active": "1419",
-			"lastupdatedtime": "31/03/2020 22:32:24"
+			"active": "1421",
+			"lastupdatedtime": "31/03/2020 22:57:25"
 		},
 		{
 			"state": "Maharashtra",
@@ -146,11 +146,11 @@
 		},
 		{
 			"state": "Chandigarh",
-			"confirmed": "13",
+			"confirmed": "15",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "13",
-			"lastupdatedtime": "30/03/2020 17:37:29"
+			"active": "15",
+			"lastupdatedtime": "31/03/2020 22:57:26"
 		},
 		{
 			"state": "Andaman and Nicobar Islands",
