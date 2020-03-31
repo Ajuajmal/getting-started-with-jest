@@ -2,10 +2,10 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "1585",
+			"confirmed": "1609",
 			"recovered": "148",
 			"deaths": "47",
-			"active": "1390",
+			"active": "1414",
 			"lastupdatedtime": "31/03/2020 21:02:24"
 		},
 		{
@@ -50,10 +50,10 @@
 		},
 		{
 			"state": "Delhi",
-			"confirmed": "97",
+			"confirmed": "120",
 			"recovered": "6",
 			"deaths": "2",
-			"active": "89",
+			"active": "112",
 			"lastupdatedtime": "30/03/2020 20:52:24"
 		},
 		{
@@ -162,10 +162,10 @@
 		},
 		{
 			"state": "Chhattisgarh",
-			"confirmed": "8",
+			"confirmed": "9",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "8",
+			"active": "9",
 			"lastupdatedtime": "27/03/2020 21:17:25"
 		},
 		{
