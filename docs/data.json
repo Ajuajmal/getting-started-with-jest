@@ -4,8 +4,8 @@
 			"state": "Total",
 			"confirmed": "1356",
 			"recovered": "138",
-			"deaths": "45",
-			"active": "1173",
+			"deaths": "46",
+			"active": "1172",
 			"lastupdatedtime": "31/03/2020 10:02:24"
 		},
 		{
@@ -84,8 +84,8 @@
 			"state": "Jammu and Kashmir",
 			"confirmed": "49",
 			"recovered": "1",
-			"deaths": "1",
-			"active": "47",
+			"deaths": "2",
+			"active": "46",
 			"lastupdatedtime": "30/03/2020 20:22:25"
 		},
 		{
