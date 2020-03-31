@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "1609",
+			"confirmed": "1613",
 			"recovered": "148",
 			"deaths": "47",
-			"active": "1414",
-			"lastupdatedtime": "31/03/2020 21:02:24"
+			"active": "1418",
+			"lastupdatedtime": "31/03/2020 22:02:24"
 		},
 		{
 			"state": "Maharashtra",
@@ -54,7 +54,7 @@
 			"recovered": "6",
 			"deaths": "2",
 			"active": "112",
-			"lastupdatedtime": "30/03/2020 20:52:24"
+			"lastupdatedtime": "31/03/2020 22:02:26"
 		},
 		{
 			"state": "Rajasthan",
@@ -114,10 +114,10 @@
 		},
 		{
 			"state": "Andhra Pradesh",
-			"confirmed": "40",
+			"confirmed": "44",
 			"recovered": "1",
 			"deaths": "0",
-			"active": "39",
+			"active": "43",
 			"lastupdatedtime": "31/03/2020 12:07:28"
 		},
 		{
@@ -166,7 +166,7 @@
 			"recovered": "0",
 			"deaths": "0",
 			"active": "9",
-			"lastupdatedtime": "27/03/2020 21:17:25"
+			"lastupdatedtime": "31/03/2020 22:02:29"
 		},
 		{
 			"state": "Uttarakhand",
