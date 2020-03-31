@@ -4,9 +4,9 @@
 			"state": "Total",
 			"confirmed": "1347",
 			"recovered": "138",
-			"deaths": "43",
-			"active": "1166",
-			"lastupdatedtime": "31/03/2020 06:17:24"
+			"deaths": "44",
+			"active": "1165",
+			"lastupdatedtime": "31/03/2020 09:07:24"
 		},
 		{
 			"state": "Maharashtra",
@@ -20,9 +20,9 @@
 			"state": "Kerala",
 			"confirmed": "234",
 			"recovered": "20",
-			"deaths": "1",
-			"active": "213",
-			"lastupdatedtime": "30/03/2020 18:59:17"
+			"deaths": "2",
+			"active": "212",
+			"lastupdatedtime": "31/03/2020 09:07:27"
 		},
 		{
 			"state": "Delhi",
