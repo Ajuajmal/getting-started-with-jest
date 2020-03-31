@@ -25,6 +25,14 @@
 			"lastupdatedtime": "31/03/2020 18:47:27"
 		},
 		{
+			"state": "Tamil Nadu",
+			"confirmed": "124",
+			"recovered": "6",
+			"deaths": "1",
+			"active": "117",
+			"lastupdatedtime": "31/03/2020 19:52:32"
+		},
+		{
 			"state": "Uttar Pradesh",
 			"confirmed": "101",
 			"recovered": "17",
@@ -73,14 +81,6 @@
 			"lastupdatedtime": "31/03/2020 11:12:26"
 		},
 		{
-			"state": "Tamil Nadu",
-			"confirmed": "124",
-			"recovered": "6",
-			"deaths": "1",
-			"active": "117",
-			"lastupdatedtime": "31/03/2020 19:52:32"
-		},
-		{
 			"state": "Madhya Pradesh",
 			"confirmed": "66",
 			"recovered": "0",
@@ -97,6 +97,14 @@
 			"lastupdatedtime": "31/03/2020 14:12:26"
 		},
 		{
+			"state": "Haryana",
+			"confirmed": "43",
+			"recovered": "17",
+			"deaths": "0",
+			"active": "26",
+			"lastupdatedtime": "31/03/2020 19:52:36"
+		},
+		{
 			"state": "Punjab",
 			"confirmed": "41",
 			"recovered": "1",
@@ -111,14 +119,6 @@
 			"deaths": "0",
 			"active": "39",
 			"lastupdatedtime": "31/03/2020 12:07:28"
-		},
-		{
-			"state": "Haryana",
-			"confirmed": "43",
-			"recovered": "17",
-			"deaths": "0",
-			"active": "26",
-			"lastupdatedtime": "31/03/2020 19:52:36"
 		},
 		{
 			"state": "West Bengal",
