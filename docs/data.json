@@ -4,9 +4,9 @@
 			"state": "Total",
 			"confirmed": "1347",
 			"recovered": "138",
-			"deaths": "44",
-			"active": "1165",
-			"lastupdatedtime": "31/03/2020 09:07:24"
+			"deaths": "45",
+			"active": "1164",
+			"lastupdatedtime": "31/03/2020 09:47:24"
 		},
 		{
 			"state": "Maharashtra",
@@ -124,9 +124,9 @@
 			"state": "West Bengal",
 			"confirmed": "22",
 			"recovered": "0",
-			"deaths": "2",
-			"active": "20",
-			"lastupdatedtime": "30/03/2020 19:00:41"
+			"deaths": "3",
+			"active": "19",
+			"lastupdatedtime": "31/03/2020 09:47:26"
 		},
 		{
 			"state": "Bihar",
