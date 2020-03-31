@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "1618",
+			"confirmed": "1619",
 			"recovered": "150",
 			"deaths": "47",
-			"active": "1421",
-			"lastupdatedtime": "31/03/2020 23:07:25"
+			"active": "1422",
+			"lastupdatedtime": "31/03/2020 23:32:27"
 		},
 		{
 			"state": "Maharashtra",
@@ -34,11 +34,11 @@
 		},
 		{
 			"state": "Uttar Pradesh",
-			"confirmed": "103",
+			"confirmed": "104",
 			"recovered": "17",
 			"deaths": "0",
-			"active": "86",
-			"lastupdatedtime": "31/03/2020 10:37:25"
+			"active": "87",
+			"lastupdatedtime": "31/03/2020 23:32:28"
 		},
 		{
 			"state": "Karnataka",
