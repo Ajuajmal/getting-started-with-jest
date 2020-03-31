@@ -3,9 +3,9 @@
 		{
 			"state": "Total",
 			"confirmed": "1580",
-			"recovered": "144",
+			"recovered": "145",
 			"deaths": "47",
-			"active": "1389",
+			"active": "1388",
 			"lastupdatedtime": "31/03/2020 20:27:25"
 		},
 		{
@@ -19,9 +19,9 @@
 		{
 			"state": "Kerala",
 			"confirmed": "241",
-			"recovered": "20",
+			"recovered": "21",
 			"deaths": "2",
-			"active": "219",
+			"active": "218",
 			"lastupdatedtime": "31/03/2020 18:47:27"
 		},
 		{
