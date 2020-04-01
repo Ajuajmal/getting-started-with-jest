@@ -2,10 +2,10 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "1966",
+			"confirmed": "1974",
 			"recovered": "169",
 			"deaths": "55",
-			"active": "1742",
+			"active": "1750",
 			"lastupdatedtime": "01/04/2020 20:27:25"
 		},
 		{
@@ -178,10 +178,10 @@
 		},
 		{
 			"state": "Assam",
-			"confirmed": "5",
+			"confirmed": "13",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "5",
+			"active": "13",
 			"lastupdatedtime": "01/04/2020 14:47:28"
 		},
 		{
