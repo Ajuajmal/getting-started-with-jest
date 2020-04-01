@@ -2,10 +2,10 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "1751",
+			"confirmed": "1765",
 			"recovered": "155",
 			"deaths": "53",
-			"active": "1543",
+			"active": "1557",
 			"lastupdatedtime": "01/04/2020 17:17:25"
 		},
 		{
@@ -242,10 +242,10 @@
 		},
 		{
 			"state": "Rajasthan",
-			"confirmed": "106",
+			"confirmed": "108",
 			"recovered": "3",
 			"deaths": "0",
-			"active": "103",
+			"active": "105",
 			"lastupdatedtime": "01/04/2020 15:37:25"
 		},
 		{
@@ -282,10 +282,10 @@
 		},
 		{
 			"state": "Uttar Pradesh",
-			"confirmed": "104",
+			"confirmed": "116",
 			"recovered": "17",
 			"deaths": "1",
-			"active": "86",
+			"active": "98",
 			"lastupdatedtime": "01/04/2020 13:37:25"
 		},
 		{
