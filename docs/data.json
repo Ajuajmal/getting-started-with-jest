@@ -4,9 +4,9 @@
 			"state": "Total",
 			"confirmed": "1745",
 			"recovered": "151",
-			"deaths": "54",
-			"active": "1540",
-			"lastupdatedtime": "01/04/2020 15:57:31"
+			"deaths": "53",
+			"active": "1541",
+			"lastupdatedtime": "01/04/2020 16:07:24"
 		},
 		{
 			"state": "Maharashtra",
@@ -84,9 +84,9 @@
 			"state": "Madhya Pradesh",
 			"confirmed": "86",
 			"recovered": "0",
-			"deaths": "7",
-			"active": "79",
-			"lastupdatedtime": "31/03/2020 11:32:30"
+			"deaths": "6",
+			"active": "80",
+			"lastupdatedtime": "01/04/2020 16:07:24"
 		},
 		{
 			"state": "Jammu and Kashmir",
