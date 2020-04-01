@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "1765",
+			"confirmed": "1899",
 			"recovered": "155",
 			"deaths": "53",
-			"active": "1557",
-			"lastupdatedtime": "01/04/2020 17:17:25"
+			"active": "1691",
+			"lastupdatedtime": "01/04/2020 18:17:24"
 		},
 		{
 			"state": "Andaman and Nicobar Islands",
@@ -146,10 +146,10 @@
 		},
 		{
 			"state": "Kerala",
-			"confirmed": "241",
+			"confirmed": "265",
 			"recovered": "24",
 			"deaths": "2",
-			"active": "215",
+			"active": "239",
 			"lastupdatedtime": "31/03/2020 20:47:32"
 		},
 		{
@@ -246,7 +246,7 @@
 			"recovered": "3",
 			"deaths": "0",
 			"active": "105",
-			"lastupdatedtime": "01/04/2020 15:37:25"
+			"lastupdatedtime": "01/04/2020 18:17:27"
 		},
 		{
 			"state": "Sikkim",
@@ -258,11 +258,11 @@
 		},
 		{
 			"state": "Tamil Nadu",
-			"confirmed": "124",
+			"confirmed": "234",
 			"recovered": "6",
 			"deaths": "1",
-			"active": "117",
-			"lastupdatedtime": "31/03/2020 19:52:32"
+			"active": "227",
+			"lastupdatedtime": "01/04/2020 18:17:28"
 		},
 		{
 			"state": "Telangana",
@@ -286,7 +286,7 @@
 			"recovered": "17",
 			"deaths": "1",
 			"active": "98",
-			"lastupdatedtime": "01/04/2020 13:37:25"
+			"lastupdatedtime": "01/04/2020 18:17:29"
 		},
 		{
 			"state": "Uttarakhand",
