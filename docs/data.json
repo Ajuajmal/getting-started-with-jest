@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "1917",
+			"confirmed": "1943",
 			"recovered": "167",
 			"deaths": "53",
-			"active": "1697",
-			"lastupdatedtime": "01/04/2020 19:27:24"
+			"active": "1723",
+			"lastupdatedtime": "01/04/2020 19:47:24"
 		},
 		{
 			"state": "Andaman and Nicobar Islands",
@@ -82,11 +82,11 @@
 		},
 		{
 			"state": "Delhi",
-			"confirmed": "123",
+			"confirmed": "152",
 			"recovered": "6",
 			"deaths": "2",
-			"active": "115",
-			"lastupdatedtime": "01/04/2020 10:37:39"
+			"active": "144",
+			"lastupdatedtime": "01/04/2020 19:47:26"
 		},
 		{
 			"state": "Goa",
@@ -178,10 +178,10 @@
 		},
 		{
 			"state": "Maharashtra",
-			"confirmed": "325",
+			"confirmed": "322",
 			"recovered": "39",
 			"deaths": "12",
-			"active": "274",
+			"active": "271",
 			"lastupdatedtime": "01/04/2020 10:37:32"
 		},
 		{
@@ -857,8 +857,8 @@
 		},
 		{
 			"date": "31 March ",
-			"dailyconfirmed": "289",
-			"totalconfirmed": "1636",
+			"dailyconfirmed": "318",
+			"totalconfirmed": "1665",
 			"dailyrecovered": "13",
 			"totalrecovered": "150",
 			"dailydeceased": "6",
