@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "1998",
+			"confirmed": "2010",
 			"recovered": "169",
 			"deaths": "55",
-			"active": "1774",
-			"lastupdatedtime": "01/04/2020 21:12:23"
+			"active": "1786",
+			"lastupdatedtime": "01/04/2020 22:22:26"
 		},
 		{
 			"state": "Maharashtra",
@@ -58,10 +58,10 @@
 		},
 		{
 			"state": "Rajasthan",
-			"confirmed": "108",
+			"confirmed": "120",
 			"recovered": "3",
 			"deaths": "0",
-			"active": "105",
+			"active": "117",
 			"lastupdatedtime": "01/04/2020 18:17:27"
 		},
 		{
@@ -78,7 +78,7 @@
 			"recovered": "2",
 			"deaths": "0",
 			"active": "109",
-			"lastupdatedtime": "01/04/2020 16:32:25"
+			"lastupdatedtime": "01/04/2020 22:22:28"
 		},
 		{
 			"state": "Gujarat",
