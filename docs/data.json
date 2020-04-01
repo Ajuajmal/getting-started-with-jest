@@ -4,8 +4,8 @@
 			"state": "Total",
 			"confirmed": "1745",
 			"recovered": "151",
-			"deaths": "55",
-			"active": "1539",
+			"deaths": "54",
+			"active": "1540",
 			"lastupdatedtime": "01/04/2020 15:37:24"
 		},
 		{
@@ -68,8 +68,8 @@
 			"state": "Telangana",
 			"confirmed": "92",
 			"recovered": "14",
-			"deaths": "7",
-			"active": "71",
+			"deaths": "6",
+			"active": "72",
 			"lastupdatedtime": "01/04/2020 14:22:25"
 		},
 		{
