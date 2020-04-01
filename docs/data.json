@@ -987,6 +987,17 @@
 			"totaldeceased": "49",
 			"rec": "19",
 			"death": "7"
+		},
+		{
+			"date": "01 April ",
+			"dailyconfirmed": "379",
+			"totalconfirmed": "2014",
+			"dailyrecovered": "19",
+			"totalrecovered": "169",
+			"dailydeceased": "7",
+			"totaldeceased": "56",
+			"rec": "9",
+			"death": "8"
 		}
 	]
 }
