@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "1946",
+			"confirmed": "1951",
 			"recovered": "167",
 			"deaths": "53",
-			"active": "1726",
-			"lastupdatedtime": "01/04/2020 19:52:25"
+			"active": "1731",
+			"lastupdatedtime": "01/04/2020 20:02:26"
 		},
 		{
 			"state": "Andaman and Nicobar Islands",
@@ -98,11 +98,11 @@
 		},
 		{
 			"state": "Gujarat",
-			"confirmed": "82",
+			"confirmed": "87",
 			"recovered": "5",
 			"deaths": "6",
-			"active": "71",
-			"lastupdatedtime": "31/03/2020 11:12:26"
+			"active": "76",
+			"lastupdatedtime": "01/04/2020 20:02:30"
 		},
 		{
 			"state": "Haryana",
@@ -138,11 +138,11 @@
 		},
 		{
 			"state": "Karnataka",
-			"confirmed": "105",
+			"confirmed": "110",
 			"recovered": "9",
 			"deaths": "3",
-			"active": "93",
-			"lastupdatedtime": "01/04/2020 13:57:24"
+			"active": "98",
+			"lastupdatedtime": "01/04/2020 20:02:34"
 		},
 		{
 			"state": "Kerala",
@@ -178,11 +178,11 @@
 		},
 		{
 			"state": "Maharashtra",
-			"confirmed": "325",
+			"confirmed": "320",
 			"recovered": "39",
 			"deaths": "12",
-			"active": "274",
-			"lastupdatedtime": "01/04/2020 19:52:26"
+			"active": "269",
+			"lastupdatedtime": "01/04/2020 20:02:37"
 		},
 		{
 			"state": "Manipur",
@@ -857,8 +857,8 @@
 		},
 		{
 			"date": "31 March ",
-			"dailyconfirmed": "318",
-			"totalconfirmed": "1665",
+			"dailyconfirmed": "328",
+			"totalconfirmed": "1675",
 			"dailyrecovered": "13",
 			"totalrecovered": "150",
 			"dailydeceased": "6",
