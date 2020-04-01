@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "1951",
+			"confirmed": "1966",
 			"recovered": "168",
-			"deaths": "53",
-			"active": "1730",
-			"lastupdatedtime": "01/04/2020 20:22:25"
+			"deaths": "54",
+			"active": "1744",
+			"lastupdatedtime": "01/04/2020 20:27:25"
 		},
 		{
 			"state": "Andaman and Nicobar Islands",
@@ -178,11 +178,11 @@
 		},
 		{
 			"state": "Maharashtra",
-			"confirmed": "320",
+			"confirmed": "335",
 			"recovered": "39",
-			"deaths": "12",
-			"active": "269",
-			"lastupdatedtime": "01/04/2020 20:02:37"
+			"deaths": "13",
+			"active": "283",
+			"lastupdatedtime": "01/04/2020 20:27:27"
 		},
 		{
 			"state": "Manipur",
