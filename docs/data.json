@@ -3,10 +3,10 @@
 		{
 			"state": "Total",
 			"confirmed": "1951",
-			"recovered": "167",
+			"recovered": "168",
 			"deaths": "53",
-			"active": "1731",
-			"lastupdatedtime": "01/04/2020 20:02:26"
+			"active": "1730",
+			"lastupdatedtime": "01/04/2020 20:22:25"
 		},
 		{
 			"state": "Andaman and Nicobar Islands",
@@ -123,10 +123,10 @@
 		{
 			"state": "Jammu and Kashmir",
 			"confirmed": "62",
-			"recovered": "1",
+			"recovered": "2",
 			"deaths": "2",
-			"active": "59",
-			"lastupdatedtime": "31/03/2020 14:12:26"
+			"active": "58",
+			"lastupdatedtime": "01/04/2020 20:22:27"
 		},
 		{
 			"state": "Jharkhand",
