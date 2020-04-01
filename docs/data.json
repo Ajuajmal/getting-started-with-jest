@@ -3,9 +3,9 @@
 		{
 			"state": "Total",
 			"confirmed": "1966",
-			"recovered": "168",
+			"recovered": "169",
 			"deaths": "55",
-			"active": "1743",
+			"active": "1742",
 			"lastupdatedtime": "01/04/2020 20:27:25"
 		},
 		{
@@ -195,9 +195,9 @@
 		{
 			"state": "Odisha",
 			"confirmed": "4",
-			"recovered": "0",
+			"recovered": "1",
 			"deaths": "0",
-			"active": "4",
+			"active": "3",
 			"lastupdatedtime": "31/03/2020 22:32:27"
 		},
 		{
