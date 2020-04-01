@@ -3,8 +3,8 @@
 		{
 			"state": "Total",
 			"confirmed": "1730",
-			"recovered": "154",
-			"deaths": "52",
+			"recovered": "151",
+			"deaths": "55",
 			"active": "1524",
 			"lastupdatedtime": "01/04/2020 14:47:24"
 		},
@@ -84,8 +84,8 @@
 			"state": "Madhya Pradesh",
 			"confirmed": "86",
 			"recovered": "0",
-			"deaths": "4",
-			"active": "82",
+			"deaths": "7",
+			"active": "79",
 			"lastupdatedtime": "31/03/2020 11:32:30"
 		},
 		{
@@ -123,9 +123,9 @@
 		{
 			"state": "West Bengal",
 			"confirmed": "27",
-			"recovered": "3",
+			"recovered": "0",
 			"deaths": "6",
-			"active": "18",
+			"active": "21",
 			"lastupdatedtime": "01/04/2020 14:37:29"
 		},
 		{
