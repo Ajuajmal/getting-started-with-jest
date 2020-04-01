@@ -3,10 +3,10 @@
 		{
 			"state": "Total",
 			"confirmed": "1917",
-			"recovered": "165",
+			"recovered": "167",
 			"deaths": "53",
-			"active": "1699",
-			"lastupdatedtime": "01/04/2020 19:12:27"
+			"active": "1697",
+			"lastupdatedtime": "01/04/2020 19:27:24"
 		},
 		{
 			"state": "Andaman and Nicobar Islands",
@@ -147,10 +147,10 @@
 		{
 			"state": "Kerala",
 			"confirmed": "265",
-			"recovered": "24",
+			"recovered": "26",
 			"deaths": "2",
-			"active": "239",
-			"lastupdatedtime": "31/03/2020 20:47:32"
+			"active": "237",
+			"lastupdatedtime": "01/04/2020 19:27:27"
 		},
 		{
 			"state": "Ladakh",
