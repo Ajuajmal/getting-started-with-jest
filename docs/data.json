@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "1916",
+			"confirmed": "1917",
 			"recovered": "165",
-			"deaths": "50",
-			"active": "1701",
-			"lastupdatedtime": "01/04/2020 18:57:27"
+			"deaths": "53",
+			"active": "1699",
+			"lastupdatedtime": "01/04/2020 19:02:24"
 		},
 		{
 			"state": "Andaman and Nicobar Islands",
@@ -42,10 +42,10 @@
 		},
 		{
 			"state": "Bihar",
-			"confirmed": "23",
+			"confirmed": "24",
 			"recovered": "0",
 			"deaths": "1",
-			"active": "22",
+			"active": "23",
 			"lastupdatedtime": "01/04/2020 11:57:28"
 		},
 		{
@@ -110,7 +110,7 @@
 			"recovered": "27",
 			"deaths": "0",
 			"active": "16",
-			"lastupdatedtime": "31/03/2020 19:52:36"
+			"lastupdatedtime": "01/04/2020 19:02:30"
 		},
 		{
 			"state": "Himachal Pradesh",
@@ -300,9 +300,9 @@
 			"state": "West Bengal",
 			"confirmed": "37",
 			"recovered": "3",
-			"deaths": "3",
-			"active": "31",
-			"lastupdatedtime": "01/04/2020 18:57:34"
+			"deaths": "6",
+			"active": "28",
+			"lastupdatedtime": "01/04/2020 19:02:32"
 		}
 	],
 	"cases_time_series": [
@@ -857,8 +857,8 @@
 		},
 		{
 			"date": "31 March ",
-			"dailyconfirmed": "288",
-			"totalconfirmed": "1635",
+			"dailyconfirmed": "289",
+			"totalconfirmed": "1636",
 			"dailyrecovered": "13",
 			"totalrecovered": "150",
 			"dailydeceased": "6",
