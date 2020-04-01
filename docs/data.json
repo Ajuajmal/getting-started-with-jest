@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "1663",
+			"confirmed": "1665",
 			"recovered": "150",
 			"deaths": "50",
-			"active": "1463",
-			"lastupdatedtime": "01/04/2020 10:37:27"
+			"active": "1465",
+			"lastupdatedtime": "01/04/2020 11:02:25"
 		},
 		{
 			"state": "Maharashtra",
@@ -218,11 +218,11 @@
 		},
 		{
 			"state": "Puducherry",
-			"confirmed": "1",
+			"confirmed": "3",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "1",
-			"lastupdatedtime": "26/03/2020 07:19:29"
+			"active": "3",
+			"lastupdatedtime": "01/04/2020 11:02:31"
 		},
 		{
 			"state": "Assam",
