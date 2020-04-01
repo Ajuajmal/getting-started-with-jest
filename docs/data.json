@@ -2,10 +2,10 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "2012",
+			"confirmed": "2013",
 			"recovered": "169",
 			"deaths": "55",
-			"active": "1788",
+			"active": "1789",
 			"lastupdatedtime": "01/04/2020 22:52:24"
 		},
 		{
@@ -194,10 +194,10 @@
 		},
 		{
 			"state": "Odisha",
-			"confirmed": "4",
+			"confirmed": "5",
 			"recovered": "1",
 			"deaths": "0",
-			"active": "3",
+			"active": "4",
 			"lastupdatedtime": "31/03/2020 22:32:27"
 		},
 		{
