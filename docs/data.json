@@ -4,9 +4,9 @@
 			"state": "Total",
 			"confirmed": "1726",
 			"recovered": "151",
-			"deaths": "53",
-			"active": "1522",
-			"lastupdatedtime": "01/04/2020 14:07:25"
+			"deaths": "51",
+			"active": "1524",
+			"lastupdatedtime": "01/04/2020 14:17:24"
 		},
 		{
 			"state": "Maharashtra",
@@ -68,9 +68,9 @@
 			"state": "Telangana",
 			"confirmed": "92",
 			"recovered": "14",
-			"deaths": "8",
-			"active": "70",
-			"lastupdatedtime": "31/03/2020 20:27:26"
+			"deaths": "6",
+			"active": "72",
+			"lastupdatedtime": "01/04/2020 14:17:30"
 		},
 		{
 			"state": "Gujarat",
