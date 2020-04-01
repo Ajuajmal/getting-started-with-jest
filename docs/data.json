@@ -2,10 +2,10 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "2010",
+			"confirmed": "2012",
 			"recovered": "169",
 			"deaths": "55",
-			"active": "1786",
+			"active": "1788",
 			"lastupdatedtime": "01/04/2020 22:22:26"
 		},
 		{
@@ -138,10 +138,10 @@
 		},
 		{
 			"state": "Chandigarh",
-			"confirmed": "15",
+			"confirmed": "17",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "15",
+			"active": "17",
 			"lastupdatedtime": "31/03/2020 22:57:26"
 		},
 		{
