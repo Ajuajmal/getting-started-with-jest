@@ -3,10 +3,10 @@
 		{
 			"state": "Total",
 			"confirmed": "1916",
-			"recovered": "155",
-			"deaths": "53",
-			"active": "1708",
-			"lastupdatedtime": "01/04/2020 18:52:25"
+			"recovered": "165",
+			"deaths": "50",
+			"active": "1701",
+			"lastupdatedtime": "01/04/2020 18:57:27"
 		},
 		{
 			"state": "Andaman and Nicobar Islands",
@@ -107,9 +107,9 @@
 		{
 			"state": "Haryana",
 			"confirmed": "43",
-			"recovered": "17",
+			"recovered": "27",
 			"deaths": "0",
-			"active": "26",
+			"active": "16",
 			"lastupdatedtime": "31/03/2020 19:52:36"
 		},
 		{
@@ -300,9 +300,9 @@
 			"state": "West Bengal",
 			"confirmed": "37",
 			"recovered": "3",
-			"deaths": "6",
-			"active": "28",
-			"lastupdatedtime": "01/04/2020 18:52:30"
+			"deaths": "3",
+			"active": "31",
+			"lastupdatedtime": "01/04/2020 18:57:34"
 		}
 	],
 	"cases_time_series": [
