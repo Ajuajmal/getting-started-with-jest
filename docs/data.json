@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "2093",
+			"confirmed": "2094",
 			"recovered": "171",
 			"deaths": "57",
-			"active": "1865",
-			"lastupdatedtime": "02/04/2020 10:52:27"
+			"active": "1866",
+			"lastupdatedtime": "02/04/2020 11:42:27"
 		},
 		{
 			"state": "Maharashtra",
@@ -242,11 +242,11 @@
 		},
 		{
 			"state": "Arunachal Pradesh",
-			"confirmed": "0",
+			"confirmed": "1",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "0",
-			"lastupdatedtime": "26/03/2020 07:19:29"
+			"active": "1",
+			"lastupdatedtime": "02/04/2020 11:42:31"
 		},
 		{
 			"state": "Dadra and Nagar Haveli",
