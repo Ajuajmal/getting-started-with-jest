@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "2180",
-			"recovered": "173",
-			"deaths": "64",
-			"active": "1943",
-			"lastupdatedtime": "02/04/2020 16:52:24"
+			"confirmed": "2192",
+			"recovered": "176",
+			"deaths": "66",
+			"active": "1950",
+			"lastupdatedtime": "02/04/2020 17:57:24"
 		},
 		{
 			"state": "Maharashtra",
@@ -38,7 +38,7 @@
 			"recovered": "6",
 			"deaths": "4",
 			"active": "209",
-			"lastupdatedtime": "02/04/2020 17:37:25"
+			"lastupdatedtime": "02/04/2020 17:57:24"
 		},
 		{
 			"state": "Rajasthan",
@@ -50,11 +50,11 @@
 		},
 		{
 			"state": "Uttar Pradesh",
-			"confirmed": "117",
+			"confirmed": "121",
 			"recovered": "17",
 			"deaths": "2",
-			"active": "98",
-			"lastupdatedtime": "01/04/2020 18:17:29"
+			"active": "102",
+			"lastupdatedtime": "02/04/2020 17:57:25"
 		},
 		{
 			"state": "Andhra Pradesh",
@@ -92,17 +92,17 @@
 			"state": "Madhya Pradesh",
 			"confirmed": "98",
 			"recovered": "0",
-			"deaths": "6",
-			"active": "92",
+			"deaths": "8",
+			"active": "90",
 			"lastupdatedtime": "02/04/2020 10:17:42"
 		},
 		{
 			"state": "Jammu and Kashmir",
-			"confirmed": "62",
+			"confirmed": "70",
 			"recovered": "3",
 			"deaths": "2",
-			"active": "57",
-			"lastupdatedtime": "02/04/2020 17:37:28"
+			"active": "65",
+			"lastupdatedtime": "02/04/2020 17:57:26"
 		},
 		{
 			"state": "Punjab",
@@ -131,9 +131,9 @@
 		{
 			"state": "Bihar",
 			"confirmed": "24",
-			"recovered": "0",
+			"recovered": "3",
 			"deaths": "1",
-			"active": "23",
+			"active": "20",
 			"lastupdatedtime": "01/04/2020 19:12:28"
 		},
 		{
