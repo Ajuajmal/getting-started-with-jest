@@ -3,10 +3,10 @@
 		{
 			"state": "Total",
 			"confirmed": "2018",
-			"recovered": "169",
+			"recovered": "171",
 			"deaths": "56",
-			"active": "1793",
-			"lastupdatedtime": "02/04/2020 09:42:25"
+			"active": "1791",
+			"lastupdatedtime": "02/04/2020 09:47:26"
 		},
 		{
 			"state": "Maharashtra",
@@ -83,10 +83,10 @@
 		{
 			"state": "Gujarat",
 			"confirmed": "87",
-			"recovered": "5",
+			"recovered": "7",
 			"deaths": "6",
-			"active": "76",
-			"lastupdatedtime": "01/04/2020 20:02:30"
+			"active": "74",
+			"lastupdatedtime": "02/04/2020 09:47:34"
 		},
 		{
 			"state": "Madhya Pradesh",
