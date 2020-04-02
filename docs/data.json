@@ -4,17 +4,17 @@
 			"state": "Total",
 			"confirmed": "2113",
 			"recovered": "172",
-			"deaths": "60",
-			"active": "1881",
-			"lastupdatedtime": "02/04/2020 15:12:24"
+			"deaths": "62",
+			"active": "1879",
+			"lastupdatedtime": "02/04/2020 16:02:24"
 		},
 		{
 			"state": "Maharashtra",
 			"confirmed": "339",
 			"recovered": "39",
-			"deaths": "14",
-			"active": "286",
-			"lastupdatedtime": "02/04/2020 13:18:19"
+			"deaths": "16",
+			"active": "284",
+			"lastupdatedtime": "02/04/2020 16:02:26"
 		},
 		{
 			"state": "Kerala",
@@ -997,7 +997,7 @@
 			"dailydeceased": "7",
 			"totaldeceased": "56",
 			"rec": "9",
-			"death": "11"
+			"death": "13"
 		}
 	]
 }
