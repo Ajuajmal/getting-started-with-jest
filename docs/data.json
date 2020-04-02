@@ -3,10 +3,10 @@
 		{
 			"state": "Total",
 			"confirmed": "2536",
-			"recovered": "189",
+			"recovered": "191",
 			"deaths": "72",
-			"active": "2275",
-			"lastupdatedtime": "02/04/2020 22:52:54"
+			"active": "2273",
+			"lastupdatedtime": "03/04/2020 00:32:24"
 		},
 		{
 			"state": "Maharashtra",
@@ -35,10 +35,10 @@
 		{
 			"state": "Delhi",
 			"confirmed": "293",
-			"recovered": "6",
+			"recovered": "8",
 			"deaths": "4",
-			"active": "283",
-			"lastupdatedtime": "02/04/2020 20:37:25"
+			"active": "281",
+			"lastupdatedtime": "03/04/2020 00:32:24"
 		},
 		{
 			"state": "Rajasthan",
