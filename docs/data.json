@@ -2,19 +2,19 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "2530",
+			"confirmed": "2533",
 			"recovered": "189",
 			"deaths": "70",
-			"active": "2271",
-			"lastupdatedtime": "02/04/2020 22:37:24"
+			"active": "2274",
+			"lastupdatedtime": "02/04/2020 22:47:24"
 		},
 		{
 			"state": "Maharashtra",
-			"confirmed": "420",
+			"confirmed": "423",
 			"recovered": "42",
 			"deaths": "19",
-			"active": "359",
-			"lastupdatedtime": "02/04/2020 22:32:24"
+			"active": "362",
+			"lastupdatedtime": "02/04/2020 22:47:25"
 		},
 		{
 			"state": "Kerala",
@@ -206,7 +206,7 @@
 			"recovered": "1",
 			"deaths": "1",
 			"active": "4",
-			"lastupdatedtime": "02/04/2020 22:37:25"
+			"lastupdatedtime": "02/04/2020 22:42:28"
 		},
 		{
 			"state": "Puducherry",
