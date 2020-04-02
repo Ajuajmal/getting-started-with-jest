@@ -996,8 +996,8 @@
 			"totalrecovered": "169",
 			"dailydeceased": "7",
 			"totaldeceased": "56",
-			"rec": "9",
-			"death": "13"
+			"rec": "",
+			"death": ""
 		}
 	]
 }
