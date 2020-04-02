@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "2192",
+			"confirmed": "2196",
 			"recovered": "176",
 			"deaths": "66",
-			"active": "1950",
-			"lastupdatedtime": "02/04/2020 17:57:24"
+			"active": "1954",
+			"lastupdatedtime": "02/04/2020 18:02:24"
 		},
 		{
 			"state": "Maharashtra",
@@ -42,10 +42,10 @@
 		},
 		{
 			"state": "Rajasthan",
-			"confirmed": "131",
+			"confirmed": "133",
 			"recovered": "3",
 			"deaths": "0",
-			"active": "128",
+			"active": "130",
 			"lastupdatedtime": "01/04/2020 18:17:27"
 		},
 		{
@@ -94,7 +94,7 @@
 			"recovered": "0",
 			"deaths": "8",
 			"active": "90",
-			"lastupdatedtime": "02/04/2020 10:17:42"
+			"lastupdatedtime": "02/04/2020 18:02:25"
 		},
 		{
 			"state": "Jammu and Kashmir",
@@ -114,10 +114,10 @@
 		},
 		{
 			"state": "Haryana",
-			"confirmed": "47",
+			"confirmed": "49",
 			"recovered": "27",
 			"deaths": "0",
-			"active": "20",
+			"active": "22",
 			"lastupdatedtime": "01/04/2020 19:02:30"
 		},
 		{
@@ -134,7 +134,7 @@
 			"recovered": "3",
 			"deaths": "1",
 			"active": "20",
-			"lastupdatedtime": "01/04/2020 19:12:28"
+			"lastupdatedtime": "02/04/2020 18:02:27"
 		},
 		{
 			"state": "Chandigarh",
