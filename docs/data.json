@@ -985,8 +985,8 @@
 			"totalrecovered": "150",
 			"dailydeceased": "6",
 			"totaldeceased": "49",
-			"rec": "19",
-			"death": "7"
+			"rec": "",
+			"death": ""
 		},
 		{
 			"date": "01 April ",
@@ -996,8 +996,8 @@
 			"totalrecovered": "169",
 			"dailydeceased": "7",
 			"totaldeceased": "56",
-			"rec": "",
-			"death": ""
+			"rec": "19",
+			"death": "7"
 		}
 	]
 }
