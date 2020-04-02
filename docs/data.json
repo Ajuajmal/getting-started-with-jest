@@ -2,10 +2,10 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "2533",
+			"confirmed": "2536",
 			"recovered": "189",
 			"deaths": "70",
-			"active": "2274",
+			"active": "2277",
 			"lastupdatedtime": "02/04/2020 22:47:24"
 		},
 		{
@@ -178,10 +178,10 @@
 		},
 		{
 			"state": "Uttarakhand",
-			"confirmed": "7",
+			"confirmed": "10",
 			"recovered": "2",
 			"deaths": "0",
-			"active": "5",
+			"active": "8",
 			"lastupdatedtime": "30/03/2020 06:27:24"
 		},
 		{
