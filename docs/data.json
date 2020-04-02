@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "2235",
+			"confirmed": "2295",
 			"recovered": "176",
 			"deaths": "66",
-			"active": "1993",
-			"lastupdatedtime": "02/04/2020 18:02:24"
+			"active": "2053",
+			"lastupdatedtime": "02/04/2020 18:12:24"
 		},
 		{
 			"state": "Maharashtra",
@@ -22,15 +22,15 @@
 			"recovered": "26",
 			"deaths": "2",
 			"active": "258",
-			"lastupdatedtime": "01/04/2020 19:27:27"
+			"lastupdatedtime": "02/04/2020 18:12:26"
 		},
 		{
 			"state": "Tamil Nadu",
-			"confirmed": "249",
+			"confirmed": "309",
 			"recovered": "6",
 			"deaths": "1",
-			"active": "242",
-			"lastupdatedtime": "01/04/2020 18:17:28"
+			"active": "302",
+			"lastupdatedtime": "02/04/2020 18:12:28"
 		},
 		{
 			"state": "Delhi",
@@ -62,7 +62,7 @@
 			"recovered": "2",
 			"deaths": "0",
 			"active": "133",
-			"lastupdatedtime": "02/04/2020 10:52:36"
+			"lastupdatedtime": "02/04/2020 18:12:31"
 		},
 		{
 			"state": "Karnataka",
