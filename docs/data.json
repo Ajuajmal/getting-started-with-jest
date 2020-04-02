@@ -2,19 +2,19 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "2060",
+			"confirmed": "2072",
 			"recovered": "171",
 			"deaths": "56",
-			"active": "1833",
-			"lastupdatedtime": "02/04/2020 10:12:23"
+			"active": "1845",
+			"lastupdatedtime": "02/04/2020 10:17:31"
 		},
 		{
 			"state": "Maharashtra",
-			"confirmed": "335",
+			"confirmed": "338",
 			"recovered": "39",
 			"deaths": "14",
-			"active": "282",
-			"lastupdatedtime": "02/04/2020 00:02:28"
+			"active": "285",
+			"lastupdatedtime": "02/04/2020 10:17:37"
 		},
 		{
 			"state": "Kerala",
@@ -42,10 +42,10 @@
 		},
 		{
 			"state": "Rajasthan",
-			"confirmed": "120",
+			"confirmed": "129",
 			"recovered": "3",
 			"deaths": "0",
-			"active": "117",
+			"active": "126",
 			"lastupdatedtime": "01/04/2020 18:17:27"
 		},
 		{
@@ -94,7 +94,7 @@
 			"recovered": "0",
 			"deaths": "6",
 			"active": "92",
-			"lastupdatedtime": "01/04/2020 16:12:31"
+			"lastupdatedtime": "02/04/2020 10:17:42"
 		},
 		{
 			"state": "Jammu and Kashmir",
