@@ -314,8 +314,8 @@
 			"totalrecovered": "0",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "31 January ",
@@ -325,8 +325,8 @@
 			"totalrecovered": "0",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "01 February ",
@@ -336,8 +336,8 @@
 			"totalrecovered": "0",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "02 February ",
@@ -347,8 +347,8 @@
 			"totalrecovered": "0",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "03 February ",
@@ -358,8 +358,8 @@
 			"totalrecovered": "0",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "04 February ",
@@ -369,8 +369,8 @@
 			"totalrecovered": "0",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "05 February ",
@@ -380,8 +380,8 @@
 			"totalrecovered": "0",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "06 February ",
@@ -391,8 +391,8 @@
 			"totalrecovered": "0",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "07 February ",
@@ -402,8 +402,8 @@
 			"totalrecovered": "0",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "08 February ",
@@ -413,8 +413,8 @@
 			"totalrecovered": "0",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "09 February ",
@@ -424,8 +424,8 @@
 			"totalrecovered": "0",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "10 February ",
@@ -435,8 +435,8 @@
 			"totalrecovered": "0",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "11 February ",
@@ -446,8 +446,8 @@
 			"totalrecovered": "0",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "12 February ",
@@ -457,8 +457,8 @@
 			"totalrecovered": "0",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "13 February ",
@@ -468,8 +468,8 @@
 			"totalrecovered": "1",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "14 February ",
@@ -479,8 +479,8 @@
 			"totalrecovered": "1",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "15 February ",
@@ -490,8 +490,8 @@
 			"totalrecovered": "1",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "16 February ",
@@ -501,8 +501,8 @@
 			"totalrecovered": "2",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "17 February ",
@@ -512,8 +512,8 @@
 			"totalrecovered": "2",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "18 February ",
@@ -523,8 +523,8 @@
 			"totalrecovered": "2",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "19 February ",
@@ -534,8 +534,8 @@
 			"totalrecovered": "2",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "20 February ",
@@ -545,8 +545,8 @@
 			"totalrecovered": "3",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "21 February ",
@@ -556,8 +556,8 @@
 			"totalrecovered": "3",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "22 February ",
@@ -567,8 +567,8 @@
 			"totalrecovered": "3",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "23 February ",
@@ -578,8 +578,8 @@
 			"totalrecovered": "3",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "24 February ",
@@ -589,8 +589,8 @@
 			"totalrecovered": "3",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "25 February ",
@@ -600,8 +600,8 @@
 			"totalrecovered": "3",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "26 February ",
@@ -611,8 +611,8 @@
 			"totalrecovered": "3",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "27 February ",
@@ -622,8 +622,8 @@
 			"totalrecovered": "3",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "28 February ",
@@ -633,8 +633,8 @@
 			"totalrecovered": "3",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "29 February ",
@@ -644,8 +644,8 @@
 			"totalrecovered": "3",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "01 March ",
@@ -655,8 +655,8 @@
 			"totalrecovered": "3",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "02 March ",
@@ -666,8 +666,8 @@
 			"totalrecovered": "3",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "03 March ",
@@ -677,8 +677,8 @@
 			"totalrecovered": "3",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "04 March ",
@@ -688,8 +688,8 @@
 			"totalrecovered": "3",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "05 March ",
@@ -699,8 +699,8 @@
 			"totalrecovered": "3",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "06 March ",
@@ -710,8 +710,8 @@
 			"totalrecovered": "3",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "07 March ",
@@ -721,8 +721,8 @@
 			"totalrecovered": "3",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "08 March ",
@@ -732,8 +732,8 @@
 			"totalrecovered": "3",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "09 March ",
@@ -743,8 +743,8 @@
 			"totalrecovered": "3",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "10 March ",
@@ -754,8 +754,8 @@
 			"totalrecovered": "4",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "11 March ",
@@ -765,8 +765,8 @@
 			"totalrecovered": "4",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "12 March ",
@@ -776,8 +776,8 @@
 			"totalrecovered": "4",
 			"dailydeceased": "1",
 			"totaldeceased": "1",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "13 March ",
@@ -787,8 +787,8 @@
 			"totalrecovered": "10",
 			"dailydeceased": "0",
 			"totaldeceased": "1",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "14 March ",
@@ -798,8 +798,8 @@
 			"totalrecovered": "10",
 			"dailydeceased": "1",
 			"totaldeceased": "2",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "15 March ",
@@ -809,8 +809,8 @@
 			"totalrecovered": "13",
 			"dailydeceased": "0",
 			"totaldeceased": "2",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "16 March ",
@@ -820,8 +820,8 @@
 			"totalrecovered": "14",
 			"dailydeceased": "0",
 			"totaldeceased": "2",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "17 March ",
@@ -831,8 +831,8 @@
 			"totalrecovered": "15",
 			"dailydeceased": "1",
 			"totaldeceased": "3",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "18 March ",
@@ -842,8 +842,8 @@
 			"totalrecovered": "15",
 			"dailydeceased": "0",
 			"totaldeceased": "3",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "19 March ",
@@ -853,8 +853,8 @@
 			"totalrecovered": "20",
 			"dailydeceased": "1",
 			"totaldeceased": "4",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "20 March ",
@@ -864,8 +864,8 @@
 			"totalrecovered": "23",
 			"dailydeceased": "0",
 			"totaldeceased": "4",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "21 March ",
@@ -875,8 +875,8 @@
 			"totalrecovered": "23",
 			"dailydeceased": "0",
 			"totaldeceased": "4",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "22 March ",
@@ -886,8 +886,8 @@
 			"totalrecovered": "23",
 			"dailydeceased": "3",
 			"totaldeceased": "7",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "23 March ",
@@ -897,8 +897,8 @@
 			"totalrecovered": "25",
 			"dailydeceased": "2",
 			"totaldeceased": "9",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "24 March ",
@@ -908,8 +908,8 @@
 			"totalrecovered": "40",
 			"dailydeceased": "1",
 			"totaldeceased": "10",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "25 March ",
@@ -919,8 +919,8 @@
 			"totalrecovered": "43",
 			"dailydeceased": "1",
 			"totaldeceased": "11",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "26 March ",
@@ -930,8 +930,8 @@
 			"totalrecovered": "50",
 			"dailydeceased": "5",
 			"totaldeceased": "16",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "27 March ",
@@ -941,8 +941,8 @@
 			"totalrecovered": "75",
 			"dailydeceased": "3",
 			"totaldeceased": "19",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "28 March ",
@@ -952,8 +952,8 @@
 			"totalrecovered": "85",
 			"dailydeceased": "5",
 			"totaldeceased": "24",
-			"recovered": "0",
-			"deceased": "0"
+			"rec": "0",
+			"death": "0"
 		},
 		{
 			"date": "29 March ",
@@ -963,8 +963,8 @@
 			"totalrecovered": "102",
 			"dailydeceased": "3",
 			"totaldeceased": "27",
-			"recovered": "99",
-			"deceased": "28"
+			"rec": "99",
+			"death": "28"
 		},
 		{
 			"date": "30 March ",
@@ -974,8 +974,8 @@
 			"totalrecovered": "137",
 			"dailydeceased": "16",
 			"totaldeceased": "43",
-			"recovered": "42",
-			"deceased": "13"
+			"rec": "42",
+			"death": "13"
 		},
 		{
 			"date": "31 March ",
@@ -985,8 +985,8 @@
 			"totalrecovered": "150",
 			"dailydeceased": "6",
 			"totaldeceased": "49",
-			"recovered": "",
-			"deceased": ""
+			"rec": "19",
+			"death": "7"
 		},
 		{
 			"date": "01 April ",
@@ -996,8 +996,8 @@
 			"totalrecovered": "169",
 			"dailydeceased": "7",
 			"totaldeceased": "56",
-			"recovered": "",
-			"deceased": ""
+			"rec": "9",
+			"death": "13"
 		}
 	]
 }
