@@ -868,8 +868,8 @@
 			"date": "01 April ",
 			"dailyconfirmed": "424",
 			"totalconfirmed": "2059",
-			"dailyrecovered": "9",
-			"totalrecovered": "159",
+			"dailyrecovered": "19",
+			"totalrecovered": "169",
 			"dailydeceased": "7",
 			"totaldeceased": "56"
 		},
@@ -878,9 +878,9 @@
 			"dailyconfirmed": "484",
 			"totalconfirmed": "2543",
 			"dailyrecovered": "22",
-			"totalrecovered": "181",
-			"dailydeceased": "13",
-			"totaldeceased": "69"
+			"totalrecovered": "191",
+			"dailydeceased": "16",
+			"totaldeceased": "72"
 		}
 	]
 }
