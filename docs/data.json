@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "2475",
+			"confirmed": "2511",
 			"recovered": "181",
 			"deaths": "70",
-			"active": "2224",
-			"lastupdatedtime": "02/04/2020 21:22:58"
+			"active": "2260",
+			"lastupdatedtime": "02/04/2020 21:27:29"
 		},
 		{
 			"state": "Maharashtra",
@@ -66,18 +66,18 @@
 		},
 		{
 			"state": "Karnataka",
-			"confirmed": "121",
+			"confirmed": "124",
 			"recovered": "9",
 			"deaths": "3",
-			"active": "109",
+			"active": "112",
 			"lastupdatedtime": "02/04/2020 17:37:26"
 		},
 		{
 			"state": "Telangana",
-			"confirmed": "127",
+			"confirmed": "154",
 			"recovered": "14",
 			"deaths": "9",
-			"active": "104",
+			"active": "131",
 			"lastupdatedtime": "02/04/2020 14:32:40"
 		},
 		{
@@ -90,11 +90,11 @@
 		},
 		{
 			"state": "Madhya Pradesh",
-			"confirmed": "101",
+			"confirmed": "107",
 			"recovered": "0",
 			"deaths": "8",
-			"active": "93",
-			"lastupdatedtime": "02/04/2020 21:23:06"
+			"active": "99",
+			"lastupdatedtime": "02/04/2020 21:27:32"
 		},
 		{
 			"state": "Jammu and Kashmir",
