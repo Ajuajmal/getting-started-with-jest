@@ -3,8 +3,8 @@
 		{
 			"state": "Total",
 			"confirmed": "2113",
-			"recovered": "173",
-			"deaths": "63",
+			"recovered": "172",
+			"deaths": "64",
 			"active": "1877",
 			"lastupdatedtime": "02/04/2020 16:52:24"
 		},
@@ -36,9 +36,9 @@
 			"state": "Delhi",
 			"confirmed": "152",
 			"recovered": "6",
-			"deaths": "3",
-			"active": "143",
-			"lastupdatedtime": "02/04/2020 17:32:24"
+			"deaths": "4",
+			"active": "142",
+			"lastupdatedtime": "02/04/2020 17:37:25"
 		},
 		{
 			"state": "Rajasthan",
@@ -70,7 +70,7 @@
 			"recovered": "9",
 			"deaths": "3",
 			"active": "109",
-			"lastupdatedtime": "02/04/2020 17:32:24"
+			"lastupdatedtime": "02/04/2020 17:37:26"
 		},
 		{
 			"state": "Telangana",
@@ -99,10 +99,10 @@
 		{
 			"state": "Jammu and Kashmir",
 			"confirmed": "62",
-			"recovered": "3",
+			"recovered": "2",
 			"deaths": "2",
-			"active": "57",
-			"lastupdatedtime": "01/04/2020 20:22:27"
+			"active": "58",
+			"lastupdatedtime": "02/04/2020 17:37:28"
 		},
 		{
 			"state": "Punjab",
