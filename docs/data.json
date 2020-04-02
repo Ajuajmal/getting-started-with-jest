@@ -2,10 +2,10 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "2014",
+			"confirmed": "2015",
 			"recovered": "169",
 			"deaths": "56",
-			"active": "1789",
+			"active": "1790",
 			"lastupdatedtime": "02/04/2020 00:02:26"
 		},
 		{
@@ -226,10 +226,10 @@
 		},
 		{
 			"state": "Manipur",
-			"confirmed": "1",
+			"confirmed": "2",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "1",
+			"active": "2",
 			"lastupdatedtime": "26/03/2020 07:19:29"
 		},
 		{
