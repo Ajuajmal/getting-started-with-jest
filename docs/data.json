@@ -6,7 +6,7 @@
 			"recovered": "181",
 			"deaths": "69",
 			"active": "2147",
-			"lastupdatedtime": "02/04/2020 18:52:24"
+			"lastupdatedtime": "02/04/2020 18:57:24"
 		},
 		{
 			"state": "Maharashtra",
@@ -22,7 +22,7 @@
 			"recovered": "28",
 			"deaths": "2",
 			"active": "256",
-			"lastupdatedtime": "02/04/2020 18:52:27"
+			"lastupdatedtime": "02/04/2020 18:57:27"
 		},
 		{
 			"state": "Tamil Nadu",
@@ -62,7 +62,7 @@
 			"recovered": "2",
 			"deaths": "0",
 			"active": "141",
-			"lastupdatedtime": "02/04/2020 18:12:31"
+			"lastupdatedtime": "02/04/2020 18:57:29"
 		},
 		{
 			"state": "Karnataka",
@@ -142,7 +142,7 @@
 			"recovered": "0",
 			"deaths": "0",
 			"active": "18",
-			"lastupdatedtime": "01/04/2020 22:52:26"
+			"lastupdatedtime": "02/04/2020 18:57:31"
 		},
 		{
 			"state": "Ladakh",
@@ -985,8 +985,8 @@
 			"totalrecovered": "150",
 			"dailydeceased": "6",
 			"totaldeceased": "49",
-			"rec": "19",
-			"death": "7"
+			"rec": "",
+			"death": ""
 		},
 		{
 			"date": "01 April ",
@@ -996,8 +996,8 @@
 			"totalrecovered": "169",
 			"dailydeceased": "7",
 			"totaldeceased": "56",
-			"rec": "9",
-			"death": "13"
+			"rec": "",
+			"death": ""
 		}
 	]
 }
