@@ -4,9 +4,9 @@
 			"state": "Total",
 			"confirmed": "2474",
 			"recovered": "181",
-			"deaths": "69",
-			"active": "2224",
-			"lastupdatedtime": "02/04/2020 20:37:24"
+			"deaths": "70",
+			"active": "2223",
+			"lastupdatedtime": "02/04/2020 20:57:25"
 		},
 		{
 			"state": "Maharashtra",
@@ -108,9 +108,9 @@
 			"state": "Punjab",
 			"confirmed": "47",
 			"recovered": "1",
-			"deaths": "4",
-			"active": "42",
-			"lastupdatedtime": "02/04/2020 15:12:25"
+			"deaths": "5",
+			"active": "41",
+			"lastupdatedtime": "02/04/2020 20:57:27"
 		},
 		{
 			"state": "Haryana",
