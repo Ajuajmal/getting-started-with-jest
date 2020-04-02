@@ -2,10 +2,10 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "2511",
+			"confirmed": "2512",
 			"recovered": "186",
 			"deaths": "70",
-			"active": "2255",
+			"active": "2256",
 			"lastupdatedtime": "02/04/2020 21:37:24"
 		},
 		{
@@ -82,10 +82,10 @@
 		},
 		{
 			"state": "Gujarat",
-			"confirmed": "87",
+			"confirmed": "88",
 			"recovered": "7",
 			"deaths": "7",
-			"active": "73",
+			"active": "74",
 			"lastupdatedtime": "02/04/2020 10:52:44"
 		},
 		{
