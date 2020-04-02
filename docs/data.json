@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "2015",
+			"confirmed": "2018",
 			"recovered": "169",
 			"deaths": "56",
-			"active": "1790",
-			"lastupdatedtime": "02/04/2020 00:02:26"
+			"active": "1793",
+			"lastupdatedtime": "02/04/2020 09:42:25"
 		},
 		{
 			"state": "Maharashtra",
@@ -154,11 +154,11 @@
 		},
 		{
 			"state": "Assam",
-			"confirmed": "13",
+			"confirmed": "16",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "13",
-			"lastupdatedtime": "01/04/2020 21:12:26"
+			"active": "16",
+			"lastupdatedtime": "02/04/2020 09:42:29"
 		},
 		{
 			"state": "Andaman and Nicobar Islands",
@@ -230,7 +230,7 @@
 			"recovered": "0",
 			"deaths": "0",
 			"active": "2",
-			"lastupdatedtime": "26/03/2020 07:19:29"
+			"lastupdatedtime": "02/04/2020 09:42:34"
 		},
 		{
 			"state": "Mizoram",
