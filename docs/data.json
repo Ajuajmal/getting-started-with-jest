@@ -2,10 +2,10 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "2113",
+			"confirmed": "2180",
 			"recovered": "173",
 			"deaths": "64",
-			"active": "1876",
+			"active": "1943",
 			"lastupdatedtime": "02/04/2020 16:52:24"
 		},
 		{
@@ -34,10 +34,10 @@
 		},
 		{
 			"state": "Delhi",
-			"confirmed": "152",
+			"confirmed": "219",
 			"recovered": "6",
 			"deaths": "4",
-			"active": "142",
+			"active": "209",
 			"lastupdatedtime": "02/04/2020 17:37:25"
 		},
 		{
