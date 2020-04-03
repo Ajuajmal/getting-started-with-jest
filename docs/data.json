@@ -2,10 +2,10 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "2639",
+			"confirmed": "2640",
 			"recovered": "192",
 			"deaths": "73",
-			"active": "2374",
+			"active": "2375",
 			"lastupdatedtime": "03/04/2020 13:12:24",
 			"statecode": "TT"
 		},
@@ -227,10 +227,10 @@
 		},
 		{
 			"state": "Odisha",
-			"confirmed": "5",
+			"confirmed": "6",
 			"recovered": "2",
 			"deaths": "0",
-			"active": "3",
+			"active": "4",
 			"lastupdatedtime": "03/04/2020 10:22:25",
 			"statecode": "OR"
 		},
