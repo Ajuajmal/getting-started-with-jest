@@ -2,11 +2,11 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "2631",
+			"confirmed": "2639",
 			"recovered": "192",
 			"deaths": "73",
-			"active": "2366",
-			"lastupdatedtime": "03/04/2020 13:02:24",
+			"active": "2374",
+			"lastupdatedtime": "03/04/2020 13:12:24",
 			"statecode": "TT"
 		},
 		{
@@ -128,11 +128,11 @@
 		},
 		{
 			"state": "Haryana",
-			"confirmed": "49",
+			"confirmed": "57",
 			"recovered": "27",
 			"deaths": "0",
-			"active": "22",
-			"lastupdatedtime": "01/04/2020 19:02:30",
+			"active": "30",
+			"lastupdatedtime": "03/04/2020 13:12:26",
 			"statecode": "HR"
 		},
 		{
