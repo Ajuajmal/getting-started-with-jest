@@ -5,8 +5,8 @@
 			"statecode": "Total",
 			"confirmed": "2586",
 			"recovered": "192",
-			"deaths": "72",
-			"active": "2322",
+			"deaths": "73",
+			"active": "03/04/2020 11:07:25",
 			"lastupdatedtime": "03/04/2020 09:22:24"
 		},
 		{
@@ -15,7 +15,7 @@
 			"confirmed": "423",
 			"recovered": "42",
 			"deaths": "21",
-			"active": "360",
+			"active": "03/04/2020 11:07:27",
 			"lastupdatedtime": "02/04/2020 22:53:15"
 		},
 		{
@@ -24,7 +24,7 @@
 			"confirmed": "286",
 			"recovered": "28",
 			"deaths": "2",
-			"active": "256",
+			"active": "03/04/2020 11:07:29",
 			"lastupdatedtime": "02/04/2020 18:57:27"
 		},
 		{
@@ -33,7 +33,7 @@
 			"confirmed": "309",
 			"recovered": "6",
 			"deaths": "1",
-			"active": "302",
+			"active": "03/04/2020 11:07:31",
 			"lastupdatedtime": "02/04/2020 18:12:28"
 		},
 		{
@@ -42,7 +42,7 @@
 			"confirmed": "293",
 			"recovered": "8",
 			"deaths": "4",
-			"active": "281",
+			"active": "03/04/2020 11:07:33",
 			"lastupdatedtime": "03/04/2020 00:38:22"
 		},
 		{
@@ -51,7 +51,7 @@
 			"confirmed": "154",
 			"recovered": "3",
 			"deaths": "0",
-			"active": "151",
+			"active": "03/04/2020 11:07:34",
 			"lastupdatedtime": "03/04/2020 09:22:24"
 		},
 		{
@@ -60,7 +60,7 @@
 			"confirmed": "128",
 			"recovered": "17",
 			"deaths": "2",
-			"active": "109",
+			"active": "03/04/2020 11:07:36",
 			"lastupdatedtime": "03/04/2020 08:52:25"
 		},
 		{
@@ -69,7 +69,7 @@
 			"confirmed": "161",
 			"recovered": "2",
 			"deaths": "0",
-			"active": "159",
+			"active": "03/04/2020 11:07:37",
 			"lastupdatedtime": "02/04/2020 22:32:25"
 		},
 		{
@@ -78,7 +78,7 @@
 			"confirmed": "124",
 			"recovered": "11",
 			"deaths": "3",
-			"active": "110",
+			"active": "03/04/2020 11:07:38",
 			"lastupdatedtime": "02/04/2020 17:37:26"
 		},
 		{
@@ -87,7 +87,7 @@
 			"confirmed": "154",
 			"recovered": "17",
 			"deaths": "9",
-			"active": "128",
+			"active": "03/04/2020 11:07:40",
 			"lastupdatedtime": "02/04/2020 21:37:25"
 		},
 		{
@@ -95,8 +95,8 @@
 			"statecode": "",
 			"confirmed": "95",
 			"recovered": "10",
-			"deaths": "7",
-			"active": "78",
+			"deaths": "8",
+			"active": "03/04/2020 11:07:45",
 			"lastupdatedtime": "02/04/2020 22:14:13"
 		},
 		{
@@ -105,7 +105,7 @@
 			"confirmed": "107",
 			"recovered": "0",
 			"deaths": "8",
-			"active": "99",
+			"active": "03/04/2020 11:07:48",
 			"lastupdatedtime": "02/04/2020 21:27:32"
 		},
 		{
@@ -114,7 +114,7 @@
 			"confirmed": "70",
 			"recovered": "3",
 			"deaths": "2",
-			"active": "65",
+			"active": "03/04/2020 11:07:50",
 			"lastupdatedtime": "02/04/2020 17:57:26"
 		},
 		{
@@ -123,7 +123,7 @@
 			"confirmed": "47",
 			"recovered": "1",
 			"deaths": "5",
-			"active": "41",
+			"active": "03/04/2020 11:07:51",
 			"lastupdatedtime": "02/04/2020 21:02:25"
 		},
 		{
@@ -132,7 +132,7 @@
 			"confirmed": "49",
 			"recovered": "27",
 			"deaths": "0",
-			"active": "22",
+			"active": "03/04/2020 11:07:53",
 			"lastupdatedtime": "01/04/2020 19:02:30"
 		},
 		{
@@ -141,7 +141,7 @@
 			"confirmed": "53",
 			"recovered": "3",
 			"deaths": "6",
-			"active": "44",
+			"active": "03/04/2020 11:07:54",
 			"lastupdatedtime": "02/04/2020 18:32:26"
 		},
 		{
@@ -150,7 +150,7 @@
 			"confirmed": "29",
 			"recovered": "3",
 			"deaths": "1",
-			"active": "25",
+			"active": "03/04/2020 11:07:56",
 			"lastupdatedtime": "02/04/2020 18:02:27"
 		},
 		{
@@ -159,7 +159,7 @@
 			"confirmed": "18",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "18",
+			"active": "03/04/2020 11:07:57",
 			"lastupdatedtime": "02/04/2020 18:57:31"
 		},
 		{
@@ -168,7 +168,7 @@
 			"confirmed": "13",
 			"recovered": "3",
 			"deaths": "0",
-			"active": "10",
+			"active": "03/04/2020 11:07:59",
 			"lastupdatedtime": "27/03/2020 11:52:25"
 		},
 		{
@@ -177,7 +177,7 @@
 			"confirmed": "16",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "16",
+			"active": "03/04/2020 11:08:01",
 			"lastupdatedtime": "02/04/2020 09:42:29"
 		},
 		{
@@ -186,7 +186,7 @@
 			"confirmed": "10",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "10",
+			"active": "03/04/2020 11:08:02",
 			"lastupdatedtime": "30/03/2020 11:27:27"
 		},
 		{
@@ -195,7 +195,7 @@
 			"confirmed": "9",
 			"recovered": "3",
 			"deaths": "0",
-			"active": "6",
+			"active": "03/04/2020 11:08:04",
 			"lastupdatedtime": "31/03/2020 23:07:28"
 		},
 		{
@@ -204,7 +204,7 @@
 			"confirmed": "10",
 			"recovered": "2",
 			"deaths": "0",
-			"active": "8",
+			"active": "03/04/2020 11:08:05",
 			"lastupdatedtime": "02/04/2020 22:53:23"
 		},
 		{
@@ -213,7 +213,7 @@
 			"confirmed": "6",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "6",
+			"active": "03/04/2020 11:08:06",
 			"lastupdatedtime": "03/04/2020 10:22:24"
 		},
 		{
@@ -222,7 +222,7 @@
 			"confirmed": "5",
 			"recovered": "2",
 			"deaths": "0",
-			"active": "3",
+			"active": "03/04/2020 11:08:10",
 			"lastupdatedtime": "03/04/2020 10:22:25"
 		},
 		{
@@ -231,7 +231,7 @@
 			"confirmed": "6",
 			"recovered": "1",
 			"deaths": "1",
-			"active": "4",
+			"active": "03/04/2020 11:08:12",
 			"lastupdatedtime": "02/04/2020 22:42:28"
 		},
 		{
@@ -240,7 +240,7 @@
 			"confirmed": "5",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "5",
+			"active": "03/04/2020 11:08:13",
 			"lastupdatedtime": "03/04/2020 02:37:27"
 		},
 		{
@@ -249,7 +249,7 @@
 			"confirmed": "2",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "2",
+			"active": "03/04/2020 11:08:14",
 			"lastupdatedtime": "02/04/2020 19:42:30"
 		},
 		{
@@ -258,7 +258,7 @@
 			"confirmed": "2",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "2",
+			"active": "03/04/2020 11:08:16",
 			"lastupdatedtime": "02/04/2020 09:42:34"
 		},
 		{
@@ -267,7 +267,7 @@
 			"confirmed": "1",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "1",
+			"active": "03/04/2020 11:08:18",
 			"lastupdatedtime": "26/03/2020 07:19:29"
 		},
 		{
@@ -276,7 +276,7 @@
 			"confirmed": "1",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "1",
+			"active": "03/04/2020 11:08:19",
 			"lastupdatedtime": "02/04/2020 11:42:31"
 		},
 		{
