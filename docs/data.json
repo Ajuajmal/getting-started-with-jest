@@ -2,8 +2,8 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "2566",
-			"recovered": "191",
+			"confirmed": "2567",
+			"recovered": "192",
 			"deaths": "72",
 			"active": "2303",
 			"lastupdatedtime": "03/04/2020 09:22:24"
@@ -186,19 +186,19 @@
 		},
 		{
 			"state": "Goa",
-			"confirmed": "5",
+			"confirmed": "6",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "5",
-			"lastupdatedtime": "29/03/2020 18:52:25"
+			"active": "6",
+			"lastupdatedtime": "03/04/2020 10:22:24"
 		},
 		{
 			"state": "Odisha",
 			"confirmed": "5",
-			"recovered": "1",
+			"recovered": "2",
 			"deaths": "0",
-			"active": "4",
-			"lastupdatedtime": "01/04/2020 23:42:26"
+			"active": "3",
+			"lastupdatedtime": "03/04/2020 10:22:25"
 		},
 		{
 			"state": "Himachal Pradesh",
