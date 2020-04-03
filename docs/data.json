@@ -46,6 +46,15 @@
 			"statecode": "KL"
 		},
 		{
+			"state": "Uttar Pradesh",
+			"confirmed": "172",
+			"recovered": "17",
+			"deaths": "2",
+			"active": "153",
+			"lastupdatedtime": "03/04/2020 08:52:25",
+			"statecode": "UP"
+		},
+		{
 			"state": "Andhra Pradesh",
 			"confirmed": "161",
 			"recovered": "2",
@@ -71,15 +80,6 @@
 			"active": "128",
 			"lastupdatedtime": "02/04/2020 21:37:25",
 			"statecode": "TG"
-		},
-		{
-			"state": "Uttar Pradesh",
-			"confirmed": "172",
-			"recovered": "17",
-			"deaths": "2",
-			"active": "153",
-			"lastupdatedtime": "03/04/2020 08:52:25",
-			"statecode": "UP"
 		},
 		{
 			"state": "Karnataka",
@@ -118,15 +118,6 @@
 			"statecode": "JK"
 		},
 		{
-			"state": "West Bengal",
-			"confirmed": "53",
-			"recovered": "3",
-			"deaths": "6",
-			"active": "44",
-			"lastupdatedtime": "02/04/2020 18:32:26",
-			"statecode": "WB"
-		},
-		{
 			"state": "Haryana",
 			"confirmed": "57",
 			"recovered": "27",
@@ -134,6 +125,15 @@
 			"active": "30",
 			"lastupdatedtime": "03/04/2020 13:12:26",
 			"statecode": "HR"
+		},
+		{
+			"state": "West Bengal",
+			"confirmed": "53",
+			"recovered": "3",
+			"deaths": "6",
+			"active": "44",
+			"lastupdatedtime": "02/04/2020 18:32:26",
+			"statecode": "WB"
 		},
 		{
 			"state": "Punjab",
