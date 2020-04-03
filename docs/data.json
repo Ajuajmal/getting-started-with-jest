@@ -4,8 +4,8 @@
 			"state": "Total",
 			"confirmed": "2640",
 			"recovered": "192",
-			"deaths": "73",
-			"active": "2375",
+			"deaths": "74",
+			"active": "2374",
 			"lastupdatedtime": "03/04/2020 14:27:24",
 			"statecode": "TT"
 		},
@@ -58,8 +58,8 @@
 			"state": "Andhra Pradesh",
 			"confirmed": "161",
 			"recovered": "2",
-			"deaths": "0",
-			"active": "159",
+			"deaths": "1",
+			"active": "158",
 			"lastupdatedtime": "02/04/2020 22:32:25",
 			"statecode": "AP"
 		},
