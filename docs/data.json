@@ -2,10 +2,10 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "2858",
+			"confirmed": "2867",
 			"recovered": "192",
 			"deaths": "75",
-			"active": "2591",
+			"active": "2600",
 			"lastupdatedtime": "03/04/2020 17:37:37",
 			"statecode": "TT",
 			"deltaconfirmed": "313",
@@ -50,10 +50,10 @@
 		},
 		{
 			"state": "Kerala",
-			"confirmed": "286",
+			"confirmed": "295",
 			"recovered": "28",
 			"deaths": "2",
-			"active": "256",
+			"active": "265",
 			"lastupdatedtime": "02/04/2020 18:57:27",
 			"statecode": "KL",
 			"deltaconfirmed": "0",
