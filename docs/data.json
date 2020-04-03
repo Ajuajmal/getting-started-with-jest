@@ -73,18 +73,6 @@
 			"deltadeaths": "0"
 		},
 		{
-			"state": "Andhra Pradesh",
-			"confirmed": "161",
-			"recovered": "2",
-			"deaths": "1",
-			"active": "158",
-			"lastupdatedtime": "02/04/2020 22:32:25",
-			"statecode": "AP",
-			"deltaconfirmed": "12",
-			"deltarecovered": "0",
-			"deltadeaths": "1"
-		},
-		{
 			"state": "Rajasthan",
 			"confirmed": "166",
 			"recovered": "3",
@@ -95,6 +83,18 @@
 			"deltaconfirmed": "33",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
+		},
+		{
+			"state": "Andhra Pradesh",
+			"confirmed": "161",
+			"recovered": "2",
+			"deaths": "1",
+			"active": "158",
+			"lastupdatedtime": "02/04/2020 22:32:25",
+			"statecode": "AP",
+			"deltaconfirmed": "12",
+			"deltarecovered": "0",
+			"deltadeaths": "1"
 		},
 		{
 			"state": "Telangana",
@@ -109,18 +109,6 @@
 			"deltadeaths": "0"
 		},
 		{
-			"state": "Karnataka",
-			"confirmed": "128",
-			"recovered": "11",
-			"deaths": "3",
-			"active": "114",
-			"lastupdatedtime": "03/04/2020 18:22:26",
-			"statecode": "KA",
-			"deltaconfirmed": "4",
-			"deltarecovered": "0",
-			"deltadeaths": "0"
-		},
-		{
 			"state": "Madhya Pradesh",
 			"confirmed": "129",
 			"recovered": "0",
@@ -129,6 +117,18 @@
 			"lastupdatedtime": "03/04/2020 18:12:26",
 			"statecode": "MP",
 			"deltaconfirmed": "22",
+			"deltarecovered": "0",
+			"deltadeaths": "0"
+		},
+		{
+			"state": "Karnataka",
+			"confirmed": "128",
+			"recovered": "11",
+			"deaths": "3",
+			"active": "114",
+			"lastupdatedtime": "03/04/2020 18:22:26",
+			"statecode": "KA",
+			"deltaconfirmed": "4",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -205,18 +205,6 @@
 			"deltadeaths": "0"
 		},
 		{
-			"state": "Chandigarh",
-			"confirmed": "18",
-			"recovered": "0",
-			"deaths": "0",
-			"active": "18",
-			"lastupdatedtime": "02/04/2020 18:57:31",
-			"statecode": "CH",
-			"deltaconfirmed": "0",
-			"deltarecovered": "0",
-			"deltadeaths": "0"
-		},
-		{
 			"state": "Assam",
 			"confirmed": "20",
 			"recovered": "0",
@@ -229,6 +217,18 @@
 			"deltadeaths": "0"
 		},
 		{
+			"state": "Chandigarh",
+			"confirmed": "18",
+			"recovered": "0",
+			"deaths": "0",
+			"active": "18",
+			"lastupdatedtime": "02/04/2020 18:57:31",
+			"statecode": "CH",
+			"deltaconfirmed": "0",
+			"deltarecovered": "0",
+			"deltadeaths": "0"
+		},
+		{
 			"state": "Ladakh",
 			"confirmed": "13",
 			"recovered": "3",
@@ -236,18 +236,6 @@
 			"active": "10",
 			"lastupdatedtime": "27/03/2020 11:52:25",
 			"statecode": "LA",
-			"deltaconfirmed": "0",
-			"deltarecovered": "0",
-			"deltadeaths": "0"
-		},
-		{
-			"state": "Andaman and Nicobar Islands",
-			"confirmed": "10",
-			"recovered": "0",
-			"deaths": "0",
-			"active": "10",
-			"lastupdatedtime": "30/03/2020 11:27:27",
-			"statecode": "AN",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
@@ -265,6 +253,18 @@
 			"deltadeaths": "0"
 		},
 		{
+			"state": "Andaman and Nicobar Islands",
+			"confirmed": "10",
+			"recovered": "0",
+			"deaths": "0",
+			"active": "10",
+			"lastupdatedtime": "30/03/2020 11:27:27",
+			"statecode": "AN",
+			"deltaconfirmed": "0",
+			"deltarecovered": "0",
+			"deltadeaths": "0"
+		},
+		{
 			"state": "Chhattisgarh",
 			"confirmed": "9",
 			"recovered": "3",
@@ -277,15 +277,15 @@
 			"deltadeaths": "0"
 		},
 		{
-			"state": "Goa",
+			"state": "Odisha",
 			"confirmed": "6",
-			"recovered": "0",
+			"recovered": "2",
 			"deaths": "0",
-			"active": "6",
-			"lastupdatedtime": "03/04/2020 10:22:24",
-			"statecode": "GA",
+			"active": "4",
+			"lastupdatedtime": "03/04/2020 14:27:25",
+			"statecode": "OR",
 			"deltaconfirmed": "1",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"deltadeaths": "0"
 		},
 		{
@@ -301,15 +301,15 @@
 			"deltadeaths": "1"
 		},
 		{
-			"state": "Odisha",
+			"state": "Goa",
 			"confirmed": "6",
-			"recovered": "2",
+			"recovered": "0",
 			"deaths": "0",
-			"active": "4",
-			"lastupdatedtime": "03/04/2020 14:27:25",
-			"statecode": "OR",
+			"active": "6",
+			"lastupdatedtime": "03/04/2020 10:22:24",
+			"statecode": "GA",
 			"deltaconfirmed": "1",
-			"deltarecovered": "1",
+			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
 		{
