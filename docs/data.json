@@ -2,13 +2,13 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "3210",
+			"confirmed": "3211",
 			"recovered": "229",
 			"deaths": "86",
-			"active": "2895",
-			"lastupdatedtime": "04/04/2020 14:37:24",
+			"active": "2896",
+			"lastupdatedtime": "04/04/2020 15:57:24",
 			"statecode": "TT",
-			"deltaconfirmed": "102",
+			"deltaconfirmed": "103",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -278,13 +278,13 @@
 		},
 		{
 			"state": "Chhattisgarh",
-			"confirmed": "9",
+			"confirmed": "10",
 			"recovered": "3",
 			"deaths": "0",
-			"active": "6",
-			"lastupdatedtime": "31/03/2020 23:07:28",
+			"active": "7",
+			"lastupdatedtime": "04/04/2020 15:57:25",
 			"statecode": "CT",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
