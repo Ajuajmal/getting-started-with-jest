@@ -2,10 +2,10 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "3108",
+			"confirmed": "3109",
 			"recovered": "229",
 			"deaths": "86",
-			"active": "2793",
+			"active": "2794",
 			"lastupdatedtime": "04/04/2020 03:02:23",
 			"statecode": "TT",
 			"deltaconfirmed": "0",
@@ -206,10 +206,10 @@
 		},
 		{
 			"state": "Assam",
-			"confirmed": "23",
+			"confirmed": "24",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "23",
+			"active": "24",
 			"lastupdatedtime": "03/04/2020 23:57:32",
 			"statecode": "AS",
 			"deltaconfirmed": "0",
@@ -1036,8 +1036,8 @@
 		},
 		{
 			"date": "03 April ",
-			"dailyconfirmed": "563",
-			"totalconfirmed": "3108",
+			"dailyconfirmed": "564",
+			"totalconfirmed": "3109",
 			"dailyrecovered": "38",
 			"totalrecovered": "229",
 			"dailydeceased": "14",
