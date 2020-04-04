@@ -2,13 +2,13 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "3465",
+			"confirmed": "3474",
 			"recovered": "230",
 			"deaths": "91",
-			"active": "3144",
-			"lastupdatedtime": "04/04/2020 18:02:24",
+			"active": "3153",
+			"lastupdatedtime": "04/04/2020 18:12:33",
 			"statecode": "TT",
-			"deltaconfirmed": "345",
+			"deltaconfirmed": "366",
 			"deltarecovered": "0",
 			"deltadeaths": "5"
 		},
@@ -50,13 +50,13 @@
 		},
 		{
 			"state": "Kerala",
-			"confirmed": "307",
+			"confirmed": "306",
 			"recovered": "42",
 			"deaths": "2",
-			"active": "263",
-			"lastupdatedtime": "03/04/2020 19:07:40",
+			"active": "262",
+			"lastupdatedtime": "04/04/2020 18:12:40",
 			"statecode": "KL",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "11",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -98,13 +98,13 @@
 		},
 		{
 			"state": "Andhra Pradesh",
-			"confirmed": "180",
+			"confirmed": "190",
 			"recovered": "2",
 			"deaths": "1",
-			"active": "177",
+			"active": "187",
 			"lastupdatedtime": "03/04/2020 23:32:41",
 			"statecode": "AP",
-			"deltaconfirmed": "16",
+			"deltaconfirmed": "26",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
