@@ -2,10 +2,10 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "3247",
+			"confirmed": "3306",
 			"recovered": "230",
 			"deaths": "91",
-			"active": "2926",
+			"active": "2985",
 			"lastupdatedtime": "04/04/2020 17:37:24",
 			"statecode": "TT",
 			"deltaconfirmed": "139",
@@ -38,10 +38,10 @@
 		},
 		{
 			"state": "Delhi",
-			"confirmed": "386",
+			"confirmed": "445",
 			"recovered": "8",
 			"deaths": "6",
-			"active": "372",
+			"active": "431",
 			"lastupdatedtime": "03/04/2020 23:32:32",
 			"statecode": "DL",
 			"deltaconfirmed": "0",
