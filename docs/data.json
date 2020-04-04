@@ -3,13 +3,13 @@
 		{
 			"state": "Total",
 			"confirmed": "3474",
-			"recovered": "230",
+			"recovered": "238",
 			"deaths": "91",
-			"active": "3153",
-			"lastupdatedtime": "04/04/2020 18:12:33",
+			"active": "3145",
+			"lastupdatedtime": "04/04/2020 18:22:26",
 			"statecode": "TT",
 			"deltaconfirmed": "366",
-			"deltarecovered": "0",
+			"deltarecovered": "8",
 			"deltadeaths": "5"
 		},
 		{
@@ -51,13 +51,13 @@
 		{
 			"state": "Kerala",
 			"confirmed": "306",
-			"recovered": "42",
+			"recovered": "50",
 			"deaths": "2",
-			"active": "262",
-			"lastupdatedtime": "04/04/2020 18:12:40",
+			"active": "254",
+			"lastupdatedtime": "04/04/2020 18:22:29",
 			"statecode": "KL",
 			"deltaconfirmed": "11",
-			"deltarecovered": "0",
+			"deltarecovered": "8",
 			"deltadeaths": "0"
 		},
 		{
