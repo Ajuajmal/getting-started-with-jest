@@ -2,13 +2,13 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "3490",
+			"confirmed": "3491",
 			"recovered": "262",
 			"deaths": "91",
-			"active": "3137",
-			"lastupdatedtime": "04/04/2020 19:40:25",
+			"active": "3138",
+			"lastupdatedtime": "04/04/2020 20:02:27",
 			"statecode": "TT",
-			"deltaconfirmed": "382",
+			"deltaconfirmed": "383",
 			"deltarecovered": "32",
 			"deltadeaths": "5"
 		},
@@ -194,13 +194,13 @@
 		},
 		{
 			"state": "Bihar",
-			"confirmed": "31",
+			"confirmed": "32",
 			"recovered": "3",
 			"deaths": "1",
-			"active": "27",
+			"active": "28",
 			"lastupdatedtime": "03/04/2020 21:12:26",
 			"statecode": "BR",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
