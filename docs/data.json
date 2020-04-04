@@ -2,15 +2,15 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "3229",
+			"confirmed": "3231",
 			"recovered": "230",
-			"deaths": "89",
-			"active": "2910",
+			"deaths": "90",
+			"active": "2911",
 			"lastupdatedtime": "04/04/2020 17:07:24",
 			"statecode": "TT",
-			"deltaconfirmed": "121",
+			"deltaconfirmed": "123",
 			"deltarecovered": "0",
-			"deltadeaths": "3"
+			"deltadeaths": "4"
 		},
 		{
 			"state": "Maharashtra",
@@ -74,13 +74,13 @@
 		},
 		{
 			"state": "Rajasthan",
-			"confirmed": "198",
+			"confirmed": "200",
 			"recovered": "3",
 			"deaths": "0",
-			"active": "195",
-			"lastupdatedtime": "04/04/2020 14:27:25",
+			"active": "197",
+			"lastupdatedtime": "04/04/2020 17:17:32",
 			"statecode": "RJ",
-			"deltaconfirmed": "19",
+			"deltaconfirmed": "21",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -112,13 +112,13 @@
 			"state": "Madhya Pradesh",
 			"confirmed": "154",
 			"recovered": "0",
-			"deaths": "10",
-			"active": "144",
-			"lastupdatedtime": "04/04/2020 17:07:25",
+			"deaths": "11",
+			"active": "143",
+			"lastupdatedtime": "04/04/2020 17:17:35",
 			"statecode": "MP",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
-			"deltadeaths": "2"
+			"deltadeaths": "3"
 		},
 		{
 			"state": "Karnataka",
