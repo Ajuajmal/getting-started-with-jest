@@ -2,13 +2,13 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "3205",
+			"confirmed": "3210",
 			"recovered": "229",
 			"deaths": "86",
-			"active": "2890",
-			"lastupdatedtime": "04/04/2020 14:27:24",
+			"active": "2895",
+			"lastupdatedtime": "04/04/2020 14:37:24",
 			"statecode": "TT",
-			"deltaconfirmed": "97",
+			"deltaconfirmed": "102",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -182,13 +182,13 @@
 		},
 		{
 			"state": "Punjab",
-			"confirmed": "53",
+			"confirmed": "57",
 			"recovered": "1",
 			"deaths": "5",
-			"active": "47",
-			"lastupdatedtime": "02/04/2020 21:02:25",
+			"active": "51",
+			"lastupdatedtime": "04/04/2020 14:37:26",
 			"statecode": "PB",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "4",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -206,13 +206,13 @@
 		},
 		{
 			"state": "Assam",
-			"confirmed": "24",
+			"confirmed": "25",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "24",
-			"lastupdatedtime": "04/04/2020 09:42:25",
+			"active": "25",
+			"lastupdatedtime": "04/04/2020 14:37:30",
 			"statecode": "AS",
-			"deltaconfirmed": "1",
+			"deltaconfirmed": "2",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
