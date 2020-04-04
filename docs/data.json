@@ -6,9 +6,9 @@
 			"recovered": "230",
 			"deaths": "91",
 			"active": "2985",
-			"lastupdatedtime": "04/04/2020 17:37:24",
+			"lastupdatedtime": "04/04/2020 17:47:28",
 			"statecode": "TT",
-			"deltaconfirmed": "139",
+			"deltaconfirmed": "198",
 			"deltarecovered": "0",
 			"deltadeaths": "5"
 		},
@@ -42,9 +42,9 @@
 			"recovered": "8",
 			"deaths": "6",
 			"active": "431",
-			"lastupdatedtime": "03/04/2020 23:32:32",
+			"lastupdatedtime": "04/04/2020 17:47:37",
 			"statecode": "DL",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "59",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
