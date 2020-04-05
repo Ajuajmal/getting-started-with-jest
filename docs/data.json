@@ -2,13 +2,13 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "3836",
+			"confirmed": "3922",
 			"recovered": "304",
 			"deaths": "107",
-			"active": "3425",
-			"lastupdatedtime": "05/04/2020 18:38:26",
+			"active": "3511",
+			"lastupdatedtime": "05/04/2020 18:45:26",
 			"statecode": "TT",
-			"deltaconfirmed": "154",
+			"deltaconfirmed": "240",
 			"deltarecovered": "18",
 			"deltadeaths": "8"
 		},
@@ -26,13 +26,13 @@
 		},
 		{
 			"state": "Tamil Nadu",
-			"confirmed": "485",
+			"confirmed": "571",
 			"recovered": "8",
 			"deaths": "5",
-			"active": "472",
-			"lastupdatedtime": "05/04/2020 13:28:24",
+			"active": "558",
+			"lastupdatedtime": "05/04/2020 18:45:27",
 			"statecode": "TN",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "86",
 			"deltarecovered": "0",
 			"deltadeaths": "2"
 		},
@@ -1000,8 +1000,8 @@
 		},
 		{
 			"date": "30 March ",
-			"dailyconfirmed": "199",
-			"totalconfirmed": "1338",
+			"dailyconfirmed": "190",
+			"totalconfirmed": "1329",
 			"dailyrecovered": "35",
 			"totalrecovered": "137",
 			"dailydeceased": "16",
@@ -1009,7 +1009,7 @@
 		},
 		{
 			"date": "31 March ",
-			"dailyconfirmed": "297",
+			"dailyconfirmed": "306",
 			"totalconfirmed": "1635",
 			"dailyrecovered": "13",
 			"totalrecovered": "150",
