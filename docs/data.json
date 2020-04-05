@@ -2,15 +2,15 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "4117",
-			"recovered": "307",
-			"deaths": "107",
-			"active": "3703",
-			"lastupdatedtime": "05/04/2020 19:46:24",
+			"confirmed": "4120",
+			"recovered": "310",
+			"deaths": "108",
+			"active": "3702",
+			"lastupdatedtime": "05/04/2020 19:51:29",
 			"statecode": "TT",
-			"deltaconfirmed": "435",
-			"deltarecovered": "21",
-			"deltadeaths": "8"
+			"deltaconfirmed": "438",
+			"deltarecovered": "24",
+			"deltadeaths": "9"
 		},
 		{
 			"state": "Maharashtra",
@@ -86,13 +86,13 @@
 		},
 		{
 			"state": "Rajasthan",
-			"confirmed": "249",
+			"confirmed": "252",
 			"recovered": "25",
 			"deaths": "1",
-			"active": "223",
-			"lastupdatedtime": "05/04/2020 19:38:31",
+			"active": "226",
+			"lastupdatedtime": "05/04/2020 19:50:49",
 			"statecode": "RJ",
-			"deltaconfirmed": "45",
+			"deltaconfirmed": "48",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -111,14 +111,14 @@
 		{
 			"state": "Madhya Pradesh",
 			"confirmed": "193",
-			"recovered": "0",
-			"deaths": "11",
-			"active": "182",
-			"lastupdatedtime": "05/04/2020 19:46:28",
+			"recovered": "3",
+			"deaths": "12",
+			"active": "178",
+			"lastupdatedtime": "05/04/2020 19:51:06",
 			"statecode": "MP",
 			"deltaconfirmed": "14",
-			"deltarecovered": "0",
-			"deltadeaths": "0"
+			"deltarecovered": "3",
+			"deltadeaths": "1"
 		},
 		{
 			"state": "Karnataka",
