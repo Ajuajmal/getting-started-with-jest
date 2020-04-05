@@ -2,13 +2,13 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "4166",
+			"confirmed": "4182",
 			"recovered": "315",
 			"deaths": "118",
-			"active": "3733",
-			"lastupdatedtime": "05/04/2020 21:24:24",
+			"active": "3749",
+			"lastupdatedtime": "05/04/2020 21:30:25",
 			"statecode": "TT",
-			"deltaconfirmed": "484",
+			"deltaconfirmed": "500",
 			"deltarecovered": "29",
 			"deltadeaths": "19"
 		},
@@ -230,13 +230,13 @@
 		},
 		{
 			"state": "Odisha",
-			"confirmed": "23",
+			"confirmed": "39",
 			"recovered": "2",
 			"deaths": "0",
-			"active": "21",
-			"lastupdatedtime": "05/04/2020 15:49:31",
+			"active": "37",
+			"lastupdatedtime": "05/04/2020 21:30:30",
 			"statecode": "OR",
-			"deltaconfirmed": "2",
+			"deltaconfirmed": "18",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
