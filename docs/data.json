@@ -3,13 +3,13 @@
 		{
 			"state": "Total",
 			"confirmed": "4182",
-			"recovered": "315",
+			"recovered": "317",
 			"deaths": "118",
-			"active": "3749",
-			"lastupdatedtime": "05/04/2020 21:30:25",
+			"active": "3747",
+			"lastupdatedtime": "05/04/2020 21:33:35",
 			"statecode": "TT",
 			"deltaconfirmed": "500",
-			"deltarecovered": "29",
+			"deltarecovered": "31",
 			"deltadeaths": "19"
 		},
 		{
@@ -234,7 +234,7 @@
 			"recovered": "2",
 			"deaths": "0",
 			"active": "37",
-			"lastupdatedtime": "05/04/2020 21:30:30",
+			"lastupdatedtime": "05/04/2020 21:33:46",
 			"statecode": "OR",
 			"deltaconfirmed": "18",
 			"deltarecovered": "0",
@@ -243,13 +243,13 @@
 		{
 			"state": "Chandigarh",
 			"confirmed": "18",
-			"recovered": "3",
+			"recovered": "5",
 			"deaths": "0",
-			"active": "15",
+			"active": "13",
 			"lastupdatedtime": "05/04/2020 00:40:27",
 			"statecode": "CH",
 			"deltaconfirmed": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "2",
 			"deltadeaths": "0"
 		},
 		{
