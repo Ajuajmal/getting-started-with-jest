@@ -2,13 +2,13 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "3719",
-			"recovered": "287",
+			"confirmed": "3720",
+			"recovered": "290",
 			"deaths": "100",
-			"active": "3332",
-			"lastupdatedtime": "05/04/2020 12:05:38",
+			"active": "3330",
+			"lastupdatedtime": "05/04/2020 12:10:30",
 			"statecode": "TT",
-			"deltaconfirmed": "48",
+			"deltaconfirmed": "49",
 			"deltarecovered": "4",
 			"deltadeaths": "1"
 		},
@@ -135,10 +135,10 @@
 		{
 			"state": "Gujarat",
 			"confirmed": "122",
-			"recovered": "14",
+			"recovered": "17",
 			"deaths": "11",
-			"active": "97",
-			"lastupdatedtime": "05/04/2020 12:05:46",
+			"active": "94",
+			"lastupdatedtime": "05/04/2020 12:10:35",
 			"statecode": "GJ",
 			"deltaconfirmed": "14",
 			"deltarecovered": "4",
@@ -326,13 +326,13 @@
 		},
 		{
 			"state": "Jharkhand",
-			"confirmed": "2",
+			"confirmed": "3",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "2",
-			"lastupdatedtime": "02/04/2020 19:42:30",
+			"active": "3",
+			"lastupdatedtime": "05/04/2020 12:10:40",
 			"statecode": "JH",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -1047,8 +1047,8 @@
 			"date": "04 April ",
 			"dailyconfirmed": "566",
 			"totalconfirmed": "3671",
-			"dailyrecovered": "53",
-			"totalrecovered": "283",
+			"dailyrecovered": "56",
+			"totalrecovered": "286",
 			"dailydeceased": "13",
 			"totaldeceased": "99"
 		}
