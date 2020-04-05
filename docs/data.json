@@ -2,13 +2,13 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "3819",
+			"confirmed": "3823",
 			"recovered": "295",
 			"deaths": "107",
-			"active": "3417",
-			"lastupdatedtime": "05/04/2020 17:27:24",
+			"active": "3421",
+			"lastupdatedtime": "05/04/2020 17:50:24",
 			"statecode": "TT",
-			"deltaconfirmed": "144",
+			"deltaconfirmed": "148",
 			"deltarecovered": "9",
 			"deltadeaths": "8"
 		},
@@ -218,13 +218,13 @@
 		},
 		{
 			"state": "Uttarakhand",
-			"confirmed": "22",
+			"confirmed": "26",
 			"recovered": "2",
 			"deaths": "0",
-			"active": "20",
-			"lastupdatedtime": "04/04/2020 18:02:26",
+			"active": "24",
+			"lastupdatedtime": "05/04/2020 17:50:27",
 			"statecode": "UT",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "4",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
