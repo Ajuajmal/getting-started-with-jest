@@ -279,13 +279,13 @@
 		{
 			"state": "Chhattisgarh",
 			"confirmed": "10",
-			"recovered": "3",
+			"recovered": "7",
 			"deaths": "0",
-			"active": "7",
-			"lastupdatedtime": "04/04/2020 15:57:25",
+			"active": "3",
+			"lastupdatedtime": "05/04/2020 14:02:24",
 			"statecode": "CT",
 			"deltaconfirmed": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "4",
 			"deltadeaths": "0"
 		},
 		{
@@ -327,13 +327,13 @@
 		{
 			"state": "Jharkhand",
 			"confirmed": "3",
-			"recovered": "4",
+			"recovered": "0",
 			"deaths": "0",
-			"active": "-1",
-			"lastupdatedtime": "05/04/2020 13:46:30",
+			"active": "3",
+			"lastupdatedtime": "05/04/2020 14:02:27",
 			"statecode": "JH",
 			"deltaconfirmed": "1",
-			"deltarecovered": "4",
+			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
 		{
