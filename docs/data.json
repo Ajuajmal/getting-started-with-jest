@@ -964,8 +964,8 @@
 		},
 		{
 			"date": "26 March ",
-			"dailyconfirmed": "78",
-			"totalconfirmed": "735",
+			"dailyconfirmed": "73",
+			"totalconfirmed": "730",
 			"dailyrecovered": "7",
 			"totalrecovered": "50",
 			"dailydeceased": "5",
@@ -973,7 +973,7 @@
 		},
 		{
 			"date": "27 March ",
-			"dailyconfirmed": "151",
+			"dailyconfirmed": "156",
 			"totalconfirmed": "886",
 			"dailyrecovered": "25",
 			"totalrecovered": "75",
