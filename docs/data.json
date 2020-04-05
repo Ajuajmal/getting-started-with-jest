@@ -2,13 +2,13 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "3705",
+			"confirmed": "3719",
 			"recovered": "283",
 			"deaths": "99",
-			"active": "3323",
-			"lastupdatedtime": "05/04/2020 11:36:24",
+			"active": "3337",
+			"lastupdatedtime": "05/04/2020 12:00:27",
 			"statecode": "TT",
-			"deltaconfirmed": "34",
+			"deltaconfirmed": "48",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -134,13 +134,13 @@
 		},
 		{
 			"state": "Gujarat",
-			"confirmed": "108",
+			"confirmed": "122",
 			"recovered": "10",
 			"deaths": "10",
-			"active": "88",
-			"lastupdatedtime": "04/04/2020 20:06:25",
+			"active": "102",
+			"lastupdatedtime": "05/04/2020 12:00:31",
 			"statecode": "GJ",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "14",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
