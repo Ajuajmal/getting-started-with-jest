@@ -2,13 +2,13 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "4224",
+			"confirmed": "4218",
 			"recovered": "321",
 			"deaths": "119",
-			"active": "3784",
+			"active": "3778",
 			"lastupdatedtime": "05/04/2020 22:39:25",
 			"statecode": "TT",
-			"deltaconfirmed": "542",
+			"deltaconfirmed": "536",
 			"deltarecovered": "35",
 			"deltadeaths": "20"
 		},
@@ -62,13 +62,13 @@
 		},
 		{
 			"state": "Telangana",
-			"confirmed": "302",
+			"confirmed": "296",
 			"recovered": "33",
 			"deaths": "11",
-			"active": "258",
+			"active": "252",
 			"lastupdatedtime": "05/04/2020 22:39:28",
 			"statecode": "TG",
-			"deltaconfirmed": "30",
+			"deltaconfirmed": "24",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
