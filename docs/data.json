@@ -1036,8 +1036,8 @@
 		},
 		{
 			"date": "03 April ",
-			"dailyconfirmed": "563",
-			"totalconfirmed": "3108",
+			"dailyconfirmed": "560",
+			"totalconfirmed": "3105",
 			"dailyrecovered": "39",
 			"totalrecovered": "230",
 			"dailydeceased": "14",
@@ -1045,7 +1045,7 @@
 		},
 		{
 			"date": "04 April ",
-			"dailyconfirmed": "563",
+			"dailyconfirmed": "566",
 			"totalconfirmed": "3671",
 			"dailyrecovered": "53",
 			"totalrecovered": "283",
