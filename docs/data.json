@@ -3,13 +3,13 @@
 		{
 			"state": "Total",
 			"confirmed": "3730",
-			"recovered": "290",
+			"recovered": "294",
 			"deaths": "102",
-			"active": "3338",
-			"lastupdatedtime": "05/04/2020 13:28:24",
+			"active": "3334",
+			"lastupdatedtime": "05/04/2020 13:40:32",
 			"statecode": "TT",
 			"deltaconfirmed": "55",
-			"deltarecovered": "4",
+			"deltarecovered": "8",
 			"deltadeaths": "3"
 		},
 		{
@@ -327,13 +327,13 @@
 		{
 			"state": "Jharkhand",
 			"confirmed": "3",
-			"recovered": "0",
+			"recovered": "4",
 			"deaths": "0",
-			"active": "3",
-			"lastupdatedtime": "05/04/2020 12:10:40",
+			"active": "-1",
+			"lastupdatedtime": "05/04/2020 13:40:36",
 			"statecode": "JH",
 			"deltaconfirmed": "1",
-			"deltarecovered": "0",
+			"deltarecovered": "4",
 			"deltadeaths": "0"
 		},
 		{
