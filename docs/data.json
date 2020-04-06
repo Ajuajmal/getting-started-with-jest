@@ -2,14 +2,14 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "4502",
-			"recovered": "337",
+			"confirmed": "4554",
+			"recovered": "342",
 			"deaths": "125",
-			"active": "4040",
-			"lastupdatedtime": "06/04/2020 18:14:27",
+			"active": "4087",
+			"lastupdatedtime": "06/04/2020 18:47:23",
 			"statecode": "TT",
-			"deltaconfirmed": "213",
-			"deltarecovered": "8",
+			"deltaconfirmed": "265",
+			"deltarecovered": "13",
 			"deltadeaths": "4"
 		},
 		{
@@ -51,13 +51,13 @@
 		{
 			"state": "Kerala",
 			"confirmed": "327",
-			"recovered": "56",
+			"recovered": "61",
 			"deaths": "2",
-			"active": "269",
-			"lastupdatedtime": "06/04/2020 18:14:37",
+			"active": "264",
+			"lastupdatedtime": "06/04/2020 18:47:24",
 			"statecode": "KL",
 			"deltaconfirmed": "13",
-			"deltarecovered": "0",
+			"deltarecovered": "5",
 			"deltadeaths": "0"
 		},
 		{
@@ -98,13 +98,13 @@
 		},
 		{
 			"state": "Andhra Pradesh",
-			"confirmed": "266",
+			"confirmed": "303",
 			"recovered": "5",
 			"deaths": "3",
-			"active": "258",
-			"lastupdatedtime": "06/04/2020 15:22:24",
+			"active": "295",
+			"lastupdatedtime": "06/04/2020 18:44:25",
 			"statecode": "AP",
-			"deltaconfirmed": "14",
+			"deltaconfirmed": "51",
 			"deltarecovered": "0",
 			"deltadeaths": "2"
 		},
@@ -158,13 +158,13 @@
 		},
 		{
 			"state": "Haryana",
-			"confirmed": "90",
+			"confirmed": "101",
 			"recovered": "29",
 			"deaths": "0",
-			"active": "61",
-			"lastupdatedtime": "05/04/2020 16:34:40",
+			"active": "72",
+			"lastupdatedtime": "06/04/2020 18:47:25",
 			"statecode": "HR",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "11",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -218,13 +218,13 @@
 		},
 		{
 			"state": "Uttarakhand",
-			"confirmed": "27",
+			"confirmed": "31",
 			"recovered": "4",
 			"deaths": "0",
-			"active": "23",
-			"lastupdatedtime": "06/04/2020 12:05:32",
+			"active": "27",
+			"lastupdatedtime": "06/04/2020 18:44:26",
 			"statecode": "UT",
-			"deltaconfirmed": "1",
+			"deltaconfirmed": "5",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
