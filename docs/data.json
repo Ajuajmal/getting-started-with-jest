@@ -3,13 +3,13 @@
 		{
 			"state": "Total",
 			"confirmed": "4773",
-			"recovered": "349",
+			"recovered": "356",
 			"deaths": "135",
-			"active": "4289",
-			"lastupdatedtime": "06/04/2020 22:21:36",
+			"active": "4282",
+			"lastupdatedtime": "06/04/2020 22:36:28",
 			"statecode": "TT",
 			"deltaconfirmed": "484",
-			"deltarecovered": "20",
+			"deltarecovered": "27",
 			"deltadeaths": "14"
 		},
 		{
@@ -90,7 +90,7 @@
 			"recovered": "25",
 			"deaths": "2",
 			"active": "274",
-			"lastupdatedtime": "06/04/2020 22:20:53",
+			"lastupdatedtime": "06/04/2020 22:35:36",
 			"statecode": "RJ",
 			"deltaconfirmed": "35",
 			"deltarecovered": "0",
@@ -195,13 +195,13 @@
 		{
 			"state": "Bihar",
 			"confirmed": "32",
-			"recovered": "3",
+			"recovered": "9",
 			"deaths": "1",
-			"active": "28",
-			"lastupdatedtime": "04/04/2020 20:06:26",
+			"active": "22",
+			"lastupdatedtime": "06/04/2020 22:36:35",
 			"statecode": "BR",
 			"deltaconfirmed": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "6",
 			"deltadeaths": "0"
 		},
 		{
@@ -339,13 +339,13 @@
 		{
 			"state": "Manipur",
 			"confirmed": "2",
-			"recovered": "0",
+			"recovered": "1",
 			"deaths": "0",
-			"active": "2",
-			"lastupdatedtime": "02/04/2020 09:42:34",
+			"active": "1",
+			"lastupdatedtime": "06/04/2020 22:35:54",
 			"statecode": "MN",
 			"deltaconfirmed": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"deltadeaths": "0"
 		},
 		{
