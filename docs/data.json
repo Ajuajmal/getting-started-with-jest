@@ -3,10 +3,10 @@
 		{
 			"state": "Total",
 			"confirmed": "4362",
-			"recovered": "328",
+			"recovered": "329",
 			"deaths": "121",
-			"active": "3913",
-			"lastupdatedtime": "06/04/2020 12:05:30",
+			"active": "3912",
+			"lastupdatedtime": "06/04/2020 12:24:23",
 			"statecode": "TT",
 			"deltaconfirmed": "73",
 			"deltarecovered": "0",
@@ -123,10 +123,10 @@
 		{
 			"state": "Karnataka",
 			"confirmed": "151",
-			"recovered": "11",
+			"recovered": "12",
 			"deaths": "4",
-			"active": "136",
-			"lastupdatedtime": "05/04/2020 18:38:28",
+			"active": "135",
+			"lastupdatedtime": "06/04/2020 12:24:24",
 			"statecode": "KA",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
@@ -1056,8 +1056,8 @@
 			"date": "05 April ",
 			"dailyconfirmed": "605",
 			"totalconfirmed": "4289",
-			"dailyrecovered": "42",
-			"totalrecovered": "328",
+			"dailyrecovered": "43",
+			"totalrecovered": "329",
 			"dailydeceased": "22",
 			"totaldeceased": "121"
 		}
