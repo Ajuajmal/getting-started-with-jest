@@ -6,7 +6,7 @@
 			"recovered": "382",
 			"deaths": "133",
 			"active": "4263",
-			"lastupdatedtime": "07/04/2020 04:23:24",
+			"lastupdatedtime": "07/04/2020 04:24:24",
 			"statecode": "TT",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
@@ -186,7 +186,7 @@
 			"recovered": "10",
 			"deaths": "3",
 			"active": "67",
-			"lastupdatedtime": "07/04/2020 04:23:25",
+			"lastupdatedtime": "07/04/2020 04:24:26",
 			"statecode": "WB",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
@@ -1060,6 +1060,15 @@
 			"totalrecovered": "329",
 			"dailydeceased": "22",
 			"totaldeceased": "121"
+		},
+		{
+			"date": "06 April ",
+			"dailyconfirmed": "488",
+			"totalconfirmed": "4778",
+			"dailyrecovered": "53",
+			"totalrecovered": "382",
+			"dailydeceased": "15",
+			"totaldeceased": "136"
 		}
 	]
 }
