@@ -2,15 +2,15 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "4757",
+			"confirmed": "4759",
 			"recovered": "349",
-			"deaths": "134",
-			"active": "4274",
-			"lastupdatedtime": "06/04/2020 21:54:26",
+			"deaths": "135",
+			"active": "4275",
+			"lastupdatedtime": "06/04/2020 22:04:31",
 			"statecode": "TT",
-			"deltaconfirmed": "468",
+			"deltaconfirmed": "470",
 			"deltarecovered": "20",
-			"deltadeaths": "13"
+			"deltadeaths": "14"
 		},
 		{
 			"state": "Maharashtra",
@@ -38,13 +38,13 @@
 		},
 		{
 			"state": "Delhi",
-			"confirmed": "523",
+			"confirmed": "525",
 			"recovered": "16",
 			"deaths": "7",
-			"active": "500",
-			"lastupdatedtime": "06/04/2020 17:43:27",
+			"active": "502",
+			"lastupdatedtime": "06/04/2020 22:04:40",
 			"statecode": "DL",
-			"deltaconfirmed": "20",
+			"deltaconfirmed": "22",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -160,13 +160,13 @@
 			"state": "Haryana",
 			"confirmed": "110",
 			"recovered": "29",
-			"deaths": "1",
-			"active": "80",
-			"lastupdatedtime": "06/04/2020 21:54:39",
+			"deaths": "2",
+			"active": "79",
+			"lastupdatedtime": "06/04/2020 22:04:53",
 			"statecode": "HR",
 			"deltaconfirmed": "20",
 			"deltarecovered": "0",
-			"deltadeaths": "1"
+			"deltadeaths": "2"
 		},
 		{
 			"state": "Punjab",
