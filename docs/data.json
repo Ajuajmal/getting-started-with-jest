@@ -2,13 +2,13 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "4773",
+			"confirmed": "4778",
 			"recovered": "361",
 			"deaths": "135",
-			"active": "4277",
-			"lastupdatedtime": "06/04/2020 22:45:26",
+			"active": "4282",
+			"lastupdatedtime": "06/04/2020 23:04:25",
 			"statecode": "TT",
-			"deltaconfirmed": "484",
+			"deltaconfirmed": "488",
 			"deltarecovered": "32",
 			"deltadeaths": "14"
 		},
@@ -302,13 +302,13 @@
 		},
 		{
 			"state": "Himachal Pradesh",
-			"confirmed": "13",
+			"confirmed": "18",
 			"recovered": "1",
 			"deaths": "2",
-			"active": "10",
-			"lastupdatedtime": "05/04/2020 15:49:35",
+			"active": "15",
+			"lastupdatedtime": "06/04/2020 23:04:27",
 			"statecode": "HP",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "4",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -1054,8 +1054,8 @@
 		},
 		{
 			"date": "05 April ",
-			"dailyconfirmed": "605",
-			"totalconfirmed": "4289",
+			"dailyconfirmed": "606",
+			"totalconfirmed": "4290",
 			"dailyrecovered": "43",
 			"totalrecovered": "329",
 			"dailydeceased": "22",
