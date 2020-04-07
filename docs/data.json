@@ -3,13 +3,13 @@
 		{
 			"state": "Total",
 			"confirmed": "5089",
-			"recovered": "398",
+			"recovered": "405",
 			"deaths": "148",
-			"active": "4543",
-			"lastupdatedtime": "07/04/2020 19:35:26",
+			"active": "4536",
+			"lastupdatedtime": "07/04/2020 19:41:25",
 			"statecode": "TT",
 			"deltaconfirmed": "311",
-			"deltarecovered": "16",
+			"deltarecovered": "23",
 			"deltadeaths": "14"
 		},
 		{
@@ -18,7 +18,7 @@
 			"recovered": "70",
 			"deaths": "60",
 			"active": "815",
-			"lastupdatedtime": "07/04/2020 19:35:30",
+			"lastupdatedtime": "07/04/2020 19:41:27",
 			"statecode": "MH",
 			"deltaconfirmed": "77",
 			"deltarecovered": "0",
@@ -27,13 +27,13 @@
 		{
 			"state": "Tamil Nadu",
 			"confirmed": "690",
-			"recovered": "13",
+			"recovered": "19",
 			"deaths": "7",
-			"active": "670",
+			"active": "664",
 			"lastupdatedtime": "07/04/2020 17:24:29",
 			"statecode": "TN",
 			"deltaconfirmed": "69",
-			"deltarecovered": "0",
+			"deltarecovered": "6",
 			"deltadeaths": "1"
 		},
 		{
@@ -279,13 +279,13 @@
 		{
 			"state": "Chhattisgarh",
 			"confirmed": "10",
-			"recovered": "8",
+			"recovered": "9",
 			"deaths": "0",
-			"active": "2",
-			"lastupdatedtime": "05/04/2020 20:31:27",
+			"active": "1",
+			"lastupdatedtime": "07/04/2020 19:41:29",
 			"statecode": "CT",
 			"deltaconfirmed": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"deltadeaths": "0"
 		},
 		{
