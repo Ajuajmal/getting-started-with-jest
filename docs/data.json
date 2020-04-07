@@ -2,13 +2,13 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "4917",
+			"confirmed": "4926",
 			"recovered": "387",
 			"deaths": "141",
-			"active": "4389",
+			"active": "4398",
 			"lastupdatedtime": "07/04/2020 17:24:27",
 			"statecode": "TT",
-			"deltaconfirmed": "139",
+			"deltaconfirmed": "148",
 			"deltarecovered": "5",
 			"deltadeaths": "7"
 		},
@@ -170,13 +170,13 @@
 		},
 		{
 			"state": "Punjab",
-			"confirmed": "90",
+			"confirmed": "99",
 			"recovered": "4",
 			"deaths": "7",
-			"active": "79",
+			"active": "88",
 			"lastupdatedtime": "07/04/2020 14:04:31",
 			"statecode": "PB",
-			"deltaconfirmed": "11",
+			"deltaconfirmed": "20",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
