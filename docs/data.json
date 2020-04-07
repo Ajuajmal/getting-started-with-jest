@@ -3,13 +3,13 @@
 		{
 			"state": "Total",
 			"confirmed": "4917",
-			"recovered": "386",
-			"deaths": "140",
-			"active": "4391",
-			"lastupdatedtime": "07/04/2020 17:04:24",
+			"recovered": "387",
+			"deaths": "141",
+			"active": "4389",
+			"lastupdatedtime": "07/04/2020 17:23:24",
 			"statecode": "TT",
 			"deltaconfirmed": "139",
-			"deltarecovered": "4",
+			"deltarecovered": "5",
 			"deltadeaths": "7"
 		},
 		{
@@ -28,9 +28,9 @@
 			"state": "Tamil Nadu",
 			"confirmed": "621",
 			"recovered": "13",
-			"deaths": "5",
-			"active": "603",
-			"lastupdatedtime": "06/04/2020 22:45:33",
+			"deaths": "6",
+			"active": "602",
+			"lastupdatedtime": "07/04/2020 17:23:26",
 			"statecode": "TN",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
@@ -315,13 +315,13 @@
 		{
 			"state": "Puducherry",
 			"confirmed": "5",
-			"recovered": "0",
+			"recovered": "1",
 			"deaths": "0",
-			"active": "5",
-			"lastupdatedtime": "03/04/2020 02:37:27",
+			"active": "4",
+			"lastupdatedtime": "07/04/2020 17:23:30",
 			"statecode": "PY",
 			"deltaconfirmed": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"deltadeaths": "0"
 		},
 		{
@@ -1067,8 +1067,8 @@
 			"totalconfirmed": "4778",
 			"dailyrecovered": "53",
 			"totalrecovered": "382",
-			"dailydeceased": "15",
-			"totaldeceased": "136"
+			"dailydeceased": "16",
+			"totaldeceased": "137"
 		}
 	]
 }
