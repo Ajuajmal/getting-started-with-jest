@@ -2,15 +2,15 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "5311",
-			"recovered": "433",
-			"deaths": "150",
-			"active": "4728",
-			"lastupdatedtime": "07/04/2020 22:14:27",
+			"confirmed": "5337",
+			"recovered": "443",
+			"deaths": "152",
+			"active": "4742",
+			"lastupdatedtime": "07/04/2020 22:20:24",
 			"statecode": "TT",
-			"deltaconfirmed": "533",
-			"deltarecovered": "39",
-			"deltadeaths": "16"
+			"deltaconfirmed": "559",
+			"deltarecovered": "49",
+			"deltadeaths": "18"
 		},
 		{
 			"state": "Maharashtra",
@@ -38,13 +38,13 @@
 		},
 		{
 			"state": "Delhi",
-			"confirmed": "550",
+			"confirmed": "576",
 			"recovered": "16",
 			"deaths": "7",
-			"active": "527",
-			"lastupdatedtime": "07/04/2020 21:35:27",
+			"active": "553",
+			"lastupdatedtime": "07/04/2020 22:20:26",
 			"statecode": "DL",
-			"deltaconfirmed": "25",
+			"deltaconfirmed": "51",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -111,14 +111,14 @@
 		{
 			"state": "Madhya Pradesh",
 			"confirmed": "290",
-			"recovered": "11",
-			"deaths": "18",
-			"active": "261",
-			"lastupdatedtime": "07/04/2020 22:14:33",
+			"recovered": "21",
+			"deaths": "20",
+			"active": "249",
+			"lastupdatedtime": "07/04/2020 22:20:28",
 			"statecode": "MP",
 			"deltaconfirmed": "34",
-			"deltarecovered": "0",
-			"deltadeaths": "3"
+			"deltarecovered": "10",
+			"deltadeaths": "5"
 		},
 		{
 			"state": "Karnataka",
