@@ -4,13 +4,13 @@
 			"state": "Total",
 			"confirmed": "5337",
 			"recovered": "443",
-			"deaths": "152",
-			"active": "4742",
-			"lastupdatedtime": "07/04/2020 22:20:24",
+			"deaths": "153",
+			"active": "4741",
+			"lastupdatedtime": "07/04/2020 22:24:24",
 			"statecode": "TT",
 			"deltaconfirmed": "559",
 			"deltarecovered": "49",
-			"deltadeaths": "18"
+			"deltadeaths": "19"
 		},
 		{
 			"state": "Maharashtra",
@@ -42,7 +42,7 @@
 			"recovered": "16",
 			"deaths": "7",
 			"active": "553",
-			"lastupdatedtime": "07/04/2020 22:20:26",
+			"lastupdatedtime": "07/04/2020 22:24:26",
 			"statecode": "DL",
 			"deltaconfirmed": "51",
 			"deltarecovered": "0",
@@ -112,13 +112,13 @@
 			"state": "Madhya Pradesh",
 			"confirmed": "290",
 			"recovered": "21",
-			"deaths": "20",
-			"active": "249",
-			"lastupdatedtime": "07/04/2020 22:20:28",
+			"deaths": "21",
+			"active": "248",
+			"lastupdatedtime": "07/04/2020 22:24:28",
 			"statecode": "MP",
 			"deltaconfirmed": "34",
 			"deltarecovered": "10",
-			"deltadeaths": "5"
+			"deltadeaths": "6"
 		},
 		{
 			"state": "Karnataka",
