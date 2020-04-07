@@ -2,13 +2,13 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "4881",
+			"confirmed": "4904",
 			"recovered": "386",
 			"deaths": "136",
-			"active": "4359",
-			"lastupdatedtime": "07/04/2020 13:35:24",
+			"active": "4382",
+			"lastupdatedtime": "07/04/2020 13:44:53",
 			"statecode": "TT",
-			"deltaconfirmed": "103",
+			"deltaconfirmed": "126",
 			"deltarecovered": "4",
 			"deltadeaths": "3"
 		},
@@ -158,13 +158,13 @@
 		},
 		{
 			"state": "Haryana",
-			"confirmed": "110",
+			"confirmed": "133",
 			"recovered": "29",
 			"deaths": "2",
-			"active": "79",
-			"lastupdatedtime": "06/04/2020 22:04:53",
+			"active": "102",
+			"lastupdatedtime": "07/04/2020 13:44:57",
 			"statecode": "HR",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "23",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
