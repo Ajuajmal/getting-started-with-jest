@@ -2,14 +2,14 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "5823",
-			"recovered": "506",
+			"confirmed": "5916",
+			"recovered": "507",
 			"deaths": "178",
-			"active": "5139",
-			"lastupdatedtime": "08/04/2020 22:10:24",
+			"active": "5231",
+			"lastupdatedtime": "08/04/2020 22:20:29",
 			"statecode": "TT",
-			"deltaconfirmed": "472",
-			"deltarecovered": "37",
+			"deltaconfirmed": "565",
+			"deltarecovered": "38",
 			"deltadeaths": "18"
 		},
 		{
@@ -38,14 +38,14 @@
 		},
 		{
 			"state": "Delhi",
-			"confirmed": "576",
-			"recovered": "20",
+			"confirmed": "669",
+			"recovered": "21",
 			"deaths": "9",
-			"active": "547",
-			"lastupdatedtime": "08/04/2020 02:04:24",
+			"active": "639",
+			"lastupdatedtime": "08/04/2020 22:20:32",
 			"statecode": "DL",
-			"deltaconfirmed": "0",
-			"deltarecovered": "0",
+			"deltaconfirmed": "93",
+			"deltarecovered": "1",
 			"deltadeaths": "0"
 		},
 		{
@@ -1081,10 +1081,10 @@
 		},
 		{
 			"date": "08 April ",
-			"dailyconfirmed": "472",
-			"totalconfirmed": "5823",
-			"dailyrecovered": "37",
-			"totalrecovered": "506",
+			"dailyconfirmed": "565",
+			"totalconfirmed": "5916",
+			"dailyrecovered": "38",
+			"totalrecovered": "507",
 			"dailydeceased": "18",
 			"totaldeceased": "181"
 		}
