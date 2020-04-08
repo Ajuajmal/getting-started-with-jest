@@ -2,13 +2,13 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "5477",
+			"confirmed": "5479",
 			"recovered": "472",
 			"deaths": "167",
-			"active": "4838",
-			"lastupdatedtime": "08/04/2020 15:20:24",
+			"active": "4840",
+			"lastupdatedtime": "08/04/2020 15:55:24",
 			"statecode": "TT",
-			"deltaconfirmed": "126",
+			"deltaconfirmed": "128",
 			"deltarecovered": "4",
 			"deltadeaths": "7"
 		},
@@ -170,13 +170,13 @@
 		},
 		{
 			"state": "Punjab",
-			"confirmed": "99",
+			"confirmed": "100",
 			"recovered": "14",
 			"deaths": "8",
-			"active": "77",
-			"lastupdatedtime": "07/04/2020 23:54:26",
+			"active": "78",
+			"lastupdatedtime": "08/04/2020 15:55:25",
 			"statecode": "PB",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -278,13 +278,13 @@
 		},
 		{
 			"state": "Andaman and Nicobar Islands",
-			"confirmed": "10",
+			"confirmed": "11",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "10",
+			"active": "11",
 			"lastupdatedtime": "30/03/2020 11:27:27",
 			"statecode": "AN",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
