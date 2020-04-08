@@ -6,11 +6,11 @@
 			"recovered": "507",
 			"deaths": "179",
 			"active": "5230",
-			"lastupdatedtime": "08/04/2020 22:20:29",
+			"lastupdatedtime": "08/04/2020 22:45:24",
 			"statecode": "TT",
 			"deltaconfirmed": "565",
 			"deltarecovered": "38",
-			"deltadeaths": "18"
+			"deltadeaths": "19"
 		},
 		{
 			"state": "Maharashtra",
@@ -174,11 +174,11 @@
 			"recovered": "14",
 			"deaths": "9",
 			"active": "83",
-			"lastupdatedtime": "08/04/2020 19:00:26",
+			"lastupdatedtime": "08/04/2020 22:45:28",
 			"statecode": "PB",
 			"deltaconfirmed": "7",
 			"deltarecovered": "0",
-			"deltadeaths": "0"
+			"deltadeaths": "1"
 		},
 		{
 			"state": "West Bengal",
@@ -1085,8 +1085,8 @@
 			"totalconfirmed": "5916",
 			"dailyrecovered": "38",
 			"totalrecovered": "507",
-			"dailydeceased": "18",
-			"totaldeceased": "181"
+			"dailydeceased": "19",
+			"totaldeceased": "182"
 		}
 	]
 }
