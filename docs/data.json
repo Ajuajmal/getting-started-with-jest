@@ -2,14 +2,14 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "5742",
-			"recovered": "515",
+			"confirmed": "5749",
+			"recovered": "502",
 			"deaths": "175",
-			"active": "5052",
-			"lastupdatedtime": "08/04/2020 20:05:25",
+			"active": "5072",
+			"lastupdatedtime": "08/04/2020 20:10:27",
 			"statecode": "TT",
-			"deltaconfirmed": "391",
-			"deltarecovered": "46",
+			"deltaconfirmed": "398",
+			"deltarecovered": "33",
 			"deltadeaths": "15"
 		},
 		{
@@ -75,13 +75,13 @@
 		{
 			"state": "Kerala",
 			"confirmed": "345",
-			"recovered": "97",
+			"recovered": "84",
 			"deaths": "2",
-			"active": "246",
-			"lastupdatedtime": "08/04/2020 20:05:27",
+			"active": "259",
+			"lastupdatedtime": "08/04/2020 20:10:29",
 			"statecode": "KL",
 			"deltaconfirmed": "9",
-			"deltarecovered": "26",
+			"deltarecovered": "13",
 			"deltadeaths": "0"
 		},
 		{
@@ -134,13 +134,13 @@
 		},
 		{
 			"state": "Gujarat",
-			"confirmed": "179",
+			"confirmed": "186",
 			"recovered": "25",
 			"deaths": "16",
-			"active": "138",
+			"active": "145",
 			"lastupdatedtime": "08/04/2020 11:30:32",
 			"statecode": "GJ",
-			"deltaconfirmed": "4",
+			"deltaconfirmed": "11",
 			"deltarecovered": "0",
 			"deltadeaths": "2"
 		},
