@@ -4,25 +4,25 @@
 			"state": "Total",
 			"confirmed": "5360",
 			"recovered": "468",
-			"deaths": "162",
-			"active": "4730",
-			"lastupdatedtime": "08/04/2020 11:30:29",
+			"deaths": "164",
+			"active": "4728",
+			"lastupdatedtime": "08/04/2020 11:36:26",
 			"statecode": "TT",
 			"deltaconfirmed": "9",
 			"deltarecovered": "0",
-			"deltadeaths": "2"
+			"deltadeaths": "4"
 		},
 		{
 			"state": "Maharashtra",
 			"confirmed": "1018",
 			"recovered": "79",
-			"deaths": "64",
-			"active": "875",
-			"lastupdatedtime": "08/04/2020 00:24:24",
+			"deaths": "66",
+			"active": "873",
+			"lastupdatedtime": "08/04/2020 11:36:29",
 			"statecode": "MH",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
-			"deltadeaths": "0"
+			"deltadeaths": "2"
 		},
 		{
 			"state": "Tamil Nadu",
