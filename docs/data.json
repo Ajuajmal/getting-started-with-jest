@@ -3,13 +3,13 @@
 		{
 			"state": "Total",
 			"confirmed": "5916",
-			"recovered": "545",
+			"recovered": "565",
 			"deaths": "179",
-			"active": "5192",
-			"lastupdatedtime": "08/04/2020 22:45:24",
+			"active": "5172",
+			"lastupdatedtime": "09/04/2020 00:10:24",
 			"statecode": "TT",
 			"deltaconfirmed": "565",
-			"deltarecovered": "76",
+			"deltarecovered": "96",
 			"deltadeaths": "19"
 		},
 		{
@@ -63,13 +63,13 @@
 		{
 			"state": "Rajasthan",
 			"confirmed": "383",
-			"recovered": "25",
+			"recovered": "45",
 			"deaths": "2",
-			"active": "356",
-			"lastupdatedtime": "08/04/2020 22:00:25",
+			"active": "336",
+			"lastupdatedtime": "09/04/2020 00:10:27",
 			"statecode": "RJ",
 			"deltaconfirmed": "40",
-			"deltarecovered": "0",
+			"deltarecovered": "20",
 			"deltadeaths": "0"
 		},
 		{
@@ -1083,8 +1083,8 @@
 			"date": "08 April ",
 			"dailyconfirmed": "565",
 			"totalconfirmed": "5916",
-			"dailyrecovered": "76",
-			"totalrecovered": "545",
+			"dailyrecovered": "96",
+			"totalrecovered": "565",
 			"dailydeceased": "19",
 			"totaldeceased": "182"
 		}
