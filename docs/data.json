@@ -2,13 +2,13 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "5618",
+			"confirmed": "5647",
 			"recovered": "492",
 			"deaths": "170",
-			"active": "4956",
-			"lastupdatedtime": "08/04/2020 19:00:25",
+			"active": "4985",
+			"lastupdatedtime": "08/04/2020 19:10:23",
 			"statecode": "TT",
-			"deltaconfirmed": "267",
+			"deltaconfirmed": "296",
 			"deltarecovered": "23",
 			"deltadeaths": "10"
 		},
@@ -86,13 +86,13 @@
 		},
 		{
 			"state": "Uttar Pradesh",
-			"confirmed": "332",
+			"confirmed": "361",
 			"recovered": "21",
 			"deaths": "3",
-			"active": "308",
+			"active": "337",
 			"lastupdatedtime": "08/04/2020 14:50:25",
 			"statecode": "UP",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "29",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -150,7 +150,7 @@
 			"recovered": "32",
 			"deaths": "2",
 			"active": "133",
-			"lastupdatedtime": "08/04/2020 14:40:28",
+			"lastupdatedtime": "08/04/2020 19:10:25",
 			"statecode": "HR",
 			"deltaconfirmed": "24",
 			"deltarecovered": "1",
