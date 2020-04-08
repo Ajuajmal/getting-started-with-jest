@@ -2,15 +2,15 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "5360",
-			"recovered": "468",
-			"deaths": "165",
-			"active": "4727",
-			"lastupdatedtime": "08/04/2020 12:44:24",
+			"confirmed": "5389",
+			"recovered": "469",
+			"deaths": "167",
+			"active": "4753",
+			"lastupdatedtime": "08/04/2020 14:35:44",
 			"statecode": "TT",
-			"deltaconfirmed": "9",
-			"deltarecovered": "0",
-			"deltadeaths": "5"
+			"deltaconfirmed": "38",
+			"deltarecovered": "1",
+			"deltadeaths": "7"
 		},
 		{
 			"state": "Maharashtra",
@@ -98,14 +98,14 @@
 		},
 		{
 			"state": "Andhra Pradesh",
-			"confirmed": "314",
-			"recovered": "5",
+			"confirmed": "329",
+			"recovered": "6",
 			"deaths": "3",
-			"active": "306",
-			"lastupdatedtime": "07/04/2020 21:54:37",
+			"active": "320",
+			"lastupdatedtime": "08/04/2020 14:35:48",
 			"statecode": "AP",
-			"deltaconfirmed": "0",
-			"deltarecovered": "0",
+			"deltaconfirmed": "15",
+			"deltarecovered": "1",
 			"deltadeaths": "0"
 		},
 		{
@@ -122,13 +122,13 @@
 		},
 		{
 			"state": "Karnataka",
-			"confirmed": "175",
+			"confirmed": "181",
 			"recovered": "25",
 			"deaths": "5",
-			"active": "145",
+			"active": "151",
 			"lastupdatedtime": "08/04/2020 12:44:26",
 			"statecode": "KA",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "6",
 			"deltarecovered": "0",
 			"deltadeaths": "1"
 		},
@@ -182,15 +182,15 @@
 		},
 		{
 			"state": "West Bengal",
-			"confirmed": "91",
+			"confirmed": "99",
 			"recovered": "13",
-			"deaths": "3",
-			"active": "75",
+			"deaths": "5",
+			"active": "81",
 			"lastupdatedtime": "07/04/2020 13:35:28",
 			"statecode": "WB",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "8",
 			"deltarecovered": "0",
-			"deltadeaths": "0"
+			"deltadeaths": "2"
 		},
 		{
 			"state": "Odisha",
