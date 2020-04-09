@@ -2,13 +2,13 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "5936",
+			"confirmed": "5941",
 			"recovered": "568",
 			"deaths": "181",
-			"active": "5187",
+			"active": "5192",
 			"lastupdatedtime": "09/04/2020 10:20:25",
 			"statecode": "TT",
-			"deltaconfirmed": "20",
+			"deltaconfirmed": "25",
 			"deltarecovered": "3",
 			"deltadeaths": "1"
 		},
@@ -206,13 +206,13 @@
 		},
 		{
 			"state": "Bihar",
-			"confirmed": "39",
+			"confirmed": "43",
 			"recovered": "15",
 			"deaths": "1",
-			"active": "23",
+			"active": "27",
 			"lastupdatedtime": "08/04/2020 22:10:25",
 			"statecode": "BR",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "4",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -290,13 +290,13 @@
 		},
 		{
 			"state": "Chhattisgarh",
-			"confirmed": "10",
+			"confirmed": "11",
 			"recovered": "9",
 			"deaths": "0",
-			"active": "1",
+			"active": "2",
 			"lastupdatedtime": "07/04/2020 19:44:41",
 			"statecode": "CT",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
