@@ -3,13 +3,13 @@
 		{
 			"state": "Total",
 			"confirmed": "6725",
-			"recovered": "610",
+			"recovered": "620",
 			"deaths": "226",
-			"active": "5889",
+			"active": "5879",
 			"lastupdatedtime": "09/04/2020 23:40:24",
 			"statecode": "TT",
 			"deltaconfirmed": "809",
-			"deltarecovered": "45",
+			"deltarecovered": "55",
 			"deltadeaths": "46"
 		},
 		{
@@ -279,13 +279,13 @@
 		{
 			"state": "Andaman and Nicobar Islands",
 			"confirmed": "11",
-			"recovered": "0",
+			"recovered": "10",
 			"deaths": "0",
-			"active": "11",
+			"active": "1",
 			"lastupdatedtime": "30/03/2020 11:27:27",
 			"statecode": "AN",
 			"deltaconfirmed": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "10",
 			"deltadeaths": "0"
 		},
 		{
@@ -1092,8 +1092,8 @@
 			"date": "09 April ",
 			"dailyconfirmed": "809",
 			"totalconfirmed": "6725",
-			"dailyrecovered": "45",
-			"totalrecovered": "610",
+			"dailyrecovered": "55",
+			"totalrecovered": "620",
 			"dailydeceased": "46",
 			"totaldeceased": "229"
 		}
