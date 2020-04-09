@@ -2,15 +2,15 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "5941",
+			"confirmed": "5971",
 			"recovered": "568",
-			"deaths": "181",
-			"active": "5192",
+			"deaths": "182",
+			"active": "5221",
 			"lastupdatedtime": "09/04/2020 10:20:25",
 			"statecode": "TT",
-			"deltaconfirmed": "25",
+			"deltaconfirmed": "55",
 			"deltarecovered": "3",
-			"deltadeaths": "1"
+			"deltadeaths": "2"
 		},
 		{
 			"state": "Maharashtra",
@@ -62,13 +62,13 @@
 		},
 		{
 			"state": "Rajasthan",
-			"confirmed": "383",
+			"confirmed": "413",
 			"recovered": "45",
 			"deaths": "3",
-			"active": "335",
+			"active": "365",
 			"lastupdatedtime": "09/04/2020 00:30:26",
 			"statecode": "RJ",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "30",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -328,13 +328,13 @@
 			"state": "Jharkhand",
 			"confirmed": "13",
 			"recovered": "0",
-			"deaths": "0",
-			"active": "13",
+			"deaths": "1",
+			"active": "12",
 			"lastupdatedtime": "09/04/2020 07:45:54",
 			"statecode": "JH",
 			"deltaconfirmed": "9",
 			"deltarecovered": "0",
-			"deltadeaths": "0"
+			"deltadeaths": "1"
 		},
 		{
 			"state": "Manipur",
