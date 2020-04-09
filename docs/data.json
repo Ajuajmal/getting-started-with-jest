@@ -2,14 +2,14 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "5931",
-			"recovered": "565",
+			"confirmed": "5935",
+			"recovered": "568",
 			"deaths": "181",
-			"active": "5185",
+			"active": "5186",
 			"lastupdatedtime": "09/04/2020 09:36:47",
 			"statecode": "TT",
-			"deltaconfirmed": "15",
-			"deltarecovered": "0",
+			"deltaconfirmed": "19",
+			"deltarecovered": "3",
 			"deltadeaths": "1"
 		},
 		{
@@ -182,14 +182,14 @@
 		},
 		{
 			"state": "West Bengal",
-			"confirmed": "99",
-			"recovered": "13",
+			"confirmed": "103",
+			"recovered": "16",
 			"deaths": "5",
-			"active": "81",
+			"active": "82",
 			"lastupdatedtime": "08/04/2020 14:40:29",
 			"statecode": "WB",
-			"deltaconfirmed": "0",
-			"deltarecovered": "0",
+			"deltaconfirmed": "4",
+			"deltarecovered": "3",
 			"deltadeaths": "0"
 		},
 		{
