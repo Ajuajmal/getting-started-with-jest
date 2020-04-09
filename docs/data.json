@@ -2,14 +2,14 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "6263",
-			"recovered": "569",
+			"confirmed": "6276",
+			"recovered": "571",
 			"deaths": "186",
-			"active": "5508",
-			"lastupdatedtime": "09/04/2020 16:56:26",
+			"active": "5519",
+			"lastupdatedtime": "09/04/2020 17:25:24",
 			"statecode": "TT",
-			"deltaconfirmed": "347",
-			"deltarecovered": "4",
+			"deltaconfirmed": "360",
+			"deltarecovered": "6",
 			"deltadeaths": "6"
 		},
 		{
@@ -122,14 +122,14 @@
 		},
 		{
 			"state": "Karnataka",
-			"confirmed": "191",
-			"recovered": "28",
+			"confirmed": "197",
+			"recovered": "30",
 			"deaths": "6",
-			"active": "157",
-			"lastupdatedtime": "09/04/2020 13:04:11",
+			"active": "161",
+			"lastupdatedtime": "09/04/2020 17:25:27",
 			"statecode": "KA",
-			"deltaconfirmed": "10",
-			"deltarecovered": "0",
+			"deltaconfirmed": "16",
+			"deltarecovered": "2",
 			"deltadeaths": "1"
 		},
 		{
@@ -290,13 +290,13 @@
 		},
 		{
 			"state": "Chhattisgarh",
-			"confirmed": "11",
+			"confirmed": "18",
 			"recovered": "9",
 			"deaths": "0",
-			"active": "2",
+			"active": "9",
 			"lastupdatedtime": "09/04/2020 10:50:42",
 			"statecode": "CT",
-			"deltaconfirmed": "1",
+			"deltaconfirmed": "8",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
