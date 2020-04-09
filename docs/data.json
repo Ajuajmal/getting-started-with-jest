@@ -2,13 +2,13 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "6637",
+			"confirmed": "6638",
 			"recovered": "598",
 			"deaths": "199",
-			"active": "5840",
+			"active": "5841",
 			"lastupdatedtime": "09/04/2020 20:35:24",
 			"statecode": "TT",
-			"deltaconfirmed": "672",
+			"deltaconfirmed": "722",
 			"deltarecovered": "33",
 			"deltadeaths": "19"
 		},
@@ -92,7 +92,7 @@
 			"active": "375",
 			"lastupdatedtime": "09/04/2020 20:35:25",
 			"statecode": "UP",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "49",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -230,13 +230,13 @@
 		},
 		{
 			"state": "Assam",
-			"confirmed": "28",
+			"confirmed": "29",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "28",
+			"active": "29",
 			"lastupdatedtime": "08/04/2020 00:04:27",
 			"statecode": "AS",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
