@@ -2,10 +2,10 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "6914",
+			"confirmed": "6991",
 			"recovered": "646",
 			"deaths": "230",
-			"active": "6038",
+			"active": "6115",
 			"lastupdatedtime": "10/04/2020 18:10:24",
 			"statecode": "TT",
 			"deltaconfirmed": "185",
@@ -26,10 +26,10 @@
 		},
 		{
 			"state": "Tamil Nadu",
-			"confirmed": "834",
+			"confirmed": "911",
 			"recovered": "27",
 			"deaths": "8",
-			"active": "799",
+			"active": "876",
 			"lastupdatedtime": "09/04/2020 18:30:27",
 			"statecode": "TN",
 			"deltaconfirmed": "0",
