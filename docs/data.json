@@ -3,13 +3,13 @@
 		{
 			"state": "Total",
 			"confirmed": "7598",
-			"recovered": "764",
+			"recovered": "774",
 			"deaths": "246",
-			"active": "6588",
-			"lastupdatedtime": "10/04/2020 22:00:24",
+			"active": "6578",
+			"lastupdatedtime": "10/04/2020 23:10:24",
 			"statecode": "TT",
 			"deltaconfirmed": "869",
-			"deltarecovered": "129",
+			"deltarecovered": "139",
 			"deltadeaths": "20"
 		},
 		{
@@ -195,13 +195,13 @@
 		{
 			"state": "Odisha",
 			"confirmed": "48",
-			"recovered": "2",
+			"recovered": "12",
 			"deaths": "1",
-			"active": "45",
-			"lastupdatedtime": "10/04/2020 09:50:25",
+			"active": "35",
+			"lastupdatedtime": "10/04/2020 23:10:26",
 			"statecode": "OR",
 			"deltaconfirmed": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "10",
 			"deltadeaths": "0"
 		},
 		{
@@ -1101,8 +1101,8 @@
 			"date": "10 April ",
 			"dailyconfirmed": "869",
 			"totalconfirmed": "7598",
-			"dailyrecovered": "129",
-			"totalrecovered": "764",
+			"dailyrecovered": "139",
+			"totalrecovered": "774",
 			"dailydeceased": "20",
 			"totaldeceased": "249"
 		}
