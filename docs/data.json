@@ -3,13 +3,13 @@
 		{
 			"state": "Total",
 			"confirmed": "6819",
-			"recovered": "639",
+			"recovered": "640",
 			"deaths": "229",
-			"active": "5951",
+			"active": "5950",
 			"lastupdatedtime": "10/04/2020 11:05:24",
 			"statecode": "TT",
 			"deltaconfirmed": "90",
-			"deltarecovered": "4",
+			"deltarecovered": "5",
 			"deltadeaths": "3"
 		},
 		{
@@ -303,13 +303,13 @@
 		{
 			"state": "Goa",
 			"confirmed": "7",
-			"recovered": "0",
+			"recovered": "1",
 			"deaths": "0",
-			"active": "7",
+			"active": "6",
 			"lastupdatedtime": "04/04/2020 09:42:27",
 			"statecode": "GA",
 			"deltaconfirmed": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"deltadeaths": "0"
 		},
 		{
