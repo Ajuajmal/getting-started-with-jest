@@ -2,15 +2,15 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "6835",
+			"confirmed": "6866",
 			"recovered": "641",
-			"deaths": "229",
-			"active": "5965",
-			"lastupdatedtime": "10/04/2020 11:40:24",
+			"deaths": "230",
+			"active": "5995",
+			"lastupdatedtime": "10/04/2020 17:35:24",
 			"statecode": "TT",
-			"deltaconfirmed": "106",
+			"deltaconfirmed": "137",
 			"deltarecovered": "6",
-			"deltadeaths": "3"
+			"deltadeaths": "4"
 		},
 		{
 			"state": "Maharashtra",
@@ -62,13 +62,13 @@
 		},
 		{
 			"state": "Rajasthan",
-			"confirmed": "489",
+			"confirmed": "520",
 			"recovered": "60",
 			"deaths": "3",
-			"active": "426",
-			"lastupdatedtime": "10/04/2020 10:35:26",
+			"active": "457",
+			"lastupdatedtime": "10/04/2020 17:35:25",
 			"statecode": "RJ",
-			"deltaconfirmed": "26",
+			"deltaconfirmed": "57",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -172,13 +172,13 @@
 			"state": "Punjab",
 			"confirmed": "130",
 			"recovered": "18",
-			"deaths": "10",
-			"active": "102",
-			"lastupdatedtime": "09/04/2020 15:05:38",
+			"deaths": "11",
+			"active": "101",
+			"lastupdatedtime": "10/04/2020 17:35:26",
 			"statecode": "PB",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
-			"deltadeaths": "0"
+			"deltadeaths": "1"
 		},
 		{
 			"state": "West Bengal",
