@@ -2,13 +2,13 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "7598",
+			"confirmed": "7600",
 			"recovered": "774",
-			"deaths": "248",
-			"active": "6576",
-			"lastupdatedtime": "11/04/2020 00:00:27",
+			"deaths": "249",
+			"active": "6577",
+			"lastupdatedtime": "11/04/2020 00:15:24",
 			"statecode": "TT",
-			"deltaconfirmed": "869",
+			"deltaconfirmed": "871",
 			"deltarecovered": "139",
 			"deltadeaths": "22"
 		},
@@ -100,8 +100,8 @@
 			"state": "Andhra Pradesh",
 			"confirmed": "381",
 			"recovered": "10",
-			"deaths": "5",
-			"active": "366",
+			"deaths": "6",
+			"active": "365",
 			"lastupdatedtime": "10/04/2020 20:35:35",
 			"statecode": "AP",
 			"deltaconfirmed": "18",
@@ -194,13 +194,13 @@
 		},
 		{
 			"state": "Odisha",
-			"confirmed": "48",
+			"confirmed": "50",
 			"recovered": "12",
 			"deaths": "1",
-			"active": "35",
-			"lastupdatedtime": "10/04/2020 23:10:26",
+			"active": "37",
+			"lastupdatedtime": "11/04/2020 00:15:26",
 			"statecode": "OR",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "2",
 			"deltarecovered": "10",
 			"deltadeaths": "0"
 		},
@@ -1076,8 +1076,8 @@
 			"totalconfirmed": "5351",
 			"dailyrecovered": "75",
 			"totalrecovered": "469",
-			"dailydeceased": "26",
-			"totaldeceased": "163"
+			"dailydeceased": "27",
+			"totaldeceased": "164"
 		},
 		{
 			"date": "08 April ",
@@ -1086,7 +1086,7 @@
 			"dailyrecovered": "96",
 			"totalrecovered": "565",
 			"dailydeceased": "20",
-			"totaldeceased": "183"
+			"totaldeceased": "184"
 		},
 		{
 			"date": "09 April ",
@@ -1095,16 +1095,16 @@
 			"dailyrecovered": "70",
 			"totalrecovered": "635",
 			"dailydeceased": "46",
-			"totaldeceased": "229"
+			"totaldeceased": "230"
 		},
 		{
 			"date": "10 April ",
-			"dailyconfirmed": "869",
-			"totalconfirmed": "7598",
+			"dailyconfirmed": "871",
+			"totalconfirmed": "7600",
 			"dailyrecovered": "139",
 			"totalrecovered": "774",
 			"dailydeceased": "22",
-			"totaldeceased": "251"
+			"totaldeceased": "252"
 		}
 	]
 }
