@@ -3,13 +3,13 @@
 		{
 			"state": "Total",
 			"confirmed": "6820",
-			"recovered": "640",
+			"recovered": "641",
 			"deaths": "229",
-			"active": "5951",
-			"lastupdatedtime": "10/04/2020 11:05:24",
+			"active": "5950",
+			"lastupdatedtime": "10/04/2020 11:20:24",
 			"statecode": "TT",
 			"deltaconfirmed": "91",
-			"deltarecovered": "5",
+			"deltarecovered": "6",
 			"deltadeaths": "3"
 		},
 		{
@@ -267,13 +267,13 @@
 		{
 			"state": "Ladakh",
 			"confirmed": "15",
-			"recovered": "10",
+			"recovered": "11",
 			"deaths": "0",
-			"active": "5",
-			"lastupdatedtime": "06/04/2020 23:56:56",
+			"active": "4",
+			"lastupdatedtime": "10/04/2020 11:20:26",
 			"statecode": "LA",
 			"deltaconfirmed": "1",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"deltadeaths": "0"
 		},
 		{
