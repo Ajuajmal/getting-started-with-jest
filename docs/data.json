@@ -3,14 +3,14 @@
 		{
 			"state": "Total",
 			"confirmed": "7347",
-			"recovered": "695",
-			"deaths": "245",
-			"active": "6407",
-			"lastupdatedtime": "10/04/2020 20:35:24",
+			"recovered": "697",
+			"deaths": "246",
+			"active": "6404",
+			"lastupdatedtime": "10/04/2020 21:00:24",
 			"statecode": "TT",
 			"deltaconfirmed": "618",
-			"deltarecovered": "60",
-			"deltadeaths": "19"
+			"deltarecovered": "62",
+			"deltadeaths": "20"
 		},
 		{
 			"state": "Maharashtra",
@@ -39,14 +39,14 @@
 		{
 			"state": "Delhi",
 			"confirmed": "903",
-			"recovered": "25",
-			"deaths": "13",
-			"active": "865",
-			"lastupdatedtime": "10/04/2020 20:35:25",
+			"recovered": "27",
+			"deaths": "14",
+			"active": "862",
+			"lastupdatedtime": "10/04/2020 21:00:25",
 			"statecode": "DL",
 			"deltaconfirmed": "183",
-			"deltarecovered": "0",
-			"deltadeaths": "1"
+			"deltarecovered": "2",
+			"deltadeaths": "2"
 		},
 		{
 			"state": "Telangana",
@@ -1101,10 +1101,10 @@
 			"date": "10 April ",
 			"dailyconfirmed": "618",
 			"totalconfirmed": "7347",
-			"dailyrecovered": "60",
-			"totalrecovered": "695",
-			"dailydeceased": "19",
-			"totaldeceased": "248"
+			"dailyrecovered": "62",
+			"totalrecovered": "697",
+			"dailydeceased": "20",
+			"totaldeceased": "249"
 		}
 	]
 }
