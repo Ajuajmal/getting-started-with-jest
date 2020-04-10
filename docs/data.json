@@ -2,13 +2,13 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "6991",
+			"confirmed": "6998",
 			"recovered": "646",
 			"deaths": "230",
-			"active": "6115",
-			"lastupdatedtime": "10/04/2020 18:10:24",
+			"active": "6122",
+			"lastupdatedtime": "10/04/2020 18:30:24",
 			"statecode": "TT",
-			"deltaconfirmed": "185",
+			"deltaconfirmed": "262",
 			"deltarecovered": "11",
 			"deltadeaths": "4"
 		},
@@ -30,9 +30,9 @@
 			"recovered": "27",
 			"deaths": "8",
 			"active": "876",
-			"lastupdatedtime": "09/04/2020 18:30:27",
+			"lastupdatedtime": "10/04/2020 18:30:25",
 			"statecode": "TN",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "77",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -74,10 +74,10 @@
 		},
 		{
 			"state": "Kerala",
-			"confirmed": "357",
+			"confirmed": "364",
 			"recovered": "97",
 			"deaths": "2",
-			"active": "258",
+			"active": "265",
 			"lastupdatedtime": "09/04/2020 18:10:35",
 			"statecode": "KL",
 			"deltaconfirmed": "0",
