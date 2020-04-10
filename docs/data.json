@@ -2,13 +2,13 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "7061",
+			"confirmed": "7062",
 			"recovered": "692",
 			"deaths": "241",
-			"active": "6128",
-			"lastupdatedtime": "10/04/2020 19:35:24",
+			"active": "6129",
+			"lastupdatedtime": "10/04/2020 20:00:24",
 			"statecode": "TT",
-			"deltaconfirmed": "332",
+			"deltaconfirmed": "333",
 			"deltarecovered": "57",
 			"deltadeaths": "15"
 		},
@@ -386,13 +386,13 @@
 		},
 		{
 			"state": "Tripura",
-			"confirmed": "1",
+			"confirmed": "2",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "1",
+			"active": "2",
 			"lastupdatedtime": "06/04/2020 22:14:41",
 			"statecode": "TR",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
