@@ -2,14 +2,14 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "6866",
-			"recovered": "641",
+			"confirmed": "6910",
+			"recovered": "642",
 			"deaths": "230",
-			"active": "5995",
-			"lastupdatedtime": "10/04/2020 17:35:24",
+			"active": "6038",
+			"lastupdatedtime": "10/04/2020 17:45:24",
 			"statecode": "TT",
-			"deltaconfirmed": "137",
-			"deltarecovered": "6",
+			"deltaconfirmed": "181",
+			"deltarecovered": "7",
 			"deltadeaths": "4"
 		},
 		{
@@ -86,14 +86,14 @@
 		},
 		{
 			"state": "Uttar Pradesh",
-			"confirmed": "410",
-			"recovered": "31",
+			"confirmed": "431",
+			"recovered": "32",
 			"deaths": "4",
-			"active": "375",
-			"lastupdatedtime": "09/04/2020 20:35:25",
+			"active": "395",
+			"lastupdatedtime": "10/04/2020 17:45:24",
 			"statecode": "UP",
-			"deltaconfirmed": "0",
-			"deltarecovered": "0",
+			"deltaconfirmed": "21",
+			"deltarecovered": "1",
 			"deltadeaths": "0"
 		},
 		{
@@ -158,13 +158,13 @@
 		},
 		{
 			"state": "Jammu and Kashmir",
-			"confirmed": "184",
+			"confirmed": "207",
 			"recovered": "6",
 			"deaths": "4",
-			"active": "174",
+			"active": "197",
 			"lastupdatedtime": "09/04/2020 19:35:27",
 			"statecode": "JK",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "23",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
