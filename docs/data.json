@@ -4,13 +4,13 @@
 			"state": "Total",
 			"confirmed": "6742",
 			"recovered": "635",
-			"deaths": "227",
-			"active": "5880",
+			"deaths": "228",
+			"active": "5879",
 			"lastupdatedtime": "10/04/2020 10:00:24",
 			"statecode": "TT",
 			"deltaconfirmed": "13",
 			"deltarecovered": "0",
-			"deltadeaths": "1"
+			"deltadeaths": "2"
 		},
 		{
 			"state": "Maharashtra",
@@ -232,13 +232,13 @@
 			"state": "Assam",
 			"confirmed": "29",
 			"recovered": "0",
-			"deaths": "0",
-			"active": "29",
+			"deaths": "1",
+			"active": "28",
 			"lastupdatedtime": "08/04/2020 00:04:27",
 			"statecode": "AS",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
-			"deltadeaths": "0"
+			"deltadeaths": "1"
 		},
 		{
 			"state": "Chandigarh",
