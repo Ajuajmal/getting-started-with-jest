@@ -2,14 +2,14 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "7164",
-			"recovered": "692",
+			"confirmed": "7347",
+			"recovered": "695",
 			"deaths": "245",
-			"active": "6227",
+			"active": "6407",
 			"lastupdatedtime": "10/04/2020 20:35:24",
 			"statecode": "TT",
-			"deltaconfirmed": "435",
-			"deltarecovered": "57",
+			"deltaconfirmed": "618",
+			"deltarecovered": "60",
 			"deltadeaths": "19"
 		},
 		{
@@ -38,13 +38,13 @@
 		},
 		{
 			"state": "Delhi",
-			"confirmed": "720",
+			"confirmed": "903",
 			"recovered": "25",
 			"deaths": "13",
-			"active": "682",
+			"active": "865",
 			"lastupdatedtime": "10/04/2020 20:35:25",
 			"statecode": "DL",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "183",
 			"deltarecovered": "0",
 			"deltadeaths": "1"
 		},
@@ -135,13 +135,13 @@
 		{
 			"state": "Gujarat",
 			"confirmed": "378",
-			"recovered": "30",
+			"recovered": "33",
 			"deaths": "19",
-			"active": "329",
+			"active": "326",
 			"lastupdatedtime": "10/04/2020 20:35:37",
 			"statecode": "GJ",
 			"deltaconfirmed": "116",
-			"deltarecovered": "4",
+			"deltarecovered": "7",
 			"deltadeaths": "1"
 		},
 		{
