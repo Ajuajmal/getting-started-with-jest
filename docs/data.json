@@ -2,14 +2,14 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "8439",
-			"recovered": "969",
+			"confirmed": "8446",
+			"recovered": "973",
 			"deaths": "288",
-			"active": "7182",
-			"lastupdatedtime": "11/04/2020 22:35:24",
+			"active": "7185",
+			"lastupdatedtime": "11/04/2020 23:26:31",
 			"statecode": "TT",
-			"deltaconfirmed": "840",
-			"deltarecovered": "181",
+			"deltaconfirmed": "847",
+			"deltarecovered": "185",
 			"deltadeaths": "39"
 		},
 		{
@@ -194,25 +194,25 @@
 		},
 		{
 			"state": "Odisha",
-			"confirmed": "50",
+			"confirmed": "54",
 			"recovered": "12",
 			"deaths": "1",
-			"active": "37",
+			"active": "41",
 			"lastupdatedtime": "11/04/2020 00:20:26",
 			"statecode": "OR",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "4",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
 		{
 			"state": "Bihar",
-			"confirmed": "61",
+			"confirmed": "64",
 			"recovered": "15",
 			"deaths": "1",
-			"active": "45",
-			"lastupdatedtime": "10/04/2020 10:35:27",
+			"active": "48",
+			"lastupdatedtime": "11/04/2020 23:26:43",
 			"statecode": "BR",
-			"deltaconfirmed": "1",
+			"deltaconfirmed": "4",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -303,13 +303,13 @@
 		{
 			"state": "Goa",
 			"confirmed": "7",
-			"recovered": "1",
+			"recovered": "5",
 			"deaths": "0",
-			"active": "6",
-			"lastupdatedtime": "04/04/2020 09:42:27",
+			"active": "2",
+			"lastupdatedtime": "11/04/2020 23:26:44",
 			"statecode": "GA",
 			"deltaconfirmed": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "4",
 			"deltadeaths": "0"
 		},
 		{
