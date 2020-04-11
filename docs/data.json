@@ -2,14 +2,14 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "7904",
-			"recovered": "792",
+			"confirmed": "7906",
+			"recovered": "815",
 			"deaths": "253",
-			"active": "6859",
-			"lastupdatedtime": "11/04/2020 18:10:24",
+			"active": "6838",
+			"lastupdatedtime": "11/04/2020 18:20:24",
 			"statecode": "TT",
-			"deltaconfirmed": "304",
-			"deltarecovered": "4",
+			"deltaconfirmed": "306",
+			"deltarecovered": "27",
 			"deltadeaths": "4"
 		},
 		{
@@ -75,13 +75,13 @@
 		{
 			"state": "Kerala",
 			"confirmed": "374",
-			"recovered": "124",
+			"recovered": "143",
 			"deaths": "3",
-			"active": "247",
-			"lastupdatedtime": "11/04/2020 18:10:24",
+			"active": "228",
+			"lastupdatedtime": "11/04/2020 18:20:24",
 			"statecode": "KL",
 			"deltaconfirmed": "10",
-			"deltarecovered": "0",
+			"deltarecovered": "19",
 			"deltadeaths": "1"
 		},
 		{
@@ -254,14 +254,14 @@
 		},
 		{
 			"state": "Himachal Pradesh",
-			"confirmed": "30",
-			"recovered": "2",
+			"confirmed": "32",
+			"recovered": "6",
 			"deaths": "2",
-			"active": "26",
-			"lastupdatedtime": "09/04/2020 10:50:40",
+			"active": "24",
+			"lastupdatedtime": "11/04/2020 18:20:25",
 			"statecode": "HP",
-			"deltaconfirmed": "2",
-			"deltarecovered": "0",
+			"deltaconfirmed": "4",
+			"deltarecovered": "4",
 			"deltadeaths": "0"
 		},
 		{
