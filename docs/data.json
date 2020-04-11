@@ -2,15 +2,15 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "8027",
-			"recovered": "886",
-			"deaths": "256",
-			"active": "6885",
-			"lastupdatedtime": "11/04/2020 19:50:24",
+			"confirmed": "8063",
+			"recovered": "896",
+			"deaths": "259",
+			"active": "6908",
+			"lastupdatedtime": "11/04/2020 20:20:24",
 			"statecode": "TT",
-			"deltaconfirmed": "427",
-			"deltarecovered": "98",
-			"deltadeaths": "7"
+			"deltaconfirmed": "463",
+			"deltarecovered": "108",
+			"deltadeaths": "10"
 		},
 		{
 			"state": "Maharashtra",
@@ -134,15 +134,15 @@
 		},
 		{
 			"state": "Gujarat",
-			"confirmed": "432",
-			"recovered": "34",
-			"deaths": "19",
-			"active": "379",
-			"lastupdatedtime": "11/04/2020 11:40:28",
+			"confirmed": "468",
+			"recovered": "44",
+			"deaths": "22",
+			"active": "402",
+			"lastupdatedtime": "11/04/2020 20:20:24",
 			"statecode": "GJ",
-			"deltaconfirmed": "54",
-			"deltarecovered": "1",
-			"deltadeaths": "0"
+			"deltaconfirmed": "90",
+			"deltarecovered": "11",
+			"deltadeaths": "3"
 		},
 		{
 			"state": "Haryana",
