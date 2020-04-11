@@ -8,9 +8,9 @@
 			"active": "6577",
 			"lastupdatedtime": "11/04/2020 00:20:24",
 			"statecode": "TT",
-			"deltaconfirmed": "871",
-			"deltarecovered": "139",
-			"deltadeaths": "22"
+			"deltaconfirmed": "0",
+			"deltarecovered": "0",
+			"deltadeaths": "0"
 		},
 		{
 			"state": "Maharashtra",
@@ -20,9 +20,9 @@
 			"active": "1276",
 			"lastupdatedtime": "11/04/2020 00:00:28",
 			"statecode": "MH",
-			"deltaconfirmed": "210",
-			"deltarecovered": "63",
-			"deltadeaths": "13"
+			"deltaconfirmed": "0",
+			"deltarecovered": "0",
+			"deltadeaths": "0"
 		},
 		{
 			"state": "Tamil Nadu",
@@ -32,9 +32,9 @@
 			"active": "858",
 			"lastupdatedtime": "10/04/2020 18:50:26",
 			"statecode": "TN",
-			"deltaconfirmed": "77",
-			"deltarecovered": "17",
-			"deltadeaths": "1"
+			"deltaconfirmed": "0",
+			"deltarecovered": "0",
+			"deltadeaths": "0"
 		},
 		{
 			"state": "Delhi",
@@ -44,9 +44,9 @@
 			"active": "862",
 			"lastupdatedtime": "10/04/2020 21:00:25",
 			"statecode": "DL",
-			"deltaconfirmed": "183",
-			"deltarecovered": "2",
-			"deltadeaths": "2"
+			"deltaconfirmed": "0",
+			"deltarecovered": "0",
+			"deltadeaths": "0"
 		},
 		{
 			"state": "Telangana",
@@ -56,7 +56,7 @@
 			"active": "430",
 			"lastupdatedtime": "10/04/2020 20:35:30",
 			"statecode": "TG",
-			"deltaconfirmed": "16",
+			"deltaconfirmed": "0",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -68,7 +68,7 @@
 			"active": "498",
 			"lastupdatedtime": "10/04/2020 22:00:25",
 			"statecode": "RJ",
-			"deltaconfirmed": "98",
+			"deltaconfirmed": "0",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -80,8 +80,8 @@
 			"active": "238",
 			"lastupdatedtime": "10/04/2020 18:35:27",
 			"statecode": "KL",
-			"deltaconfirmed": "7",
-			"deltarecovered": "27",
+			"deltaconfirmed": "0",
+			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
 		{
@@ -92,8 +92,8 @@
 			"active": "397",
 			"lastupdatedtime": "10/04/2020 19:35:25",
 			"statecode": "UP",
-			"deltaconfirmed": "23",
-			"deltarecovered": "1",
+			"deltaconfirmed": "0",
+			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
 		{
@@ -104,7 +104,7 @@
 			"active": "365",
 			"lastupdatedtime": "10/04/2020 20:35:35",
 			"statecode": "AP",
-			"deltaconfirmed": "18",
+			"deltaconfirmed": "0",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -116,9 +116,9 @@
 			"active": "390",
 			"lastupdatedtime": "10/04/2020 19:35:26",
 			"statecode": "MP",
-			"deltaconfirmed": "40",
+			"deltaconfirmed": "0",
 			"deltarecovered": "0",
-			"deltadeaths": "3"
+			"deltadeaths": "0"
 		},
 		{
 			"state": "Karnataka",
@@ -128,8 +128,8 @@
 			"active": "167",
 			"lastupdatedtime": "10/04/2020 21:50:26",
 			"statecode": "KA",
-			"deltaconfirmed": "10",
-			"deltarecovered": "4",
+			"deltaconfirmed": "0",
+			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
 		{
@@ -140,9 +140,9 @@
 			"active": "326",
 			"lastupdatedtime": "10/04/2020 20:35:37",
 			"statecode": "GJ",
-			"deltaconfirmed": "116",
-			"deltarecovered": "7",
-			"deltadeaths": "1"
+			"deltaconfirmed": "0",
+			"deltarecovered": "0",
+			"deltadeaths": "0"
 		},
 		{
 			"state": "Haryana",
@@ -152,8 +152,8 @@
 			"active": "138",
 			"lastupdatedtime": "10/04/2020 18:10:25",
 			"statecode": "HR",
-			"deltaconfirmed": "6",
-			"deltarecovered": "4",
+			"deltaconfirmed": "0",
+			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
 		{
@@ -164,7 +164,7 @@
 			"active": "197",
 			"lastupdatedtime": "09/04/2020 19:35:27",
 			"statecode": "JK",
-			"deltaconfirmed": "23",
+			"deltaconfirmed": "0",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -176,9 +176,9 @@
 			"active": "120",
 			"lastupdatedtime": "10/04/2020 18:50:28",
 			"statecode": "PB",
-			"deltaconfirmed": "21",
-			"deltarecovered": "2",
-			"deltadeaths": "1"
+			"deltaconfirmed": "0",
+			"deltarecovered": "0",
+			"deltadeaths": "0"
 		},
 		{
 			"state": "West Bengal",
@@ -188,7 +188,7 @@
 			"active": "95",
 			"lastupdatedtime": "10/04/2020 10:00:25",
 			"statecode": "WB",
-			"deltaconfirmed": "13",
+			"deltaconfirmed": "0",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -200,8 +200,8 @@
 			"active": "37",
 			"lastupdatedtime": "11/04/2020 00:20:26",
 			"statecode": "OR",
-			"deltaconfirmed": "2",
-			"deltarecovered": "10",
+			"deltaconfirmed": "0",
+			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
 		{
@@ -212,7 +212,7 @@
 			"active": "44",
 			"lastupdatedtime": "10/04/2020 10:35:27",
 			"statecode": "BR",
-			"deltaconfirmed": "2",
+			"deltaconfirmed": "0",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -238,7 +238,7 @@
 			"statecode": "AS",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
-			"deltadeaths": "1"
+			"deltadeaths": "0"
 		},
 		{
 			"state": "Chandigarh",
@@ -248,7 +248,7 @@
 			"active": "12",
 			"lastupdatedtime": "10/04/2020 18:10:27",
 			"statecode": "CH",
-			"deltaconfirmed": "1",
+			"deltaconfirmed": "0",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -272,8 +272,8 @@
 			"active": "4",
 			"lastupdatedtime": "10/04/2020 11:20:26",
 			"statecode": "LA",
-			"deltaconfirmed": "1",
-			"deltarecovered": "1",
+			"deltaconfirmed": "0",
+			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
 		{
@@ -309,7 +309,7 @@
 			"lastupdatedtime": "04/04/2020 09:42:27",
 			"statecode": "GA",
 			"deltaconfirmed": "0",
-			"deltarecovered": "1",
+			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
 		{
@@ -320,7 +320,7 @@
 			"active": "6",
 			"lastupdatedtime": "10/04/2020 17:50:26",
 			"statecode": "PY",
-			"deltaconfirmed": "2",
+			"deltaconfirmed": "0",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -332,7 +332,7 @@
 			"active": "13",
 			"lastupdatedtime": "10/04/2020 10:20:26",
 			"statecode": "JH",
-			"deltaconfirmed": "1",
+			"deltaconfirmed": "0",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -392,7 +392,7 @@
 			"active": "2",
 			"lastupdatedtime": "10/04/2020 20:00:27",
 			"statecode": "TR",
-			"deltaconfirmed": "1",
+			"deltaconfirmed": "0",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
