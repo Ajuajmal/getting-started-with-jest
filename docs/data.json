@@ -2,13 +2,13 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "7677",
-			"recovered": "775",
+			"confirmed": "7684",
+			"recovered": "789",
 			"deaths": "249",
-			"active": "6653",
-			"lastupdatedtime": "11/04/2020 11:55:28",
+			"active": "6646",
+			"lastupdatedtime": "11/04/2020 12:55:24",
 			"statecode": "TT",
-			"deltaconfirmed": "77",
+			"deltaconfirmed": "84",
 			"deltarecovered": "1",
 			"deltadeaths": "0"
 		},
@@ -111,10 +111,10 @@
 		{
 			"state": "Madhya Pradesh",
 			"confirmed": "451",
-			"recovered": "25",
+			"recovered": "39",
 			"deaths": "36",
-			"active": "390",
-			"lastupdatedtime": "10/04/2020 19:35:26",
+			"active": "376",
+			"lastupdatedtime": "11/04/2020 12:55:25",
 			"statecode": "MP",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
@@ -122,13 +122,13 @@
 		},
 		{
 			"state": "Karnataka",
-			"confirmed": "207",
+			"confirmed": "214",
 			"recovered": "34",
 			"deaths": "6",
-			"active": "167",
+			"active": "174",
 			"lastupdatedtime": "10/04/2020 21:50:26",
 			"statecode": "KA",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "7",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -1101,8 +1101,8 @@
 			"date": "10 April ",
 			"dailyconfirmed": "871",
 			"totalconfirmed": "7600",
-			"dailyrecovered": "139",
-			"totalrecovered": "774",
+			"dailyrecovered": "153",
+			"totalrecovered": "788",
 			"dailydeceased": "22",
 			"totaldeceased": "252"
 		}
