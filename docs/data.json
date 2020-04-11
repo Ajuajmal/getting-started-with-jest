@@ -910,8 +910,8 @@
 		},
 		{
 			"date": "20 March ",
-			"dailyconfirmed": "60",
-			"totalconfirmed": "258",
+			"dailyconfirmed": "58",
+			"totalconfirmed": "256",
 			"dailyrecovered": "3",
 			"totalrecovered": "23",
 			"dailydeceased": "0",
@@ -919,7 +919,7 @@
 		},
 		{
 			"date": "21 March ",
-			"dailyconfirmed": "76",
+			"dailyconfirmed": "78",
 			"totalconfirmed": "334",
 			"dailyrecovered": "0",
 			"totalrecovered": "23",
