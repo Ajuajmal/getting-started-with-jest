@@ -10,7 +10,7 @@
 			"statecode": "TT",
 			"deltaconfirmed": "84",
 			"deltarecovered": "1",
-			"deltadeaths": "0"
+			"deltadeaths": "1"
 		},
 		{
 			"state": "Maharashtra",
@@ -82,7 +82,7 @@
 			"statecode": "KL",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
-			"deltadeaths": "0"
+			"deltadeaths": "1"
 		},
 		{
 			"state": "Uttar Pradesh",
@@ -1103,8 +1103,8 @@
 			"totalconfirmed": "7600",
 			"dailyrecovered": "153",
 			"totalrecovered": "788",
-			"dailydeceased": "23",
-			"totaldeceased": "253"
+			"dailydeceased": "22",
+			"totaldeceased": "252"
 		}
 	]
 }
