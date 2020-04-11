@@ -4,8 +4,8 @@
 			"state": "Total",
 			"confirmed": "7684",
 			"recovered": "789",
-			"deaths": "249",
-			"active": "6646",
+			"deaths": "250",
+			"active": "6645",
 			"lastupdatedtime": "11/04/2020 13:00:24",
 			"statecode": "TT",
 			"deltaconfirmed": "84",
@@ -76,8 +76,8 @@
 			"state": "Kerala",
 			"confirmed": "364",
 			"recovered": "124",
-			"deaths": "2",
-			"active": "238",
+			"deaths": "3",
+			"active": "237",
 			"lastupdatedtime": "10/04/2020 18:35:27",
 			"statecode": "KL",
 			"deltaconfirmed": "0",
@@ -1103,8 +1103,8 @@
 			"totalconfirmed": "7600",
 			"dailyrecovered": "153",
 			"totalrecovered": "788",
-			"dailydeceased": "22",
-			"totaldeceased": "252"
+			"dailydeceased": "23",
+			"totaldeceased": "253"
 		}
 	]
 }
