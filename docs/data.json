@@ -1123,6 +1123,15 @@
 			"totalrecovered": "1080",
 			"dailydeceased": "42",
 			"totaldeceased": "334"
+		},
+		{
+			"date": "13 April ",
+			"dailyconfirmed": "0",
+			"totalconfirmed": "9206",
+			"dailyrecovered": "0",
+			"totalrecovered": "1080",
+			"dailydeceased": "0",
+			"totaldeceased": "334"
 		}
 	]
 }
