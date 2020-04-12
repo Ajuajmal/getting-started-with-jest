@@ -2,15 +2,15 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "9201",
-			"recovered": "1073",
-			"deaths": "325",
-			"active": "7803",
-			"lastupdatedtime": "12/04/2020 21:35:24",
+			"confirmed": "9204",
+			"recovered": "1080",
+			"deaths": "327",
+			"active": "7797",
+			"lastupdatedtime": "12/04/2020 21:50:24",
 			"statecode": "TT",
-			"deltaconfirmed": "724",
-			"deltarecovered": "101",
-			"deltadeaths": "36"
+			"deltaconfirmed": "752",
+			"deltarecovered": "108",
+			"deltadeaths": "38"
 		},
 		{
 			"state": "Maharashtra",
@@ -50,15 +50,15 @@
 		},
 		{
 			"state": "Telangana",
-			"confirmed": "528",
-			"recovered": "96",
-			"deaths": "14",
-			"active": "418",
-			"lastupdatedtime": "11/04/2020 22:10:24",
+			"confirmed": "531",
+			"recovered": "103",
+			"deaths": "16",
+			"active": "412",
+			"lastupdatedtime": "12/04/2020 21:50:24",
 			"statecode": "TG",
-			"deltaconfirmed": "0",
-			"deltarecovered": "0",
-			"deltadeaths": "0"
+			"deltaconfirmed": "28",
+			"deltarecovered": "7",
+			"deltadeaths": "2"
 		},
 		{
 			"state": "Rajasthan",
@@ -330,7 +330,7 @@
 			"recovered": "0",
 			"deaths": "2",
 			"active": "17",
-			"lastupdatedtime": "12/04/2020 19:35:37",
+			"lastupdatedtime": "12/04/2020 21:50:26",
 			"statecode": "JH",
 			"deltaconfirmed": "2",
 			"deltarecovered": "0",
@@ -1117,12 +1117,12 @@
 		},
 		{
 			"date": "12 April ",
-			"dailyconfirmed": "724",
-			"totalconfirmed": "9177",
-			"dailyrecovered": "101",
-			"totalrecovered": "1073",
-			"dailydeceased": "36",
-			"totaldeceased": "328"
+			"dailyconfirmed": "752",
+			"totalconfirmed": "9205",
+			"dailyrecovered": "108",
+			"totalrecovered": "1080",
+			"dailydeceased": "38",
+			"totaldeceased": "330"
 		}
 	]
 }
