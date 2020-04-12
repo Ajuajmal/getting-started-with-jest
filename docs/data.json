@@ -2,13 +2,13 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "8783",
+			"confirmed": "8785",
 			"recovered": "1023",
 			"deaths": "293",
-			"active": "7467",
+			"active": "7469",
 			"lastupdatedtime": "12/04/2020 17:40:24",
 			"statecode": "TT",
-			"deltaconfirmed": "330",
+			"deltaconfirmed": "332",
 			"deltarecovered": "51",
 			"deltadeaths": "4"
 		},
@@ -242,13 +242,13 @@
 		},
 		{
 			"state": "Chandigarh",
-			"confirmed": "19",
+			"confirmed": "21",
 			"recovered": "7",
 			"deaths": "0",
-			"active": "12",
+			"active": "14",
 			"lastupdatedtime": "10/04/2020 18:10:27",
 			"statecode": "CH",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "2",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -1117,8 +1117,8 @@
 		},
 		{
 			"date": "12 April ",
-			"dailyconfirmed": "330",
-			"totalconfirmed": "8784",
+			"dailyconfirmed": "332",
+			"totalconfirmed": "8786",
 			"dailyrecovered": "51",
 			"totalrecovered": "1023",
 			"dailydeceased": "4",
