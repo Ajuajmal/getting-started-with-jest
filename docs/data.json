@@ -3,13 +3,13 @@
 		{
 			"state": "Total",
 			"confirmed": "9174",
-			"recovered": "1070",
+			"recovered": "1073",
 			"deaths": "325",
-			"active": "7779",
-			"lastupdatedtime": "12/04/2020 21:30:24",
+			"active": "7776",
+			"lastupdatedtime": "12/04/2020 21:35:24",
 			"statecode": "TT",
 			"deltaconfirmed": "722",
-			"deltarecovered": "98",
+			"deltarecovered": "101",
 			"deltadeaths": "36"
 		},
 		{
@@ -18,7 +18,7 @@
 			"recovered": "217",
 			"deaths": "149",
 			"active": "1616",
-			"lastupdatedtime": "12/04/2020 21:00:24",
+			"lastupdatedtime": "12/04/2020 21:35:24",
 			"statecode": "MH",
 			"deltaconfirmed": "221",
 			"deltarecovered": "9",
@@ -66,7 +66,7 @@
 			"recovered": "116",
 			"deaths": "9",
 			"active": "679",
-			"lastupdatedtime": "12/04/2020 21:30:25",
+			"lastupdatedtime": "12/04/2020 21:35:26",
 			"statecode": "RJ",
 			"deltaconfirmed": "104",
 			"deltarecovered": "0",
@@ -255,13 +255,13 @@
 		{
 			"state": "Himachal Pradesh",
 			"confirmed": "32",
-			"recovered": "9",
+			"recovered": "12",
 			"deaths": "2",
-			"active": "21",
-			"lastupdatedtime": "11/04/2020 22:00:34",
+			"active": "18",
+			"lastupdatedtime": "12/04/2020 21:35:27",
 			"statecode": "HP",
 			"deltaconfirmed": "0",
-			"deltarecovered": "1",
+			"deltarecovered": "4",
 			"deltadeaths": "0"
 		},
 		{
@@ -1119,8 +1119,8 @@
 			"date": "12 April ",
 			"dailyconfirmed": "722",
 			"totalconfirmed": "9175",
-			"dailyrecovered": "98",
-			"totalrecovered": "1070",
+			"dailyrecovered": "101",
+			"totalrecovered": "1073",
 			"dailydeceased": "36",
 			"totaldeceased": "328"
 		}
