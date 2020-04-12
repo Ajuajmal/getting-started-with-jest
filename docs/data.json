@@ -2,15 +2,15 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "8939",
+			"confirmed": "8967",
 			"recovered": "1060",
-			"deaths": "295",
-			"active": "7584",
-			"lastupdatedtime": "12/04/2020 19:20:24",
+			"deaths": "296",
+			"active": "7611",
+			"lastupdatedtime": "12/04/2020 19:25:24",
 			"statecode": "TT",
-			"deltaconfirmed": "487",
+			"deltaconfirmed": "515",
 			"deltarecovered": "88",
-			"deltadeaths": "6"
+			"deltadeaths": "7"
 		},
 		{
 			"state": "Maharashtra",
@@ -86,13 +86,13 @@
 		},
 		{
 			"state": "Uttar Pradesh",
-			"confirmed": "452",
+			"confirmed": "480",
 			"recovered": "45",
 			"deaths": "5",
-			"active": "402",
-			"lastupdatedtime": "11/04/2020 19:50:25",
+			"active": "430",
+			"lastupdatedtime": "12/04/2020 19:25:25",
 			"statecode": "UP",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "28",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -148,13 +148,13 @@
 			"state": "Haryana",
 			"confirmed": "195",
 			"recovered": "44",
-			"deaths": "2",
-			"active": "149",
+			"deaths": "3",
+			"active": "148",
 			"lastupdatedtime": "12/04/2020 18:35:25",
 			"statecode": "HR",
 			"deltaconfirmed": "16",
 			"deltarecovered": "8",
-			"deltadeaths": "0"
+			"deltadeaths": "1"
 		},
 		{
 			"state": "Jammu and Kashmir",
@@ -1117,12 +1117,12 @@
 		},
 		{
 			"date": "12 April ",
-			"dailyconfirmed": "487",
-			"totalconfirmed": "8940",
+			"dailyconfirmed": "515",
+			"totalconfirmed": "8968",
 			"dailyrecovered": "88",
 			"totalrecovered": "1060",
-			"dailydeceased": "6",
-			"totaldeceased": "298"
+			"dailydeceased": "7",
+			"totaldeceased": "299"
 		}
 	]
 }
