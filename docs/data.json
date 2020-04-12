@@ -2,13 +2,13 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "8925",
+			"confirmed": "8939",
 			"recovered": "1058",
 			"deaths": "294",
-			"active": "7573",
+			"active": "7587",
 			"lastupdatedtime": "12/04/2020 19:10:24",
 			"statecode": "TT",
-			"deltaconfirmed": "472",
+			"deltaconfirmed": "487",
 			"deltarecovered": "86",
 			"deltadeaths": "5"
 		},
@@ -98,13 +98,13 @@
 		},
 		{
 			"state": "Andhra Pradesh",
-			"confirmed": "405",
+			"confirmed": "420",
 			"recovered": "10",
 			"deaths": "6",
-			"active": "389",
+			"active": "404",
 			"lastupdatedtime": "11/04/2020 18:55:25",
 			"statecode": "AP",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "15",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -158,10 +158,10 @@
 		},
 		{
 			"state": "Jammu and Kashmir",
-			"confirmed": "245",
+			"confirmed": "244",
 			"recovered": "6",
 			"deaths": "4",
-			"active": "235",
+			"active": "234",
 			"lastupdatedtime": "12/04/2020 17:40:25",
 			"statecode": "JK",
 			"deltaconfirmed": "21",
@@ -1036,8 +1036,8 @@
 		},
 		{
 			"date": "03 April ",
-			"dailyconfirmed": "560",
-			"totalconfirmed": "3105",
+			"dailyconfirmed": "559",
+			"totalconfirmed": "3104",
 			"dailyrecovered": "39",
 			"totalrecovered": "230",
 			"dailydeceased": "14",
@@ -1046,7 +1046,7 @@
 		{
 			"date": "04 April ",
 			"dailyconfirmed": "579",
-			"totalconfirmed": "3684",
+			"totalconfirmed": "3683",
 			"dailyrecovered": "56",
 			"totalrecovered": "286",
 			"dailydeceased": "13",
@@ -1055,7 +1055,7 @@
 		{
 			"date": "05 April ",
 			"dailyconfirmed": "605",
-			"totalconfirmed": "4289",
+			"totalconfirmed": "4288",
 			"dailyrecovered": "43",
 			"totalrecovered": "329",
 			"dailydeceased": "22",
@@ -1064,7 +1064,7 @@
 		{
 			"date": "06 April ",
 			"dailyconfirmed": "489",
-			"totalconfirmed": "4778",
+			"totalconfirmed": "4777",
 			"dailyrecovered": "65",
 			"totalrecovered": "394",
 			"dailydeceased": "16",
@@ -1073,7 +1073,7 @@
 		{
 			"date": "07 April ",
 			"dailyconfirmed": "573",
-			"totalconfirmed": "5351",
+			"totalconfirmed": "5350",
 			"dailyrecovered": "75",
 			"totalrecovered": "469",
 			"dailydeceased": "27",
@@ -1082,7 +1082,7 @@
 		{
 			"date": "08 April ",
 			"dailyconfirmed": "565",
-			"totalconfirmed": "5916",
+			"totalconfirmed": "5915",
 			"dailyrecovered": "96",
 			"totalrecovered": "565",
 			"dailydeceased": "20",
@@ -1091,7 +1091,7 @@
 		{
 			"date": "09 April ",
 			"dailyconfirmed": "813",
-			"totalconfirmed": "6729",
+			"totalconfirmed": "6728",
 			"dailyrecovered": "70",
 			"totalrecovered": "635",
 			"dailydeceased": "46",
@@ -1100,7 +1100,7 @@
 		{
 			"date": "10 April ",
 			"dailyconfirmed": "871",
-			"totalconfirmed": "7600",
+			"totalconfirmed": "7599",
 			"dailyrecovered": "151",
 			"totalrecovered": "786",
 			"dailydeceased": "22",
@@ -1109,7 +1109,7 @@
 		{
 			"date": "11 April ",
 			"dailyconfirmed": "854",
-			"totalconfirmed": "8454",
+			"totalconfirmed": "8453",
 			"dailyrecovered": "186",
 			"totalrecovered": "972",
 			"dailydeceased": "40",
@@ -1117,8 +1117,8 @@
 		},
 		{
 			"date": "12 April ",
-			"dailyconfirmed": "472",
-			"totalconfirmed": "8926",
+			"dailyconfirmed": "487",
+			"totalconfirmed": "8940",
 			"dailyrecovered": "86",
 			"totalrecovered": "1058",
 			"dailydeceased": "5",
