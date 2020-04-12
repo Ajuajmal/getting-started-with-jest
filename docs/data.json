@@ -4,13 +4,13 @@
 			"state": "Total",
 			"confirmed": "9204",
 			"recovered": "1080",
-			"deaths": "329",
-			"active": "7795",
+			"deaths": "331",
+			"active": "7793",
 			"lastupdatedtime": "12/04/2020 22:35:24",
 			"statecode": "TT",
 			"deltaconfirmed": "752",
 			"deltarecovered": "108",
-			"deltadeaths": "40"
+			"deltadeaths": "42"
 		},
 		{
 			"state": "Maharashtra",
@@ -184,13 +184,13 @@
 			"state": "West Bengal",
 			"confirmed": "134",
 			"recovered": "19",
-			"deaths": "5",
-			"active": "110",
+			"deaths": "7",
+			"active": "108",
 			"lastupdatedtime": "12/04/2020 14:20:26",
 			"statecode": "WB",
 			"deltaconfirmed": "8",
 			"deltarecovered": "3",
-			"deltadeaths": "0"
+			"deltadeaths": "2"
 		},
 		{
 			"state": "Odisha",
@@ -1121,8 +1121,8 @@
 			"totalconfirmed": "9205",
 			"dailyrecovered": "108",
 			"totalrecovered": "1080",
-			"dailydeceased": "40",
-			"totaldeceased": "332"
+			"dailydeceased": "42",
+			"totaldeceased": "334"
 		}
 	]
 }
