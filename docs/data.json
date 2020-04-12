@@ -838,8 +838,8 @@
 		},
 		{
 			"date": "12 March ",
-			"dailyconfirmed": "11",
-			"totalconfirmed": "82",
+			"dailyconfirmed": "10",
+			"totalconfirmed": "81",
 			"dailyrecovered": "0",
 			"totalrecovered": "4",
 			"dailydeceased": "1",
@@ -847,7 +847,7 @@
 		},
 		{
 			"date": "13 March ",
-			"dailyconfirmed": "9",
+			"dailyconfirmed": "10",
 			"totalconfirmed": "91",
 			"dailyrecovered": "6",
 			"totalrecovered": "10",
@@ -874,8 +874,8 @@
 		},
 		{
 			"date": "16 March ",
-			"dailyconfirmed": "15",
-			"totalconfirmed": "127",
+			"dailyconfirmed": "14",
+			"totalconfirmed": "126",
 			"dailyrecovered": "1",
 			"totalrecovered": "14",
 			"dailydeceased": "0",
@@ -883,7 +883,7 @@
 		},
 		{
 			"date": "17 March ",
-			"dailyconfirmed": "19",
+			"dailyconfirmed": "20",
 			"totalconfirmed": "146",
 			"dailyrecovered": "1",
 			"totalrecovered": "15",
