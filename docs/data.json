@@ -1036,8 +1036,8 @@
 		},
 		{
 			"date": "03 April ",
-			"dailyconfirmed": "559",
-			"totalconfirmed": "3104",
+			"dailyconfirmed": "560",
+			"totalconfirmed": "3105",
 			"dailyrecovered": "39",
 			"totalrecovered": "230",
 			"dailydeceased": "14",
@@ -1046,7 +1046,7 @@
 		{
 			"date": "04 April ",
 			"dailyconfirmed": "579",
-			"totalconfirmed": "3683",
+			"totalconfirmed": "3684",
 			"dailyrecovered": "56",
 			"totalrecovered": "286",
 			"dailydeceased": "13",
@@ -1055,7 +1055,7 @@
 		{
 			"date": "05 April ",
 			"dailyconfirmed": "605",
-			"totalconfirmed": "4288",
+			"totalconfirmed": "4289",
 			"dailyrecovered": "43",
 			"totalrecovered": "329",
 			"dailydeceased": "22",
@@ -1064,7 +1064,7 @@
 		{
 			"date": "06 April ",
 			"dailyconfirmed": "489",
-			"totalconfirmed": "4777",
+			"totalconfirmed": "4778",
 			"dailyrecovered": "65",
 			"totalrecovered": "394",
 			"dailydeceased": "16",
@@ -1073,7 +1073,7 @@
 		{
 			"date": "07 April ",
 			"dailyconfirmed": "573",
-			"totalconfirmed": "5350",
+			"totalconfirmed": "5351",
 			"dailyrecovered": "75",
 			"totalrecovered": "469",
 			"dailydeceased": "27",
@@ -1082,7 +1082,7 @@
 		{
 			"date": "08 April ",
 			"dailyconfirmed": "565",
-			"totalconfirmed": "5915",
+			"totalconfirmed": "5916",
 			"dailyrecovered": "96",
 			"totalrecovered": "565",
 			"dailydeceased": "20",
@@ -1091,7 +1091,7 @@
 		{
 			"date": "09 April ",
 			"dailyconfirmed": "813",
-			"totalconfirmed": "6728",
+			"totalconfirmed": "6729",
 			"dailyrecovered": "70",
 			"totalrecovered": "635",
 			"dailydeceased": "46",
@@ -1100,7 +1100,7 @@
 		{
 			"date": "10 April ",
 			"dailyconfirmed": "871",
-			"totalconfirmed": "7599",
+			"totalconfirmed": "7600",
 			"dailyrecovered": "151",
 			"totalrecovered": "786",
 			"dailydeceased": "22",
@@ -1109,7 +1109,7 @@
 		{
 			"date": "11 April ",
 			"dailyconfirmed": "854",
-			"totalconfirmed": "8453",
+			"totalconfirmed": "8454",
 			"dailyrecovered": "186",
 			"totalrecovered": "972",
 			"dailydeceased": "40",
@@ -1117,7 +1117,7 @@
 		},
 		{
 			"date": "12 April ",
-			"dailyconfirmed": "759",
+			"dailyconfirmed": "758",
 			"totalconfirmed": "9212",
 			"dailyrecovered": "114",
 			"totalrecovered": "1086",
