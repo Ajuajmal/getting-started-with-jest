@@ -1130,8 +1130,8 @@
 			"totalconfirmed": "9241",
 			"dailyrecovered": "10",
 			"totalrecovered": "1096",
-			"dailydeceased": "0",
-			"totaldeceased": "334"
+			"dailydeceased": "1",
+			"totaldeceased": "335"
 		}
 	]
 }
