@@ -2,14 +2,14 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "9434",
-			"recovered": "1128",
+			"confirmed": "9538",
+			"recovered": "1132",
 			"deaths": "335",
-			"active": "7971",
-			"lastupdatedtime": "13/04/2020 18:16:45",
+			"active": "8071",
+			"lastupdatedtime": "13/04/2020 18:20:24",
 			"statecode": "TT",
-			"deltaconfirmed": "223",
-			"deltarecovered": "42",
+			"deltaconfirmed": "327",
+			"deltarecovered": "46",
 			"deltadeaths": "4"
 		},
 		{
@@ -38,13 +38,13 @@
 		},
 		{
 			"state": "Tamil Nadu",
-			"confirmed": "1075",
+			"confirmed": "1173",
 			"recovered": "50",
 			"deaths": "11",
-			"active": "1014",
+			"active": "1112",
 			"lastupdatedtime": "12/04/2020 18:10:24",
 			"statecode": "TN",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "98",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -147,13 +147,13 @@
 		{
 			"state": "Jammu and Kashmir",
 			"confirmed": "270",
-			"recovered": "6",
+			"recovered": "8",
 			"deaths": "4",
-			"active": "260",
+			"active": "258",
 			"lastupdatedtime": "13/04/2020 17:36:14",
 			"statecode": "JK",
 			"deltaconfirmed": "25",
-			"deltarecovered": "0",
+			"deltarecovered": "2",
 			"deltadeaths": "0"
 		},
 		{
@@ -170,14 +170,14 @@
 		},
 		{
 			"state": "Punjab",
-			"confirmed": "170",
-			"recovered": "23",
+			"confirmed": "176",
+			"recovered": "25",
 			"deaths": "12",
-			"active": "135",
-			"lastupdatedtime": "12/04/2020 18:51:07",
+			"active": "139",
+			"lastupdatedtime": "13/04/2020 18:20:25",
 			"statecode": "PB",
-			"deltaconfirmed": "0",
-			"deltarecovered": "0",
+			"deltaconfirmed": "6",
+			"deltarecovered": "2",
 			"deltadeaths": "0"
 		},
 		{
@@ -1126,10 +1126,10 @@
 		},
 		{
 			"date": "13 April ",
-			"dailyconfirmed": "223",
-			"totalconfirmed": "9435",
-			"dailyrecovered": "42",
-			"totalrecovered": "1128",
+			"dailyconfirmed": "327",
+			"totalconfirmed": "9539",
+			"dailyrecovered": "46",
+			"totalrecovered": "1132",
 			"dailydeceased": "4",
 			"totaldeceased": "338"
 		}
