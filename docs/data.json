@@ -10,7 +10,8 @@
 			"statecode": "TT",
 			"deltaconfirmed": "335",
 			"deltarecovered": "68",
-			"deltadeaths": "4"
+			"deltadeaths": "4",
+			"statenotes": ""
 		},
 		{
 			"state": "Maharashtra",
@@ -22,7 +23,8 @@
 			"statecode": "MH",
 			"deltaconfirmed": "82",
 			"deltarecovered": "0",
-			"deltadeaths": "1"
+			"deltadeaths": "1",
+			"statenotes": ""
 		},
 		{
 			"state": "Delhi",
@@ -34,7 +36,8 @@
 			"statecode": "DL",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
-			"deltadeaths": "0"
+			"deltadeaths": "0",
+			"statenotes": ""
 		},
 		{
 			"state": "Tamil Nadu",
@@ -46,7 +49,8 @@
 			"statecode": "TN",
 			"deltaconfirmed": "98",
 			"deltarecovered": "8",
-			"deltadeaths": "0"
+			"deltadeaths": "0",
+			"statenotes": ""
 		},
 		{
 			"state": "Rajasthan",
@@ -58,7 +62,8 @@
 			"statecode": "RJ",
 			"deltaconfirmed": "43",
 			"deltarecovered": "0",
-			"deltadeaths": "0"
+			"deltadeaths": "0",
+			"statenotes": ""
 		},
 		{
 			"state": "Madhya Pradesh",
@@ -70,7 +75,8 @@
 			"statecode": "MP",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
-			"deltadeaths": "1"
+			"deltadeaths": "1",
+			"statenotes": ""
 		},
 		{
 			"state": "Gujarat",
@@ -82,7 +88,8 @@
 			"statecode": "GJ",
 			"deltaconfirmed": "22",
 			"deltarecovered": "3",
-			"deltadeaths": "2"
+			"deltadeaths": "2",
+			"statenotes": ""
 		},
 		{
 			"state": "Telangana",
@@ -94,7 +101,8 @@
 			"statecode": "TG",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
-			"deltadeaths": "0"
+			"deltadeaths": "0",
+			"statenotes": ""
 		},
 		{
 			"state": "Uttar Pradesh",
@@ -106,7 +114,8 @@
 			"statecode": "UP",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
-			"deltadeaths": "0"
+			"deltadeaths": "0",
+			"statenotes": ""
 		},
 		{
 			"state": "Andhra Pradesh",
@@ -118,7 +127,8 @@
 			"statecode": "AP",
 			"deltaconfirmed": "19",
 			"deltarecovered": "0",
-			"deltadeaths": "0"
+			"deltadeaths": "0",
+			"statenotes": ""
 		},
 		{
 			"state": "Kerala",
@@ -130,7 +140,8 @@
 			"statecode": "KL",
 			"deltaconfirmed": "3",
 			"deltarecovered": "19",
-			"deltadeaths": "0"
+			"deltadeaths": "0",
+			"statenotes": ""
 		},
 		{
 			"state": "Karnataka",
@@ -142,7 +153,8 @@
 			"statecode": "KA",
 			"deltaconfirmed": "15",
 			"deltarecovered": "6",
-			"deltadeaths": "0"
+			"deltadeaths": "0",
+			"statenotes": ""
 		},
 		{
 			"state": "Jammu and Kashmir",
@@ -154,7 +166,8 @@
 			"statecode": "JK",
 			"deltaconfirmed": "25",
 			"deltarecovered": "10",
-			"deltadeaths": "0"
+			"deltadeaths": "0",
+			"statenotes": ""
 		},
 		{
 			"state": "Haryana",
@@ -166,7 +179,8 @@
 			"statecode": "HR",
 			"deltaconfirmed": "1",
 			"deltarecovered": "7",
-			"deltadeaths": "0"
+			"deltadeaths": "0",
+			"statenotes": "{\"title_note\":\"14 recovered Italian tourists included in tally\"}"
 		},
 		{
 			"state": "Punjab",
@@ -178,7 +192,8 @@
 			"statecode": "PB",
 			"deltaconfirmed": "6",
 			"deltarecovered": "2",
-			"deltadeaths": "0"
+			"deltadeaths": "0",
+			"statenotes": ""
 		},
 		{
 			"state": "West Bengal",
@@ -190,7 +205,8 @@
 			"statecode": "WB",
 			"deltaconfirmed": "18",
 			"deltarecovered": "10",
-			"deltadeaths": "0"
+			"deltadeaths": "0",
+			"statenotes": "{\"title_note\":\"As WB state bulletin only reports the number of active cases, the numbers for WB are currently updated according to https://www.mohfw.gov.in/\"}"
 		},
 		{
 			"state": "Bihar",
@@ -202,7 +218,8 @@
 			"statecode": "BR",
 			"deltaconfirmed": "1",
 			"deltarecovered": "2",
-			"deltadeaths": "0"
+			"deltadeaths": "0",
+			"statenotes": ""
 		},
 		{
 			"state": "Odisha",
@@ -214,7 +231,8 @@
 			"statecode": "OR",
 			"deltaconfirmed": "1",
 			"deltarecovered": "1",
-			"deltadeaths": "0"
+			"deltadeaths": "0",
+			"statenotes": ""
 		},
 		{
 			"state": "Uttarakhand",
@@ -226,7 +244,8 @@
 			"statecode": "UT",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
-			"deltadeaths": "0"
+			"deltadeaths": "0",
+			"statenotes": ""
 		},
 		{
 			"state": "Himachal Pradesh",
@@ -238,7 +257,8 @@
 			"statecode": "HP",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
-			"deltadeaths": "0"
+			"deltadeaths": "0",
+			"statenotes": ""
 		},
 		{
 			"state": "Chhattisgarh",
@@ -250,7 +270,8 @@
 			"statecode": "CT",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
-			"deltadeaths": "0"
+			"deltadeaths": "0",
+			"statenotes": ""
 		},
 		{
 			"state": "Assam",
@@ -262,7 +283,8 @@
 			"statecode": "AS",
 			"deltaconfirmed": "1",
 			"deltarecovered": "0",
-			"deltadeaths": "0"
+			"deltadeaths": "0",
+			"statenotes": ""
 		},
 		{
 			"state": "Chandigarh",
@@ -274,7 +296,8 @@
 			"statecode": "CH",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
-			"deltadeaths": "0"
+			"deltadeaths": "0",
+			"statenotes": ""
 		},
 		{
 			"state": "Jharkhand",
@@ -286,7 +309,8 @@
 			"statecode": "JH",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
-			"deltadeaths": "0"
+			"deltadeaths": "0",
+			"statenotes": ""
 		},
 		{
 			"state": "Ladakh",
@@ -298,7 +322,8 @@
 			"statecode": "LA",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
-			"deltadeaths": "0"
+			"deltadeaths": "0",
+			"statenotes": ""
 		},
 		{
 			"state": "Andaman and Nicobar Islands",
@@ -310,7 +335,8 @@
 			"statecode": "AN",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
-			"deltadeaths": "0"
+			"deltadeaths": "0",
+			"statenotes": ""
 		},
 		{
 			"state": "Goa",
@@ -322,7 +348,8 @@
 			"statecode": "GA",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
-			"deltadeaths": "0"
+			"deltadeaths": "0",
+			"statenotes": ""
 		},
 		{
 			"state": "Puducherry",
@@ -334,7 +361,8 @@
 			"statecode": "PY",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
-			"deltadeaths": "0"
+			"deltadeaths": "0",
+			"statenotes": ""
 		},
 		{
 			"state": "Manipur",
@@ -346,7 +374,8 @@
 			"statecode": "MN",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
-			"deltadeaths": "0"
+			"deltadeaths": "0",
+			"statenotes": ""
 		},
 		{
 			"state": "Tripura",
@@ -358,7 +387,8 @@
 			"statecode": "TR",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
-			"deltadeaths": "0"
+			"deltadeaths": "0",
+			"statenotes": ""
 		},
 		{
 			"state": "Mizoram",
@@ -370,7 +400,8 @@
 			"statecode": "MZ",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
-			"deltadeaths": "0"
+			"deltadeaths": "0",
+			"statenotes": ""
 		},
 		{
 			"state": "Arunachal Pradesh",
@@ -382,7 +413,8 @@
 			"statecode": "AR",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
-			"deltadeaths": "0"
+			"deltadeaths": "0",
+			"statenotes": ""
 		},
 		{
 			"state": "Dadra and Nagar Haveli",
@@ -394,7 +426,8 @@
 			"statecode": "DN",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
-			"deltadeaths": "0"
+			"deltadeaths": "0",
+			"statenotes": ""
 		},
 		{
 			"state": "Nagaland",
@@ -406,7 +439,8 @@
 			"statecode": "NL",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
-			"deltadeaths": "0"
+			"deltadeaths": "0",
+			"statenotes": ""
 		},
 		{
 			"state": "Daman and Diu",
@@ -418,7 +452,8 @@
 			"statecode": "DD",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
-			"deltadeaths": "0"
+			"deltadeaths": "0",
+			"statenotes": ""
 		},
 		{
 			"state": "Lakshadweep",
@@ -430,7 +465,8 @@
 			"statecode": "LD",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
-			"deltadeaths": "0"
+			"deltadeaths": "0",
+			"statenotes": ""
 		},
 		{
 			"state": "Meghalaya",
@@ -442,7 +478,8 @@
 			"statecode": "ML",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
-			"deltadeaths": "0"
+			"deltadeaths": "0",
+			"statenotes": ""
 		},
 		{
 			"state": "Sikkim",
@@ -454,7 +491,8 @@
 			"statecode": "SK",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
-			"deltadeaths": "0"
+			"deltadeaths": "0",
+			"statenotes": ""
 		}
 	],
 	"cases_time_series": [
