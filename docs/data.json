@@ -73,18 +73,6 @@
 			"deltadeaths": "0"
 		},
 		{
-			"state": "Telangana",
-			"confirmed": "531",
-			"recovered": "103",
-			"deaths": "16",
-			"active": "412",
-			"lastupdatedtime": "12/04/2020 21:50:24",
-			"statecode": "TG",
-			"deltaconfirmed": "0",
-			"deltarecovered": "0",
-			"deltadeaths": "0"
-		},
-		{
 			"state": "Gujarat",
 			"confirmed": "538",
 			"recovered": "44",
@@ -93,6 +81,18 @@
 			"lastupdatedtime": "13/04/2020 13:07:42",
 			"statecode": "GJ",
 			"deltaconfirmed": "22",
+			"deltarecovered": "0",
+			"deltadeaths": "0"
+		},
+		{
+			"state": "Telangana",
+			"confirmed": "531",
+			"recovered": "103",
+			"deaths": "16",
+			"active": "412",
+			"lastupdatedtime": "12/04/2020 21:50:24",
+			"statecode": "TG",
+			"deltaconfirmed": "0",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -133,18 +133,6 @@
 			"deltadeaths": "0"
 		},
 		{
-			"state": "Jammu and Kashmir",
-			"confirmed": "245",
-			"recovered": "6",
-			"deaths": "4",
-			"active": "235",
-			"lastupdatedtime": "12/04/2020 19:20:26",
-			"statecode": "JK",
-			"deltaconfirmed": "0",
-			"deltarecovered": "0",
-			"deltadeaths": "0"
-		},
-		{
 			"state": "Karnataka",
 			"confirmed": "247",
 			"recovered": "54",
@@ -153,6 +141,18 @@
 			"lastupdatedtime": "13/04/2020 13:07:44",
 			"statecode": "KA",
 			"deltaconfirmed": "15",
+			"deltarecovered": "0",
+			"deltadeaths": "0"
+		},
+		{
+			"state": "Jammu and Kashmir",
+			"confirmed": "245",
+			"recovered": "6",
+			"deaths": "4",
+			"active": "235",
+			"lastupdatedtime": "12/04/2020 19:20:26",
+			"statecode": "JK",
+			"deltaconfirmed": "0",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
 		},
@@ -241,18 +241,6 @@
 			"deltadeaths": "0"
 		},
 		{
-			"state": "Assam",
-			"confirmed": "29",
-			"recovered": "0",
-			"deaths": "1",
-			"active": "28",
-			"lastupdatedtime": "10/04/2020 10:20:25",
-			"statecode": "AS",
-			"deltaconfirmed": "0",
-			"deltarecovered": "0",
-			"deltadeaths": "0"
-		},
-		{
 			"state": "Chhattisgarh",
 			"confirmed": "31",
 			"recovered": "10",
@@ -260,6 +248,18 @@
 			"active": "21",
 			"lastupdatedtime": "13/04/2020 03:22:26",
 			"statecode": "CT",
+			"deltaconfirmed": "0",
+			"deltarecovered": "0",
+			"deltadeaths": "0"
+		},
+		{
+			"state": "Assam",
+			"confirmed": "29",
+			"recovered": "0",
+			"deaths": "1",
+			"active": "28",
+			"lastupdatedtime": "10/04/2020 10:20:25",
+			"statecode": "AS",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
 			"deltadeaths": "0"
