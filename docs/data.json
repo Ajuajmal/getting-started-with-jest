@@ -2,13 +2,13 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "9597",
+			"confirmed": "9598",
 			"recovered": "1154",
 			"deaths": "335",
-			"active": "8108",
-			"lastupdatedtime": "13/04/2020 19:35:26",
+			"active": "8109",
+			"lastupdatedtime": "13/04/2020 20:10:24",
 			"statecode": "TT",
-			"deltaconfirmed": "385",
+			"deltaconfirmed": "387",
 			"deltarecovered": "68",
 			"deltadeaths": "4",
 			"statenotes": ""
@@ -67,13 +67,13 @@
 		},
 		{
 			"state": "Madhya Pradesh",
-			"confirmed": "613",
+			"confirmed": "614",
 			"recovered": "41",
 			"deaths": "44",
-			"active": "528",
-			"lastupdatedtime": "13/04/2020 16:16:24",
+			"active": "529",
+			"lastupdatedtime": "13/04/2020 20:10:25",
 			"statecode": "MP",
-			"deltaconfirmed": "50",
+			"deltaconfirmed": "52",
 			"deltarecovered": "0",
 			"deltadeaths": "1",
 			"statenotes": ""
@@ -180,7 +180,7 @@
 			"deltaconfirmed": "1",
 			"deltarecovered": "7",
 			"deltadeaths": "0",
-			"statenotes": "{\"title_note\":\"14 recovered Italian tourists included in tally\"}"
+			"statenotes": "14 recovered Italian tourists included in tally"
 		},
 		{
 			"state": "Punjab",
@@ -206,7 +206,7 @@
 			"deltaconfirmed": "18",
 			"deltarecovered": "10",
 			"deltadeaths": "0",
-			"statenotes": "{\"title_note\":\"As WB state bulletin only reports the number of active cases, the numbers for WB are currently updated according to https://www.mohfw.gov.in/\"}"
+			"statenotes": "As WB state bulletin only reports the number of active cases, the numbers for WB are currently updated according to https://www.mohfw.gov.in"
 		},
 		{
 			"state": "Bihar",
@@ -258,7 +258,7 @@
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
 			"deltadeaths": "0",
-			"statenotes": ""
+			"statenotes": "Death of Tibetan refugee included"
 		},
 		{
 			"state": "Chhattisgarh",
@@ -375,7 +375,7 @@
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
 			"deltadeaths": "0",
-			"statenotes": "{\"title_note\":\"Death of Tibetan refugee included\"}"
+			"statenotes": ""
 		},
 		{
 			"state": "Tripura",
@@ -1164,8 +1164,8 @@
 		},
 		{
 			"date": "13 April ",
-			"dailyconfirmed": "385",
-			"totalconfirmed": "9597",
+			"dailyconfirmed": "387",
+			"totalconfirmed": "9599",
 			"dailyrecovered": "68",
 			"totalrecovered": "1154",
 			"dailydeceased": "4",
