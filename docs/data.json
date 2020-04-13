@@ -3,13 +3,13 @@
 		{
 			"state": "Total",
 			"confirmed": "9632",
-			"recovered": "1171",
+			"recovered": "1173",
 			"deaths": "341",
-			"active": "8120",
+			"active": "8118",
 			"lastupdatedtime": "13/04/2020 20:35:24",
 			"statecode": "TT",
 			"deltaconfirmed": "421",
-			"deltarecovered": "85",
+			"deltarecovered": "87",
 			"deltadeaths": "10",
 			"statenotes": ""
 		},
@@ -237,13 +237,13 @@
 		{
 			"state": "Uttarakhand",
 			"confirmed": "35",
-			"recovered": "5",
+			"recovered": "7",
 			"deaths": "0",
-			"active": "30",
+			"active": "28",
 			"lastupdatedtime": "08/04/2020 21:20:26",
 			"statecode": "UT",
 			"deltaconfirmed": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "2",
 			"deltadeaths": "0",
 			"statenotes": ""
 		},
@@ -1166,8 +1166,8 @@
 			"date": "13 April ",
 			"dailyconfirmed": "421",
 			"totalconfirmed": "9633",
-			"dailyrecovered": "85",
-			"totalrecovered": "1171",
+			"dailyrecovered": "87",
+			"totalrecovered": "1173",
 			"dailydeceased": "10",
 			"totaldeceased": "344"
 		}
