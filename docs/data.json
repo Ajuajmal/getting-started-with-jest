@@ -6,7 +6,7 @@
 			"recovered": "1174",
 			"deaths": "341",
 			"active": "8249",
-			"lastupdatedtime": "13/04/2020 21:30:24",
+			"lastupdatedtime": "13/04/2020 21:36:52",
 			"statecode": "TT",
 			"deltaconfirmed": "553",
 			"deltarecovered": "88",
@@ -1161,15 +1161,6 @@
 			"totalrecovered": "1086",
 			"dailydeceased": "42",
 			"totaldeceased": "334"
-		},
-		{
-			"date": "13 April ",
-			"dailyconfirmed": "553",
-			"totalconfirmed": "9765",
-			"dailyrecovered": "88",
-			"totalrecovered": "1174",
-			"dailydeceased": "10",
-			"totaldeceased": "344"
 		}
 	]
 }
