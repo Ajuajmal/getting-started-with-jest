@@ -3,9 +3,9 @@
 		{
 			"state": "Total",
 			"confirmed": "10455",
-			"recovered": "1193",
+			"recovered": "1198",
 			"deaths": "358",
-			"active": "8904",
+			"active": "8899",
 			"lastupdatedtime": "14/04/2020 10:00:24",
 			"statecode": "TT",
 			"deltaconfirmed": "1",
@@ -224,9 +224,9 @@
 		{
 			"state": "Odisha",
 			"confirmed": "56",
-			"recovered": "13",
+			"recovered": "18",
 			"deaths": "1",
-			"active": "42",
+			"active": "37",
 			"lastupdatedtime": "13/04/2020 18:35:26",
 			"statecode": "OR",
 			"deltaconfirmed": "1",
@@ -1166,8 +1166,8 @@
 			"date": "13 April ",
 			"dailyconfirmed": "1243",
 			"totalconfirmed": "10455",
-			"dailyrecovered": "107",
-			"totalrecovered": "1193",
+			"dailyrecovered": "112",
+			"totalrecovered": "1198",
 			"dailydeceased": "27",
 			"totaldeceased": "361"
 		}
