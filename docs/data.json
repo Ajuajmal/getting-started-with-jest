@@ -2,13 +2,13 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "10541",
+			"confirmed": "10586",
 			"recovered": "1205",
 			"deaths": "358",
-			"active": "8978",
+			"active": "9023",
 			"lastupdatedtime": "14/04/2020 10:40:24",
 			"statecode": "TT",
-			"deltaconfirmed": "87",
+			"deltaconfirmed": "132",
 			"deltarecovered": "7",
 			"deltadeaths": "0",
 			"statenotes": ""
@@ -79,19 +79,6 @@
 			"statenotes": ""
 		},
 		{
-			"state": "Gujarat",
-			"confirmed": "572",
-			"recovered": "54",
-			"deaths": "26",
-			"active": "492",
-			"lastupdatedtime": "13/04/2020 20:35:25",
-			"statecode": "GJ",
-			"deltaconfirmed": "0",
-			"deltarecovered": "0",
-			"deltadeaths": "0",
-			"statenotes": ""
-		},
-		{
 			"state": "Telangana",
 			"confirmed": "592",
 			"recovered": "103",
@@ -100,6 +87,19 @@
 			"lastupdatedtime": "13/04/2020 22:01:06",
 			"statecode": "TG",
 			"deltaconfirmed": "0",
+			"deltarecovered": "0",
+			"deltadeaths": "0",
+			"statenotes": ""
+		},
+		{
+			"state": "Gujarat",
+			"confirmed": "617",
+			"recovered": "54",
+			"deaths": "26",
+			"active": "537",
+			"lastupdatedtime": "13/04/2020 20:35:25",
+			"statecode": "GJ",
+			"deltaconfirmed": "45",
 			"deltarecovered": "0",
 			"deltadeaths": "0",
 			"statenotes": ""
@@ -144,19 +144,6 @@
 			"statenotes": ""
 		},
 		{
-			"state": "Karnataka",
-			"confirmed": "247",
-			"recovered": "60",
-			"deaths": "8",
-			"active": "179",
-			"lastupdatedtime": "13/04/2020 22:46:15",
-			"statecode": "KA",
-			"deltaconfirmed": "0",
-			"deltarecovered": "0",
-			"deltadeaths": "0",
-			"statenotes": ""
-		},
-		{
 			"state": "Jammu and Kashmir",
 			"confirmed": "270",
 			"recovered": "16",
@@ -164,6 +151,19 @@
 			"active": "250",
 			"lastupdatedtime": "13/04/2020 19:35:28",
 			"statecode": "JK",
+			"deltaconfirmed": "0",
+			"deltarecovered": "0",
+			"deltadeaths": "0",
+			"statenotes": ""
+		},
+		{
+			"state": "Karnataka",
+			"confirmed": "247",
+			"recovered": "60",
+			"deaths": "8",
+			"active": "179",
+			"lastupdatedtime": "13/04/2020 22:46:15",
+			"statecode": "KA",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
 			"deltadeaths": "0",
@@ -183,19 +183,6 @@
 			"statenotes": "14 recovered Italian tourists included in tally, 1 death in Ambala unaccounted."
 		},
 		{
-			"state": "Punjab",
-			"confirmed": "176",
-			"recovered": "25",
-			"deaths": "12",
-			"active": "139",
-			"lastupdatedtime": "13/04/2020 18:20:25",
-			"statecode": "PB",
-			"deltaconfirmed": "0",
-			"deltarecovered": "0",
-			"deltadeaths": "0",
-			"statenotes": ""
-		},
-		{
 			"state": "West Bengal",
 			"confirmed": "190",
 			"recovered": "36",
@@ -205,6 +192,19 @@
 			"statecode": "WB",
 			"deltaconfirmed": "38",
 			"deltarecovered": "7",
+			"deltadeaths": "0",
+			"statenotes": ""
+		},
+		{
+			"state": "Punjab",
+			"confirmed": "176",
+			"recovered": "25",
+			"deaths": "12",
+			"active": "139",
+			"lastupdatedtime": "13/04/2020 18:20:25",
+			"statecode": "PB",
+			"deltaconfirmed": "0",
+			"deltarecovered": "0",
 			"deltadeaths": "0",
 			"statenotes": "As WB state bulletin only reports the number of active cases, the numbers for WB are currently updated according to https://www.mohfw.gov.in"
 		},
@@ -287,19 +287,6 @@
 			"statenotes": ""
 		},
 		{
-			"state": "Chandigarh",
-			"confirmed": "21",
-			"recovered": "7",
-			"deaths": "0",
-			"active": "14",
-			"lastupdatedtime": "10/04/2020 18:10:27",
-			"statecode": "CH",
-			"deltaconfirmed": "0",
-			"deltarecovered": "0",
-			"deltadeaths": "0",
-			"statenotes": ""
-		},
-		{
 			"state": "Jharkhand",
 			"confirmed": "24",
 			"recovered": "0",
@@ -307,6 +294,19 @@
 			"active": "22",
 			"lastupdatedtime": "13/04/2020 20:50:25",
 			"statecode": "JH",
+			"deltaconfirmed": "0",
+			"deltarecovered": "0",
+			"deltadeaths": "0",
+			"statenotes": ""
+		},
+		{
+			"state": "Chandigarh",
+			"confirmed": "21",
+			"recovered": "7",
+			"deaths": "0",
+			"active": "14",
+			"lastupdatedtime": "10/04/2020 18:10:27",
+			"statecode": "CH",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
 			"deltadeaths": "0",
@@ -443,6 +443,19 @@
 			"statenotes": ""
 		},
 		{
+			"state": "Meghalaya",
+			"confirmed": "1",
+			"recovered": "0",
+			"deaths": "0",
+			"active": "1",
+			"lastupdatedtime": "13/04/2020 22:52:41",
+			"statecode": "ML",
+			"deltaconfirmed": "0",
+			"deltarecovered": "0",
+			"deltadeaths": "0",
+			"statenotes": ""
+		},
+		{
 			"state": "Daman and Diu",
 			"confirmed": "0",
 			"recovered": "0",
@@ -463,19 +476,6 @@
 			"active": "0",
 			"lastupdatedtime": "26/03/2020 07:19:29",
 			"statecode": "LD",
-			"deltaconfirmed": "0",
-			"deltarecovered": "0",
-			"deltadeaths": "0",
-			"statenotes": ""
-		},
-		{
-			"state": "Meghalaya",
-			"confirmed": "1",
-			"recovered": "0",
-			"deaths": "0",
-			"active": "1",
-			"lastupdatedtime": "13/04/2020 22:52:41",
-			"statecode": "ML",
 			"deltaconfirmed": "0",
 			"deltarecovered": "0",
 			"deltadeaths": "0",
