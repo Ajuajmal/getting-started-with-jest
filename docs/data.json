@@ -2,13 +2,13 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "10776",
+			"confirmed": "10778",
 			"recovered": "1226",
 			"deaths": "361",
-			"active": "9189",
-			"lastupdatedtime": "14/04/2020 15:45:59",
+			"active": "9191",
+			"lastupdatedtime": "14/04/2020 16:50:24",
 			"statecode": "TT",
-			"deltaconfirmed": "322",
+			"deltaconfirmed": "324",
 			"deltarecovered": "28",
 			"deltadeaths": "3",
 			"statenotes": ""
@@ -171,13 +171,13 @@
 		},
 		{
 			"state": "Haryana",
-			"confirmed": "196",
+			"confirmed": "198",
 			"recovered": "51",
 			"deaths": "3",
-			"active": "142",
-			"lastupdatedtime": "13/04/2020 18:40:26",
+			"active": "144",
+			"lastupdatedtime": "14/04/2020 16:50:25",
 			"statecode": "HR",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "2",
 			"deltarecovered": "0",
 			"deltadeaths": "0",
 			"statenotes": "14 recovered Italian tourists included in tally, 1 death in Ambala unaccounted."
