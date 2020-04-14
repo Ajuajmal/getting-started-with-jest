@@ -3,13 +3,13 @@
 		{
 			"state": "Total",
 			"confirmed": "11487",
-			"recovered": "1346",
+			"recovered": "1359",
 			"deaths": "393",
-			"active": "9748",
+			"active": "9735",
 			"lastupdatedtime": "14/04/2020 23:20:26",
 			"statecode": "TT",
 			"deltaconfirmed": "1033",
-			"deltarecovered": "148",
+			"deltarecovered": "161",
 			"deltadeaths": "35",
 			"statenotes": ""
 		},
@@ -68,13 +68,13 @@
 		{
 			"state": "Madhya Pradesh",
 			"confirmed": "741",
-			"recovered": "51",
+			"recovered": "64",
 			"deaths": "53",
-			"active": "637",
+			"active": "624",
 			"lastupdatedtime": "14/04/2020 23:20:27",
 			"statecode": "MP",
 			"deltaconfirmed": "127",
-			"deltarecovered": "0",
+			"deltarecovered": "13",
 			"deltadeaths": "3",
 			"statenotes": ""
 		},
