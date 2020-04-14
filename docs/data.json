@@ -3,13 +3,13 @@
 		{
 			"state": "Total",
 			"confirmed": "11487",
-			"recovered": "1359",
+			"recovered": "1361",
 			"deaths": "393",
-			"active": "9735",
+			"active": "9733",
 			"lastupdatedtime": "14/04/2020 23:20:26",
 			"statecode": "TT",
 			"deltaconfirmed": "1033",
-			"deltarecovered": "161",
+			"deltarecovered": "163",
 			"deltadeaths": "35",
 			"statenotes": ""
 		},
@@ -198,13 +198,13 @@
 		{
 			"state": "Punjab",
 			"confirmed": "184",
-			"recovered": "25",
+			"recovered": "27",
 			"deaths": "13",
-			"active": "146",
+			"active": "144",
 			"lastupdatedtime": "14/04/2020 22:51:55",
 			"statecode": "PB",
 			"deltaconfirmed": "8",
-			"deltarecovered": "0",
+			"deltarecovered": "2",
 			"deltadeaths": "1",
 			"statenotes": "As WB state bulletin only reports the number of active cases, the numbers for WB are currently updated according to https://www.mohfw.gov.in"
 		},
@@ -1175,8 +1175,8 @@
 			"date": "14 April ",
 			"dailyconfirmed": "1033",
 			"totalconfirmed": "11488",
-			"dailyrecovered": "161",
-			"totalrecovered": "1359",
+			"dailyrecovered": "163",
+			"totalrecovered": "1361",
 			"dailydeceased": "35",
 			"totaldeceased": "396"
 		}
