@@ -8,9 +8,9 @@
 			"active": "8902",
 			"lastupdatedtime": "13/04/2020 23:10:25",
 			"statecode": "TT",
-			"deltaconfirmed": "1242",
-			"deltarecovered": "107",
-			"deltadeaths": "27",
+			"deltaconfirmed": "0",
+			"deltarecovered": "0",
+			"deltadeaths": "0",
 			"statenotes": ""
 		},
 		{
@@ -21,9 +21,9 @@
 			"active": "1945",
 			"lastupdatedtime": "13/04/2020 23:10:27",
 			"statecode": "MH",
-			"deltaconfirmed": "352",
-			"deltarecovered": "12",
-			"deltadeaths": "11",
+			"deltaconfirmed": "0",
+			"deltarecovered": "0",
+			"deltadeaths": "0",
 			"statenotes": ""
 		},
 		{
@@ -34,9 +34,9 @@
 			"active": "1451",
 			"lastupdatedtime": "13/04/2020 22:46:07",
 			"statecode": "DL",
-			"deltaconfirmed": "356",
-			"deltarecovered": "3",
-			"deltadeaths": "4",
+			"deltaconfirmed": "0",
+			"deltarecovered": "0",
+			"deltadeaths": "0",
 			"statenotes": ""
 		},
 		{
@@ -47,8 +47,8 @@
 			"active": "1104",
 			"lastupdatedtime": "13/04/2020 18:35:25",
 			"statecode": "TN",
-			"deltaconfirmed": "98",
-			"deltarecovered": "8",
+			"deltaconfirmed": "0",
+			"deltarecovered": "0",
 			"deltadeaths": "0",
 			"statenotes": ""
 		},
@@ -60,7 +60,7 @@
 			"active": "765",
 			"lastupdatedtime": "13/04/2020 21:20:25",
 			"statecode": "RJ",
-			"deltaconfirmed": "93",
+			"deltaconfirmed": "0",
 			"deltarecovered": "0",
 			"deltadeaths": "0",
 			"statenotes": ""
@@ -73,9 +73,9 @@
 			"active": "513",
 			"lastupdatedtime": "13/04/2020 20:20:25",
 			"statecode": "MP",
-			"deltaconfirmed": "52",
-			"deltarecovered": "10",
-			"deltadeaths": "7",
+			"deltaconfirmed": "0",
+			"deltarecovered": "0",
+			"deltadeaths": "0",
 			"statenotes": ""
 		},
 		{
@@ -86,9 +86,9 @@
 			"active": "492",
 			"lastupdatedtime": "13/04/2020 20:35:25",
 			"statecode": "GJ",
-			"deltaconfirmed": "56",
-			"deltarecovered": "10",
-			"deltadeaths": "2",
+			"deltaconfirmed": "0",
+			"deltarecovered": "0",
+			"deltadeaths": "0",
 			"statenotes": ""
 		},
 		{
@@ -99,9 +99,9 @@
 			"active": "472",
 			"lastupdatedtime": "13/04/2020 22:01:06",
 			"statecode": "TG",
-			"deltaconfirmed": "61",
+			"deltaconfirmed": "0",
 			"deltarecovered": "0",
-			"deltadeaths": "1",
+			"deltadeaths": "0",
 			"statenotes": ""
 		},
 		{
@@ -112,8 +112,8 @@
 			"active": "504",
 			"lastupdatedtime": "13/04/2020 21:38:02",
 			"statecode": "UP",
-			"deltaconfirmed": "75",
-			"deltarecovered": "4",
+			"deltaconfirmed": "0",
+			"deltarecovered": "0",
 			"deltadeaths": "0",
 			"statenotes": ""
 		},
@@ -125,7 +125,7 @@
 			"active": "420",
 			"lastupdatedtime": "12/04/2020 19:20:25",
 			"statecode": "AP",
-			"deltaconfirmed": "19",
+			"deltaconfirmed": "0",
 			"deltarecovered": "0",
 			"deltadeaths": "0",
 			"statenotes": ""
@@ -138,8 +138,8 @@
 			"active": "178",
 			"lastupdatedtime": "13/04/2020 18:17:35",
 			"statecode": "KL",
-			"deltaconfirmed": "3",
-			"deltarecovered": "19",
+			"deltaconfirmed": "0",
+			"deltarecovered": "0",
 			"deltadeaths": "0",
 			"statenotes": ""
 		},
@@ -151,9 +151,9 @@
 			"active": "179",
 			"lastupdatedtime": "13/04/2020 22:46:15",
 			"statecode": "KA",
-			"deltaconfirmed": "15",
-			"deltarecovered": "6",
-			"deltadeaths": "2",
+			"deltaconfirmed": "0",
+			"deltarecovered": "0",
+			"deltadeaths": "0",
 			"statenotes": ""
 		},
 		{
@@ -164,8 +164,8 @@
 			"active": "250",
 			"lastupdatedtime": "13/04/2020 19:35:28",
 			"statecode": "JK",
-			"deltaconfirmed": "25",
-			"deltarecovered": "10",
+			"deltaconfirmed": "0",
+			"deltarecovered": "0",
 			"deltadeaths": "0",
 			"statenotes": ""
 		},
@@ -177,8 +177,8 @@
 			"active": "142",
 			"lastupdatedtime": "13/04/2020 18:40:26",
 			"statecode": "HR",
-			"deltaconfirmed": "1",
-			"deltarecovered": "7",
+			"deltaconfirmed": "0",
+			"deltarecovered": "0",
 			"deltadeaths": "0",
 			"statenotes": "14 recovered Italian tourists included in tally, 1 death in Ambala unaccounted."
 		},
@@ -190,8 +190,8 @@
 			"active": "139",
 			"lastupdatedtime": "13/04/2020 18:20:25",
 			"statecode": "PB",
-			"deltaconfirmed": "6",
-			"deltarecovered": "2",
+			"deltaconfirmed": "0",
+			"deltarecovered": "0",
 			"deltadeaths": "0",
 			"statenotes": ""
 		},
@@ -203,8 +203,8 @@
 			"active": "116",
 			"lastupdatedtime": "13/04/2020 09:52:25",
 			"statecode": "WB",
-			"deltaconfirmed": "18",
-			"deltarecovered": "10",
+			"deltaconfirmed": "0",
+			"deltarecovered": "0",
 			"deltadeaths": "0",
 			"statenotes": "As WB state bulletin only reports the number of active cases, the numbers for WB are currently updated according to https://www.mohfw.gov.in"
 		},
@@ -216,8 +216,8 @@
 			"active": "37",
 			"lastupdatedtime": "13/04/2020 22:46:16",
 			"statecode": "BR",
-			"deltaconfirmed": "2",
-			"deltarecovered": "2",
+			"deltaconfirmed": "0",
+			"deltarecovered": "0",
 			"deltadeaths": "0",
 			"statenotes": ""
 		},
@@ -229,8 +229,8 @@
 			"active": "41",
 			"lastupdatedtime": "13/04/2020 18:35:26",
 			"statecode": "OR",
-			"deltaconfirmed": "1",
-			"deltarecovered": "1",
+			"deltaconfirmed": "0",
+			"deltarecovered": "0",
 			"deltadeaths": "0",
 			"statenotes": ""
 		},
@@ -243,7 +243,7 @@
 			"lastupdatedtime": "08/04/2020 21:20:26",
 			"statecode": "UT",
 			"deltaconfirmed": "0",
-			"deltarecovered": "2",
+			"deltarecovered": "0",
 			"deltadeaths": "0",
 			"statenotes": ""
 		},
@@ -281,7 +281,7 @@
 			"active": "29",
 			"lastupdatedtime": "10/04/2020 10:20:25",
 			"statecode": "AS",
-			"deltaconfirmed": "1",
+			"deltaconfirmed": "0",
 			"deltarecovered": "0",
 			"deltadeaths": "0",
 			"statenotes": ""
@@ -307,7 +307,7 @@
 			"active": "22",
 			"lastupdatedtime": "13/04/2020 20:50:25",
 			"statecode": "JH",
-			"deltaconfirmed": "5",
+			"deltaconfirmed": "0",
 			"deltarecovered": "0",
 			"deltadeaths": "0",
 			"statenotes": ""
@@ -320,8 +320,8 @@
 			"active": "5",
 			"lastupdatedtime": "13/04/2020 21:15:27",
 			"statecode": "LA",
-			"deltaconfirmed": "2",
-			"deltarecovered": "1",
+			"deltaconfirmed": "0",
+			"deltarecovered": "0",
 			"deltadeaths": "0",
 			"statenotes": ""
 		},
@@ -476,7 +476,7 @@
 			"active": "1",
 			"lastupdatedtime": "13/04/2020 22:52:41",
 			"statecode": "ML",
-			"deltaconfirmed": "1",
+			"deltaconfirmed": "0",
 			"deltarecovered": "0",
 			"deltadeaths": "0",
 			"statenotes": ""
