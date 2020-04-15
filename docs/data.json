@@ -2,13 +2,13 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "11625",
+			"confirmed": "11637",
 			"recovered": "1366",
 			"deaths": "398",
-			"active": "9861",
+			"active": "9873",
 			"lastupdatedtime": "15/04/2020 13:50:24",
 			"statecode": "TT",
-			"deltaconfirmed": "136",
+			"deltaconfirmed": "148",
 			"deltarecovered": "1",
 			"deltadeaths": "3",
 			"statenotes": ""
@@ -54,13 +54,13 @@
 		},
 		{
 			"state": "Rajasthan",
-			"confirmed": "1034",
+			"confirmed": "1046",
 			"recovered": "147",
 			"deaths": "11",
-			"active": "876",
+			"active": "888",
 			"lastupdatedtime": "15/04/2020 13:50:25",
 			"statecode": "RJ",
-			"deltaconfirmed": "29",
+			"deltaconfirmed": "41",
 			"deltarecovered": "0",
 			"deltadeaths": "0",
 			"statenotes": ""
