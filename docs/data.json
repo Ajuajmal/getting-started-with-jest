@@ -6,11 +6,11 @@
 			"recovered": "1485",
 			"deaths": "417",
 			"active": "10410",
-			"lastupdatedtime": "15/04/2020 20:42:16",
+			"lastupdatedtime": "15/04/2020 20:45:57",
 			"statecode": "TT",
 			"deltaconfirmed": "823",
-			"deltarecovered": "80",
-			"deltadeaths": "10",
+			"deltarecovered": "120",
+			"deltadeaths": "22",
 			"statenotes": ""
 		},
 		{
@@ -19,11 +19,11 @@
 			"recovered": "295",
 			"deaths": "187",
 			"active": "2434",
-			"lastupdatedtime": "15/04/2020 20:25:26",
+			"lastupdatedtime": "15/04/2020 20:42:52",
 			"statecode": "MH",
 			"deltaconfirmed": "232",
-			"deltarecovered": "0",
-			"deltadeaths": "0",
+			"deltarecovered": "36",
+			"deltadeaths": "9",
 			"statenotes": ""
 		},
 		{
@@ -71,7 +71,7 @@
 			"recovered": "64",
 			"deaths": "53",
 			"active": "821",
-			"lastupdatedtime": "14/04/2020 23:20:27",
+			"lastupdatedtime": "15/04/2020 20:45:57",
 			"statecode": "MP",
 			"deltaconfirmed": "197",
 			"deltarecovered": "0",
@@ -126,8 +126,8 @@
 			"lastupdatedtime": "15/04/2020 12:51:21",
 			"statecode": "AP",
 			"deltaconfirmed": "41",
-			"deltarecovered": "0",
-			"deltadeaths": "0",
+			"deltarecovered": "4",
+			"deltadeaths": "3",
 			"statenotes": ""
 		},
 		{
