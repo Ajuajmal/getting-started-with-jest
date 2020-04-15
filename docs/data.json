@@ -2,10 +2,10 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "11884",
+			"confirmed": "11887",
 			"recovered": "1430",
 			"deaths": "405",
-			"active": "10049",
+			"active": "10052",
 			"lastupdatedtime": "15/04/2020 18:40:24",
 			"statecode": "TT",
 			"deltaconfirmed": "395",
@@ -145,10 +145,10 @@
 		},
 		{
 			"state": "Jammu and Kashmir",
-			"confirmed": "278",
+			"confirmed": "281",
 			"recovered": "30",
 			"deaths": "4",
-			"active": "244",
+			"active": "247",
 			"lastupdatedtime": "14/04/2020 19:50:25",
 			"statecode": "JK",
 			"deltaconfirmed": "0",
