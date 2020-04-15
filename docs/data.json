@@ -2,13 +2,13 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "12045",
+			"confirmed": "12312",
 			"recovered": "1485",
 			"deaths": "417",
-			"active": "10143",
-			"lastupdatedtime": "15/04/2020 20:25:24",
+			"active": "10410",
+			"lastupdatedtime": "15/04/2020 20:42:16",
 			"statecode": "TT",
-			"deltaconfirmed": "555",
+			"deltaconfirmed": "823",
 			"deltarecovered": "80",
 			"deltadeaths": "10",
 			"statenotes": ""
@@ -67,13 +67,13 @@
 		},
 		{
 			"state": "Madhya Pradesh",
-			"confirmed": "742",
+			"confirmed": "938",
 			"recovered": "64",
 			"deaths": "53",
-			"active": "625",
+			"active": "821",
 			"lastupdatedtime": "14/04/2020 23:20:27",
 			"statecode": "MP",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "197",
 			"deltarecovered": "0",
 			"deltadeaths": "0",
 			"statenotes": ""
@@ -93,13 +93,13 @@
 		},
 		{
 			"state": "Gujarat",
-			"confirmed": "695",
+			"confirmed": "766",
 			"recovered": "59",
 			"deaths": "30",
-			"active": "606",
+			"active": "677",
 			"lastupdatedtime": "15/04/2020 13:10:27",
 			"statecode": "GJ",
-			"deltaconfirmed": "45",
+			"deltaconfirmed": "116",
 			"deltarecovered": "0",
 			"deltadeaths": "2",
 			"statenotes": ""
