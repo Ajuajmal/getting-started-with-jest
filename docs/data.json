@@ -3,13 +3,13 @@
 		{
 			"state": "Total",
 			"confirmed": "11510",
-			"recovered": "1361",
+			"recovered": "1363",
 			"deaths": "394",
-			"active": "9755",
-			"lastupdatedtime": "15/04/2020 10:45:24",
+			"active": "9753",
+			"lastupdatedtime": "15/04/2020 10:55:24",
 			"statecode": "TT",
 			"deltaconfirmed": "23",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"deltadeaths": "1",
 			"statenotes": ""
 		},
@@ -185,13 +185,13 @@
 		{
 			"state": "West Bengal",
 			"confirmed": "213",
-			"recovered": "36",
+			"recovered": "37",
 			"deaths": "7",
-			"active": "170",
-			"lastupdatedtime": "14/04/2020 10:40:25",
+			"active": "169",
+			"lastupdatedtime": "15/04/2020 10:55:25",
 			"statecode": "WB",
 			"deltaconfirmed": "23",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"deltadeaths": "0",
 			"statenotes": ""
 		},
@@ -250,9 +250,9 @@
 		{
 			"state": "Chhattisgarh",
 			"confirmed": "33",
-			"recovered": "10",
+			"recovered": "11",
 			"deaths": "0",
-			"active": "23",
+			"active": "22",
 			"lastupdatedtime": "14/04/2020 18:10:35",
 			"statecode": "CT",
 			"deltaconfirmed": "0",
@@ -1175,8 +1175,8 @@
 			"date": "14 April ",
 			"dailyconfirmed": "1033",
 			"totalconfirmed": "11488",
-			"dailyrecovered": "163",
-			"totalrecovered": "1361",
+			"dailyrecovered": "166",
+			"totalrecovered": "1364",
 			"dailydeceased": "35",
 			"totaldeceased": "396"
 		}
